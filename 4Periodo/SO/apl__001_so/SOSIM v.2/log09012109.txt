@@ -1,0 +1,720 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+70 : Processo 1011045 alocacao de blocos no pagefile
+70 : Processo 1011045 HwPF - Executável0
+70 : Processo 1011045 criado
+71 : Processo 1011045 Pronto -> Exec
+72 : Processo 1011045 Exec -> Pronto por tempo
+73 : Processo 1011045 Pronto -> Exec
+74 : Processo 1011045 Exec -> Pronto por tempo
+74 : Processo 1015156 alocacao de blocos no pagefile
+74 : Processo 1015156 HwPF - Executável0
+74 : Processo 1015156 criado
+75 : Processo 1011045 Pronto -> Exec
+76 : Processo 1011045 Exec -> Pronto por tempo
+77 : Processo 1015156 Pronto -> Exec
+77 : Processo 1015156 Exec -> I/O
+78 : Processo 1011045 Pronto -> Exec
+79 : Processo 1011045 Exec -> Pronto por tempo
+80 : Processo 1011045 Pronto -> Exec
+81 : Processo 1011045 Exec -> Pronto por tempo
+82 : Processo 1011045 Pronto -> Exec
+83 : Processo 1011045 Exec -> Pronto por tempo
+84 : Processo 1011045 Pronto -> Exec
+85 : Processo 1011045 Exec -> Pronto por tempo
+86 : Processo 1011045 Pronto -> Exec
+87 : Processo 1011045 Exec -> Pronto por tempo
+87 : Processo 1015156 Aumento de prioridade +1
+88 : Processo 1015156 Pronto -> Exec
+89 : Processo 1015156 Exec -> Pronto por tempo
+90 : Processo 1011045 Pronto -> Exec
+91 : Processo 1011045 Exec -> Page Fault1
+92 : Processo 1015156 Pronto -> Exec
+92 : Processo 1015156 Exec -> I/O
+101 : Processo 1011045 Aumento de prioridade +2
+101 : Processo 1011045 HwPF - Executável1
+102 : Processo 1011045 Pronto -> Exec
+103 : Processo 1011045 Exec -> Pronto por tempo
+104 : Processo 1011045 Pronto -> Exec
+105 : Processo 1011045 Exec -> Pronto por tempo
+106 : Processo 1011045 Pronto -> Exec
+107 : Processo 1011045 Exec -> Pronto por tempo
+108 : Processo 1011045 Pronto -> Exec
+109 : Processo 1011045 Exec -> Pronto por tempo
+110 : Processo 1011045 Pronto -> Exec
+111 : Processo 1011045 Exec -> Pronto por tempo
+111 : Processo 1015156 Aumento de prioridade +1
+112 : Processo 1015156 Pronto -> Exec
+112 : Processo 1015156 Exec -> I/O
+113 : Processo 1011045 Pronto -> Exec
+114 : Processo 1011045 Exec -> Pronto por tempo
+115 : Processo 1011045 Pronto -> Exec
+116 : Processo 1011045 Exec -> Pronto por tempo
+117 : Processo 1011045 Pronto -> Exec
+118 : Processo 1011045 Exec -> Pronto por tempo
+119 : Processo 1011045 Pronto -> Exec
+120 : Processo 1011045 Exec -> Page Fault2
+122 : Processo 1015156 Aumento de prioridade +1
+123 : Processo 1015156 Pronto -> Exec
+123 : Processo 1015156 Exec -> I/O
+132 : Processo 1011045 Aumento de prioridade +2
+132 : Processo 1011045 HwPF - Executável2
+133 : Processo 1011045 Pronto -> Exec
+134 : Processo 1011045 Exec -> Pronto por tempo
+135 : Processo 1011045 Pronto -> Exec
+136 : Processo 1011045 Exec -> Pronto por tempo
+137 : Processo 1011045 Pronto -> Exec
+138 : Processo 1011045 Exec -> Pronto por tempo
+139 : Processo 1011045 Pronto -> Exec
+140 : Processo 1011045 Exec -> Pronto por tempo
+141 : Processo 1011045 Pronto -> Exec
+142 : Processo 1011045 Exec -> Pronto por tempo
+142 : Processo 1015156 Aumento de prioridade +1
+143 : Processo 1015156 Pronto -> Exec
+143 : Processo 1015156 Exec -> I/O
+144 : Processo 1011045 Pronto -> Exec
+145 : Processo 1011045 Exec -> Pronto por tempo
+146 : Processo 1011045 Pronto -> Exec
+147 : Processo 1011045 Exec -> Pronto por tempo
+148 : Processo 1011045 Pronto -> Exec
+149 : Processo 1011045 Exec -> Pronto por tempo
+150 : Processo 1011045 Pronto -> Exec
+151 : Processo 1011045 Exec -> Page Fault3
+153 : Processo 1015156 Aumento de prioridade +1
+154 : Processo 1015156 Pronto -> Exec
+154 : Processo 1015156 Exec -> I/O
+163 : Processo 1011045 Aumento de prioridade +2
+163 : Processo 1011045 HwPF - Executável3
+164 : Processo 1011045 Pronto -> Exec
+165 : Processo 1011045 Exec -> Pronto por tempo
+166 : Processo 1011045 Pronto -> Exec
+167 : Processo 1011045 Exec -> Pronto por tempo
+168 : Processo 1011045 Pronto -> Exec
+169 : Processo 1011045 Exec -> Pronto por tempo
+170 : Processo 1011045 Pronto -> Exec
+171 : Processo 1011045 Exec -> Pronto por tempo
+172 : Processo 1011045 Pronto -> Exec
+173 : Processo 1011045 Exec -> Pronto por tempo
+173 : Processo 1015156 Aumento de prioridade +1
+174 : Processo 1015156 Pronto -> Exec
+174 : Processo 1015156 Exec -> I/O
+175 : Processo 1011045 Pronto -> Exec
+176 : Processo 1011045 Exec -> Pronto por tempo
+177 : Processo 1011045 Pronto -> Exec
+178 : Processo 1011045 Exec -> Pronto por tempo
+179 : Processo 1011045 Pronto -> Exec
+180 : Processo 1011045 Exec -> Pronto por tempo
+181 : Processo 1011045 Pronto -> Exec
+182 : Processo 1011045 Exec -> Page Fault4
+184 : Processo 1015156 Aumento de prioridade +1
+185 : Processo 1015156 Pronto -> Exec
+186 : Processo 1015156 Exec -> Page Fault1
+194 : Processo 1011045 Aumento de prioridade +2
+194 : Processo 1011045 HwPF - Executável4
+195 : Processo 1011045 Pronto -> Exec
+196 : Processo 1011045 Exec -> Pronto por tempo
+197 : Processo 1011045 Pronto -> Exec
+198 : Processo 1011045 Exec -> Pronto por tempo
+199 : Processo 1011045 Pronto -> Exec
+200 : Processo 1011045 Exec -> Pronto por tempo
+201 : Processo 1011045 Pronto -> Exec
+202 : Processo 1011045 Exec -> Pronto por tempo
+203 : Processo 1011045 Pronto -> Exec
+204 : Processo 1011045 Exec -> Pronto por tempo
+204 : Processo 1015156 Aumento de prioridade +2
+204 : Processo 1015156 HwPF - Executável1
+205 : Processo 1015156 Pronto -> Exec
+205 : Processo 1015156 Exec -> I/O
+206 : Processo 1011045 Pronto -> Exec
+207 : Processo 1011045 Exec -> Pronto por tempo
+208 : Processo 1011045 Pronto -> Exec
+209 : Processo 1011045 Exec -> Pronto por tempo
+210 : Processo 1011045 Pronto -> Exec
+211 : Processo 1011045 Exec -> Pronto por tempo
+212 : Processo 1011045 Pronto -> Exec
+213 : Processo 1011045 Exec -> Page Fault0
+215 : Processo 1015156 Aumento de prioridade +1
+216 : Processo 1015156 Pronto -> Exec
+216 : Processo 1015156 Exec -> I/O
+225 : Processo 1011045 Aumento de prioridade +2
+225 : Processo 1011045 SwPF - LPM0
+226 : Processo 1011045 Pronto -> Exec
+227 : Processo 1011045 Exec -> Pronto por tempo
+228 : Processo 1011045 Pronto -> Exec
+229 : Processo 1011045 Exec -> Pronto por tempo
+230 : Processo 1011045 Pronto -> Exec
+231 : Processo 1011045 Exec -> Pronto por tempo
+232 : Processo 1011045 Pronto -> Exec
+233 : Processo 1011045 Exec -> Pronto por tempo
+234 : Processo 1011045 Pronto -> Exec
+235 : Processo 1011045 Exec -> Pronto por tempo
+236 : Processo 1011045 Pronto -> Exec
+237 : Processo 1011045 Exec -> Pronto por tempo
+238 : Processo 1011045 Pronto -> Exec
+239 : Processo 1011045 Exec -> Pronto por tempo
+240 : Processo 1011045 Pronto -> Exec
+241 : Processo 1011045 Exec -> Pronto por tempo
+242 : Processo 1011045 Pronto -> Exec
+242 : Processo 1015156 Aumento de prioridade +1
+243 : Processo 1011045 Exec -> Page Fault1
+243 : Processo 1011045 Aumento de prioridade +2
+243 : Processo 1011045 SwPF - LPL1
+244 : Processo 1011045 Pronto -> Exec
+245 : Processo 1011045 Exec -> Pronto por tempo
+246 : Processo 1015156 Pronto -> Exec
+246 : Processo 1015156 Exec -> I/O
+246 : Processo 1015156 Aumento de prioridade +1
+247 : Processo 1015156 Pronto -> Exec
+247 : Processo 1015156 Exec -> I/O
+247 : Processo 1015156 Aumento de prioridade +1
+248 : Processo 1015156 Pronto -> Exec
+248 : Processo 1015156 Exec -> I/O
+248 : Processo 1015156 Aumento de prioridade +1
+249 : Processo 1015156 Pronto -> Exec
+249 : Processo 1015156 Exec -> I/O
+250 : Processo 1011045 Pronto -> Exec
+250 : Processo 1015156 Aumento de prioridade +1
+251 : Processo 1011045 Exec -> Pronto por tempo
+252 : Processo 1015156 Pronto -> Exec
+252 : Processo 1015156 Exec -> I/O
+252 : Processo 1015156 Aumento de prioridade +1
+253 : Processo 1015156 Pronto -> Exec
+253 : Processo 1015156 Exec -> I/O
+254 : Processo 1011045 Pronto -> Exec
+255 : Processo 1011045 Exec -> Pronto por tempo
+255 : Processo 1015156 Aumento de prioridade +1
+256 : Processo 1015156 Pronto -> Exec
+257 : Processo 1015156 Exec -> Page Fault2
+258 : Processo 1011045 Pronto -> Exec
+259 : Processo 1011045 Exec -> Pronto por tempo
+260 : Processo 1011045 Pronto -> Exec
+260 : Processo 1015156 Aumento de prioridade +2
+260 : Processo 1015156 HwPF - Executável2
+261 : Processo 1011045 Exec -> Pronto por tempo
+262 : Processo 1015156 Pronto -> Exec
+262 : Processo 1015156 Exec -> I/O
+263 : Processo 1011045 Pronto -> Exec
+264 : Processo 1011045 Exec -> Pronto por tempo
+265 : Processo 1011045 Pronto -> Exec
+266 : Processo 1011045 Exec -> Pronto por tempo
+267 : Processo 1011045 Pronto -> Exec
+268 : Processo 1011045 Exec -> Pronto por tempo
+269 : Processo 1011045 Pronto -> Exec
+270 : Processo 1011045 Exec -> Page Fault2
+271 : Processo 1015156 Aumento de prioridade +1
+272 : Processo 1015156 Pronto -> Exec
+272 : Processo 1015156 Exec -> I/O
+281 : Processo 1011045 Aumento de prioridade +2
+281 : Processo 1011045 SwPF - LPL2
+283 : Processo 1011045 Pronto -> Exec
+284 : Processo 1011045 Exec -> Pronto por tempo
+285 : Processo 1011045 Pronto -> Exec
+286 : Processo 1011045 Exec -> Pronto por tempo
+287 : Processo 1011045 Pronto -> Exec
+288 : Processo 1011045 Exec -> Pronto por tempo
+289 : Processo 1011045 Pronto -> Exec
+290 : Processo 1011045 Exec -> Pronto por tempo
+291 : Processo 1011045 Pronto -> Exec
+292 : Processo 1011045 Exec -> Pronto por tempo
+292 : Processo 1015156 Aumento de prioridade +1
+293 : Processo 1015156 Pronto -> Exec
+293 : Processo 1015156 Exec -> I/O
+294 : Processo 1011045 Pronto -> Exec
+295 : Processo 1011045 Exec -> Pronto por tempo
+296 : Processo 1011045 Pronto -> Exec
+297 : Processo 1011045 Exec -> Pronto por tempo
+298 : Processo 1011045 Pronto -> Exec
+299 : Processo 1011045 Exec -> Pronto por tempo
+300 : Processo 1011045 Pronto -> Exec
+301 : Processo 1011045 Exec -> Page Fault3
+302 : Processo 1015156 Aumento de prioridade +1
+303 : Processo 1015156 Pronto -> Exec
+303 : Processo 1015156 Exec -> I/O
+312 : Processo 1011045 Aumento de prioridade +2
+312 : Processo 1011045 SwPF - LPL3
+313 : Processo 1011045 Pronto -> Exec
+314 : Processo 1011045 Exec -> Pronto por tempo
+315 : Processo 1011045 Pronto -> Exec
+316 : Processo 1011045 Exec -> Pronto por tempo
+317 : Processo 1011045 Pronto -> Exec
+318 : Processo 1011045 Exec -> Pronto por tempo
+319 : Processo 1011045 Pronto -> Exec
+320 : Processo 1011045 Exec -> Pronto por tempo
+321 : Processo 1011045 Pronto -> Exec
+322 : Processo 1011045 Exec -> Pronto por tempo
+322 : Processo 1015156 Aumento de prioridade +1
+323 : Processo 1015156 Pronto -> Exec
+323 : Processo 1015156 Exec -> I/O
+324 : Processo 1011045 Pronto -> Exec
+325 : Processo 1011045 Exec -> Pronto por tempo
+326 : Processo 1011045 Pronto -> Exec
+327 : Processo 1011045 Exec -> Pronto por tempo
+328 : Processo 1011045 Pronto -> Exec
+329 : Processo 1011045 Exec -> Pronto por tempo
+330 : Processo 1011045 Pronto -> Exec
+331 : Processo 1011045 Exec -> Page Fault4
+332 : Processo 1015156 Aumento de prioridade +1
+333 : Processo 1015156 Pronto -> Exec
+333 : Processo 1015156 Exec -> I/O
+342 : Processo 1011045 Aumento de prioridade +2
+342 : Processo 1011045 SwPF - LPL4
+343 : Processo 1011045 Pronto -> Exec
+344 : Processo 1011045 Exec -> Pronto por tempo
+345 : Processo 1011045 Pronto -> Exec
+346 : Processo 1011045 Exec -> Pronto por tempo
+347 : Processo 1011045 Pronto -> Exec
+347 : Processo 1015156 Aumento de prioridade +1
+348 : Processo 1011045 Exec -> Pronto por tempo
+349 : Processo 1015156 Pronto -> Exec
+349 : Processo 1015156 Exec -> I/O
+350 : Processo 1011045 Pronto -> Exec
+351 : Processo 1011045 Exec -> Pronto por tempo
+352 : Processo 1011045 Pronto -> Exec
+353 : Processo 1011045 Exec -> Pronto por tempo
+354 : Processo 1011045 Pronto -> Exec
+355 : Processo 1011045 Exec -> Pronto por tempo
+356 : Processo 1011045 Pronto -> Exec
+357 : Processo 1011045 Exec -> Pronto por tempo
+358 : Processo 1011045 Pronto -> Exec
+359 : Processo 1011045 Exec -> Pronto por tempo
+359 : Processo 1015156 Aumento de prioridade +1
+360 : Processo 1015156 Pronto -> Exec
+360 : Processo 1015156 Exec -> I/O
+361 : Processo 1011045 Pronto -> Exec
+362 : Processo 1011045 Exec -> Page Fault0
+370 : Processo 1015156 Aumento de prioridade +1
+371 : Processo 1015156 Pronto -> Exec
+372 : Processo 1015156 Exec -> Page Fault3
+380 : Processo 1011045 Aumento de prioridade +2
+380 : Processo 1011045 SwPF - LPM0
+381 : Processo 1011045 Pronto -> Exec
+382 : Processo 1011045 Exec -> Pronto por tempo
+383 : Processo 1011045 Pronto -> Exec
+384 : Processo 1011045 Exec -> Pronto por tempo
+385 : Processo 1011045 Pronto -> Exec
+386 : Processo 1011045 Exec -> Pronto por tempo
+387 : Processo 1011045 Pronto -> Exec
+388 : Processo 1011045 Exec -> Pronto por tempo
+389 : Processo 1011045 Pronto -> Exec
+390 : Processo 1011045 Exec -> Pronto por tempo
+390 : Processo 1015156 Aumento de prioridade +2
+390 : Processo 1015156 HwPF - Executável3
+391 : Processo 1015156 Pronto -> Exec
+391 : Processo 1015156 Exec -> I/O
+392 : Processo 1011045 Pronto -> Exec
+393 : Processo 1011045 Exec -> Pronto por tempo
+394 : Processo 1011045 Pronto -> Exec
+395 : Processo 1011045 Exec -> Pronto por tempo
+396 : Processo 1011045 Pronto -> Exec
+397 : Processo 1011045 Exec -> Pronto por tempo
+398 : Processo 1011045 Pronto -> Exec
+399 : Processo 1011045 Exec -> Page Fault1
+401 : Processo 1015156 Aumento de prioridade +1
+402 : Processo 1015156 Pronto -> Exec
+402 : Processo 1015156 Exec -> I/O
+411 : Processo 1011045 Aumento de prioridade +2
+411 : Processo 1011045 SwPF - LPL1
+412 : Processo 1011045 Pronto -> Exec
+413 : Processo 1011045 Exec -> Pronto por tempo
+414 : Processo 1011045 Pronto -> Exec
+415 : Processo 1011045 Exec -> Pronto por tempo
+416 : Processo 1011045 Pronto -> Exec
+417 : Processo 1011045 Exec -> Pronto por tempo
+418 : Processo 1011045 Pronto -> Exec
+419 : Processo 1011045 Exec -> Pronto por tempo
+420 : Processo 1011045 Pronto -> Exec
+421 : Processo 1011045 Exec -> Pronto por tempo
+421 : Processo 1015156 Aumento de prioridade +1
+422 : Processo 1015156 Pronto -> Exec
+422 : Processo 1015156 Exec -> I/O
+423 : Processo 1011045 Pronto -> Exec
+424 : Processo 1011045 Exec -> Pronto por tempo
+425 : Processo 1011045 Pronto -> Exec
+426 : Processo 1011045 Exec -> Pronto por tempo
+427 : Processo 1011045 Pronto -> Exec
+428 : Processo 1011045 Exec -> Pronto por tempo
+429 : Processo 1011045 Pronto -> Exec
+430 : Processo 1011045 Exec -> Page Fault2
+432 : Processo 1015156 Aumento de prioridade +1
+433 : Processo 1015156 Pronto -> Exec
+433 : Processo 1015156 Exec -> I/O
+442 : Processo 1011045 Aumento de prioridade +2
+442 : Processo 1011045 SwPF - LPL2
+443 : Processo 1011045 Pronto -> Exec
+444 : Processo 1011045 Exec -> Pronto por tempo
+445 : Processo 1011045 Pronto -> Exec
+446 : Processo 1011045 Exec -> Pronto por tempo
+447 : Processo 1011045 Pronto -> Exec
+448 : Processo 1011045 Exec -> Pronto por tempo
+449 : Processo 1011045 Pronto -> Exec
+450 : Processo 1011045 Exec -> Pronto por tempo
+451 : Processo 1011045 Pronto -> Exec
+452 : Processo 1011045 Exec -> Pronto por tempo
+452 : Processo 1015156 Aumento de prioridade +1
+453 : Processo 1015156 Pronto -> Exec
+453 : Processo 1015156 Exec -> I/O
+454 : Processo 1011045 Pronto -> Exec
+455 : Processo 1011045 Exec -> Pronto por tempo
+456 : Processo 1011045 Pronto -> Exec
+457 : Processo 1011045 Exec -> Pronto por tempo
+458 : Processo 1011045 Pronto -> Exec
+459 : Processo 1011045 Exec -> Pronto por tempo
+460 : Processo 1011045 Pronto -> Exec
+461 : Processo 1011045 Exec -> Page Fault3
+463 : Processo 1015156 Aumento de prioridade +1
+464 : Processo 1015156 Pronto -> Exec
+464 : Processo 1015156 Exec -> I/O
+473 : Processo 1011045 Aumento de prioridade +2
+473 : Processo 1011045 SwPF - LPL3
+474 : Processo 1011045 Pronto -> Exec
+475 : Processo 1011045 Exec -> Pronto por tempo
+476 : Processo 1011045 Pronto -> Exec
+477 : Processo 1011045 Exec -> Pronto por tempo
+478 : Processo 1011045 Pronto -> Exec
+479 : Processo 1011045 Exec -> Pronto por tempo
+480 : Processo 1011045 Pronto -> Exec
+481 : Processo 1011045 Exec -> Pronto por tempo
+482 : Processo 1011045 Pronto -> Exec
+483 : Processo 1011045 Exec -> Pronto por tempo
+483 : Processo 1015156 Aumento de prioridade +1
+484 : Processo 1015156 Pronto -> Exec
+484 : Processo 1015156 Exec -> I/O
+485 : Processo 1011045 Pronto -> Exec
+486 : Processo 1011045 Exec -> Pronto por tempo
+487 : Processo 1011045 Pronto -> Exec
+488 : Processo 1011045 Exec -> Pronto por tempo
+489 : Processo 1011045 Pronto -> Exec
+490 : Processo 1011045 Exec -> Pronto por tempo
+491 : Processo 1011045 Pronto -> Exec
+492 : Processo 1011045 Exec -> Page Fault4
+494 : Processo 1015156 Aumento de prioridade +1
+495 : Processo 1015156 Pronto -> Exec
+495 : Processo 1015156 Exec -> I/O
+504 : Processo 1011045 Aumento de prioridade +2
+504 : Processo 1011045 SwPF - LPL4
+505 : Processo 1011045 Pronto -> Exec
+506 : Processo 1011045 Exec -> Pronto por tempo
+507 : Processo 1011045 Pronto -> Exec
+508 : Processo 1011045 Exec -> Pronto por tempo
+509 : Processo 1011045 Pronto -> Exec
+510 : Processo 1011045 Exec -> Pronto por tempo
+511 : Processo 1011045 Pronto -> Exec
+512 : Processo 1011045 Exec -> Pronto por tempo
+513 : Processo 1011045 Pronto -> Exec
+514 : Processo 1011045 Exec -> Pronto por tempo
+514 : Processo 1015156 Aumento de prioridade +1
+515 : Processo 1015156 Pronto -> Exec
+516 : Processo 1015156 Exec -> Page Fault4
+517 : Processo 1011045 Pronto -> Exec
+518 : Processo 1011045 Exec -> Pronto por tempo
+519 : Processo 1011045 Pronto -> Exec
+520 : Processo 1011045 Exec -> Pronto por tempo
+521 : Processo 1011045 Pronto -> Exec
+522 : Processo 1011045 Exec -> Pronto por tempo
+523 : Processo 1011045 Pronto -> Exec
+524 : Processo 1011045 Exec -> Page Fault0
+526 : Processo 1015156 Aumento de prioridade +2
+526 : Processo 1015156 HwPF - Executável4
+527 : Processo 1015156 Pronto -> Exec
+527 : Processo 1015156 Exec -> I/O
+530 : Processo 1628770 alocacao de blocos no pagefile
+530 : Processo 1628770 HwPF - Executável0
+530 : Processo 1628770 criado
+531 : Processo 1628770 Pronto -> Exec
+532 : Processo 1628770 Exec -> Pronto por tempo
+533 : Processo 1628770 Pronto -> Exec
+534 : Processo 1628770 Exec -> Pronto por tempo
+535 : Processo 1628770 Pronto -> Exec
+536 : Processo 1628770 Exec -> Pronto por tempo
+536 : Processo 1011045 Aumento de prioridade +2
+536 : Processo 1011045 SwPF - LPM0
+537 : Processo 1011045 Pronto -> Exec
+537 : Processo 1635090 alocacao de blocos no pagefile
+537 : Processo 1635090 HwPF - Executável0
+537 : Processo 1635090 criado
+537 : Processo 1635191 alocacao de blocos no pagefile
+537 : Processo 1635191 HwPF - Executável0
+537 : Processo 1635191 criado
+537 : Processo 1635294 alocacao de blocos no pagefile
+537 : Processo 1635294 HwPF - Executável0
+537 : Processo 1635294 criado
+537 : Processo 1635396 alocacao de blocos no pagefile
+537 : Processo 1635396 HwPF - Executável0
+537 : Processo 1635396 criado
+537 : Processo 1635499 alocacao de blocos no pagefile
+537 : Processo 1635499 HwPF - Executável0
+537 : Processo 1635499 criado
+537 : Processo 1635601 alocacao de blocos no pagefile
+537 : Processo 1635601 HwPF - Executável0
+537 : Processo 1635601 criado
+538 : Processo 1011045 Exec -> Pronto por tempo
+539 : Processo 1628770 Pronto -> Exec
+540 : Processo 1628770 Exec -> Pronto por tempo
+541 : Processo 1635090 Pronto -> Exec
+542 : Processo 1635090 Exec -> Pronto por tempo
+543 : Processo 1635191 Pronto -> Exec
+544 : Processo 1635191 Exec -> Pronto por tempo
+545 : Processo 1635294 Pronto -> Exec
+546 : Processo 1635294 Exec -> Pronto por tempo
+546 : Processo 1015156 Aumento de prioridade +1
+547 : Processo 1015156 Pronto -> Exec
+547 : Processo 1015156 Exec -> I/O
+548 : Processo 1635396 Pronto -> Exec
+549 : Processo 1635396 Exec -> Pronto por tempo
+550 : Processo 1635499 Pronto -> Exec
+551 : Processo 1635499 Exec -> Pronto por tempo
+552 : Processo 1635601 Pronto -> Exec
+553 : Processo 1635601 Exec -> Pronto por tempo
+554 : Processo 1011045 Pronto -> Exec
+555 : Processo 1011045 Exec -> Pronto por tempo
+556 : Processo 1628770 Pronto -> Exec
+557 : Processo 1628770 Exec -> Pronto por tempo
+557 : Processo 1015156 Aumento de prioridade +1
+558 : Processo 1015156 Pronto -> Exec
+558 : Processo 1015156 Exec -> I/O
+559 : Processo 1635090 Pronto -> Exec
+560 : Processo 1635090 Exec -> Pronto por tempo
+561 : Processo 1635191 Pronto -> Exec
+562 : Processo 1635191 Exec -> Pronto por tempo
+563 : Processo 1635294 Pronto -> Exec
+564 : Processo 1635294 Exec -> Pronto por tempo
+565 : Processo 1635396 Pronto -> Exec
+566 : Processo 1635396 Exec -> Pronto por tempo
+567 : Processo 1635499 Pronto -> Exec
+568 : Processo 1635499 Exec -> Pronto por tempo
+568 : Processo 1015156 Aumento de prioridade +1
+569 : Processo 1015156 Pronto -> Exec
+569 : Processo 1015156 Exec -> I/O
+570 : Processo 1635601 Pronto -> Exec
+571 : Processo 1635601 Exec -> Pronto por tempo
+572 : Processo 1011045 Pronto -> Exec
+573 : Processo 1011045 Exec -> Pronto por tempo
+574 : Processo 1628770 Pronto -> Exec
+575 : Processo 1628770 Exec -> Pronto por tempo
+576 : Processo 1635090 Pronto -> Exec
+577 : Processo 1635090 Exec -> Pronto por tempo
+578 : Processo 1635191 Pronto -> Exec
+579 : Processo 1635191 Exec -> Pronto por tempo
+579 : Processo 1015156 Aumento de prioridade +1
+580 : Processo 1015156 Pronto -> Exec
+580 : Processo 1015156 Exec -> I/O
+581 : Processo 1635294 Pronto -> Exec
+582 : Processo 1635294 Exec -> Pronto por tempo
+583 : Processo 1635396 Pronto -> Exec
+584 : Processo 1635396 Exec -> Pronto por tempo
+585 : Processo 1635499 Pronto -> Exec
+586 : Processo 1635499 Exec -> Pronto por tempo
+587 : Processo 1635601 Pronto -> Exec
+588 : Processo 1635601 Exec -> Pronto por tempo
+589 : Processo 1011045 Pronto -> Exec
+590 : Processo 1011045 Exec -> Pronto por tempo
+590 : Processo 1015156 Aumento de prioridade +1
+591 : Processo 1015156 Pronto -> Exec
+591 : Processo 1015156 Exec -> I/O
+592 : Processo 1628770 Pronto -> Exec
+593 : Processo 1628770 Exec -> Pronto por tempo
+594 : Processo 1635090 Pronto -> Exec
+595 : Processo 1635090 Exec -> Pronto por tempo
+596 : Processo 1635191 Pronto -> Exec
+597 : Processo 1635191 Exec -> Pronto por tempo
+598 : Processo 1635294 Pronto -> Exec
+599 : Processo 1635294 Exec -> Pronto por tempo
+600 : Processo 1635396 Pronto -> Exec
+601 : Processo 1635396 Exec -> Pronto por tempo
+601 : Processo 1015156 Aumento de prioridade +1
+602 : Processo 1015156 Pronto -> Exec
+602 : Processo 1015156 Exec -> I/O
+603 : Processo 1635499 Pronto -> Exec
+604 : Processo 1635499 Exec -> Pronto por tempo
+605 : Processo 1635601 Pronto -> Exec
+606 : Processo 1635601 Exec -> Pronto por tempo
+607 : Processo 1011045 Pronto -> Exec
+608 : Processo 1011045 Exec -> Pronto por tempo
+609 : Processo 1628770 Pronto -> Exec
+610 : Processo 1628770 Exec -> Pronto por tempo
+611 : Processo 1635090 Pronto -> Exec
+612 : Processo 1635090 Exec -> Pronto por tempo
+612 : Processo 1015156 Aumento de prioridade +1
+613 : Processo 1015156 Pronto -> Exec
+613 : Processo 1015156 Exec -> I/O
+614 : Processo 1635191 Pronto -> Exec
+615 : Processo 1635191 Exec -> Pronto por tempo
+616 : Processo 1635294 Pronto -> Exec
+617 : Processo 1635294 Exec -> Pronto por tempo
+618 : Processo 1635396 Pronto -> Exec
+619 : Processo 1635396 Exec -> Pronto por tempo
+620 : Processo 1635499 Pronto -> Exec
+621 : Processo 1635499 Exec -> Pronto por tempo
+622 : Processo 1635601 Pronto -> Exec
+623 : Processo 1635601 Exec -> Pronto por tempo
+624 : Processo 1011045 Pronto -> Exec
+625 : Processo 1011045 Exec -> Pronto por tempo
+626 : Processo 1628770 Pronto -> Exec
+627 : Processo 1628770 Exec -> Page Fault1
+628 : Processo 1635090 Pronto -> Exec
+629 : Processo 1635090 Exec -> Pronto por tempo
+630 : Processo 1635191 Pronto -> Exec
+631 : Processo 1635191 Exec -> Pronto por tempo
+632 : Processo 1635294 Pronto -> Exec
+633 : Processo 1635294 Exec -> Pronto por tempo
+634 : Processo 1635396 Pronto -> Exec
+635 : Processo 1635396 Exec -> Pronto por tempo
+636 : Processo 1635499 Pronto -> Exec
+637 : Processo 1635499 Exec -> Pronto por tempo
+637 : Processo 1628770 Aumento de prioridade +2
+637 : Processo 1628770 HwPF - Executável1
+638 : Processo 1628770 Pronto -> Exec
+639 : Processo 1628770 Exec -> Pronto por tempo
+640 : Processo 1635601 Pronto -> Exec
+641 : Processo 1635601 Exec -> Pronto por tempo
+642 : Processo 1015156 Pronto -> Exec
+643 : Processo 1015156 Exec -> Page Fault0
+644 : Processo 1011045 Pronto -> Exec
+645 : Processo 1011045 Exec -> Pronto por tempo
+646 : Processo 1635090 Pronto -> Exec
+647 : Processo 1635090 Exec -> Pronto por tempo
+648 : Processo 1635191 Pronto -> Exec
+649 : Processo 1635191 Exec -> Pronto por tempo
+650 : Processo 1635294 Pronto -> Exec
+651 : Processo 1635294 Exec -> Pronto por tempo
+652 : Processo 1635396 Pronto -> Exec
+653 : Processo 1635396 Exec -> Pronto por tempo
+653 : Processo 1015156 Aumento de prioridade +2
+653 : Processo 1015156 SwPF - LPM0
+654 : Processo 1015156 Pronto -> Exec
+654 : Processo 1015156 Exec -> I/O
+655 : Processo 1635499 Pronto -> Exec
+656 : Processo 1635499 Exec -> Pronto por tempo
+657 : Processo 1628770 Pronto -> Exec
+658 : Processo 1628770 Exec -> Pronto por tempo
+659 : Processo 1635601 Pronto -> Exec
+660 : Processo 1635601 Exec -> Pronto por tempo
+661 : Processo 1011045 Pronto -> Exec
+662 : Processo 1011045 Exec -> Pronto por tempo
+663 : Processo 1635090 Pronto -> Exec
+664 : Processo 1635090 Exec -> Pronto por tempo
+664 : Processo 1015156 Aumento de prioridade +1
+665 : Processo 1015156 Pronto -> Exec
+666 : Processo 1015156 Exec -> Pronto por tempo
+667 : Processo 1635191 Pronto -> Exec
+668 : Processo 1635191 Exec -> Pronto por tempo
+669 : Processo 1635294 Pronto -> Exec
+670 : Processo 1635294 Exec -> Pronto por tempo
+671 : Processo 1635396 Pronto -> Exec
+672 : Processo 1635396 Exec -> Pronto por tempo
+673 : Processo 1635499 Pronto -> Exec
+674 : Processo 1635499 Exec -> Pronto por tempo
+675 : Processo 1628770 Pronto -> Exec
+676 : Processo 1628770 Exec -> Pronto por tempo
+677 : Processo 1635601 Pronto -> Exec
+678 : Processo 1635601 Exec -> Pronto por tempo
+679 : Processo 1011045 Pronto -> Exec
+680 : Processo 1011045 Exec -> Page Fault1
+681 : Processo 1635090 Pronto -> Exec
+682 : Processo 1635090 Exec -> Page Fault1
+683 : Processo 1015156 Pronto -> Exec
+683 : Processo 1015156 Exec -> I/O
+684 : Processo 1635191 Pronto -> Exec
+685 : Processo 1635191 Exec -> Page Fault1
+686 : Processo 1635294 Pronto -> Exec
+687 : Processo 1635294 Exec -> Page Fault1
+688 : Processo 1635396 Pronto -> Exec
+689 : Processo 1635396 Exec -> Page Fault1
+690 : Processo 1635499 Pronto -> Exec
+690 : Processo 1011045 Aumento de prioridade +2
+690 : Processo 1011045 SwPF - LPL1
+691 : Processo 1635499 Exec -> Page Fault1
+692 : Processo 1011045 Pronto -> Exec
+693 : Processo 1011045 Exec -> Pronto por tempo
+694 : Processo 1628770 Pronto -> Exec
+695 : Processo 1628770 Exec -> Pronto por tempo
+696 : Processo 1635601 Pronto -> Exec
+697 : Processo 1635601 Exec -> Page Fault1
+698 : Processo 1011045 Pronto -> Exec
+699 : Processo 1011045 Exec -> Pronto por tempo
+700 : Processo 1628770 Pronto -> Exec
+700 : Processo 1635090 Aumento de prioridade +2
+700 : Processo 1635090 HwPF - Executável1
+701 : Processo 1628770 Exec -> Pronto por tempo
+702 : Processo 1635090 Pronto -> Exec
+703 : Processo 1635090 Exec -> Pronto por tempo
+704 : Processo 1011045 Pronto -> Exec
+705 : Processo 1011045 Exec -> Pronto por tempo
+706 : Processo 1628770 Pronto -> Exec
+707 : Processo 1628770 Exec -> Pronto por tempo
+708 : Processo 1635090 Pronto -> Exec
+709 : Processo 1635090 Exec -> Pronto por tempo
+710 : Processo 1011045 Pronto -> Exec
+710 : Processo 1015156 Aumento de prioridade +1
+711 : Processo 1011045 Exec -> Pronto por tempo
+712 : Processo 1015156 Pronto -> Exec
+712 : Processo 1015156 Exec -> I/O
+713 : Processo 1628770 Pronto -> Exec
+714 : Processo 1628770 Exec -> Pronto por tempo
+715 : Processo 1635090 Pronto -> Exec
+716 : Processo 1635090 Exec -> Pronto por tempo
+717 : Processo 1011045 Pronto -> Exec
+718 : Processo 1011045 Exec -> Pronto por tempo
+719 : Processo 1628770 Pronto -> Exec
+720 : Processo 1628770 Exec -> Pronto por tempo
+720 : Processo 1635191 Aumento de prioridade +2
+720 : Processo 1635191 HwPF - Executável1
+721 : Processo 1635191 Pronto -> Exec
+722 : Processo 1635191 Exec -> Pronto por tempo
+723 : Processo 1635090 Pronto -> Exec
+724 : Processo 1635090 Exec -> Pronto por tempo
+725 : Processo 1011045 Pronto -> Exec
+726 : Processo 1011045 Exec -> Pronto por tempo
+727 : Processo 1628770 Pronto -> Exec
+728 : Processo 1628770 Exec -> Page Fault2
+729 : Processo 1635191 Pronto -> Exec
+730 : Processo 1635191 Exec -> Pronto por tempo
+730 : Processo 1635294 Aumento de prioridade +2
+730 : Processo 1635294 HwPF - Executável1
+731 : Processo 1635294 Pronto -> Exec
+732 : Processo 1635294 Exec -> Pronto por tempo
+733 : Processo 1635090 Pronto -> Exec
+734 : Processo 1635090 Exec -> Pronto por tempo
+735 : Processo 1011045 Pronto -> Exec
+736 : Processo 1011045 Exec -> Pronto por tempo
+737 : Processo 1635191 Pronto -> Exec
+738 : Processo 1635191 Exec -> Pronto por tempo
+739 : Processo 1635294 Pronto -> Exec
+740 : Processo 1635294 Exec -> Pronto por tempo
+740 : Processo 1635396 Aumento de prioridade +2
+740 : Processo 1635396 HwPF - Executável1
+741 : Processo 1635396 Pronto -> Exec
+742 : Processo 1635396 Exec -> Pronto por tempo
+743 : Processo 1635090 Pronto -> Exec
+744 : Processo 1635090 Exec -> Pronto por tempo
+745 : Processo 1011045 Pronto -> Exec
+746 : Processo 1011045 Exec -> Pronto por tempo
+747 : Processo 1635191 Pronto -> Exec
+748 : Processo 1635191 Exec -> Pronto por tempo
+749 : Processo 1635294 Pronto -> Exec
+750 : Processo 1635294 Exec -> Pronto por tempo
+750 : Processo 1635499 Aumento de prioridade +2
+750 : Processo 1635499 HwPF - Executável1
+751 : Processo 1635499 Pronto -> Exec
+752 : Processo 1635499 Exec -> Pronto por tempo
+753 : Processo 1635396 Pronto -> Exec
+754 : Processo 1635396 Exec -> Pronto por tempo
+755 : Processo 1635090 Pronto -> Exec
+756 : Processo 1635090 Exec -> Pronto por tempo
+757 : Processo 1011045 Pronto -> Exec
+758 : Processo 1011045 Exec -> Page Fault2
+759 : Processo 1635191 Pronto -> Exec
+760 : Processo 1635191 Exec -> Pronto por tempo
+761 : Processo 1635294 Pronto -> Exec
+761 : Processo 1635601 Aumento de prioridade +2
+761 : Processo 1635601 HwPF - Executável1
+762 : Processo 1635294 Exec -> Pronto por tempo
+763 : Processo 1635601 Pronto -> Exec
+764 : Processo 1635601 Exec -> Pronto por tempo
+765 : Processo 1635499 Pronto -> Exec
+766 : Processo 1635499 Exec -> Pronto por tempo
+767 : Processo 1635396 Pronto -> Exec
+768 : Processo 1635396 Exec -> Pronto por tempo
+769 : Processo 1635090 Pronto -> Exec
+770 : Processo 1635090 Exec -> Pronto por tempo
+770 : SOsim desativado

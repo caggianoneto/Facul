@@ -1,0 +1,226 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+21 : Processo 3014827 alocacao de blocos no pagefile
+21 : Processo 3014827 HwPF - Executável0
+21 : Processo 3014827 criado
+21 : Processo 3014929 alocacao de blocos no pagefile
+21 : Processo 3014929 HwPF - Executável0
+21 : Processo 3014929 criado
+22 : Processo 3014827 Pronto -> Exec
+23 : Processo 3014827 Exec -> Pronto por tempo
+24 : Processo 3014929 Pronto -> Exec
+25 : Processo 3014929 Exec -> Pronto por tempo
+26 : Processo 3014827 Pronto -> Exec
+27 : Processo 3014827 Exec -> Pronto por tempo
+28 : Processo 3014929 Pronto -> Exec
+29 : Processo 3014929 Exec -> Pronto por tempo
+30 : Processo 3014827 Pronto -> Exec
+31 : Processo 3014827 Exec -> Pronto por tempo
+32 : Processo 3014929 Pronto -> Exec
+33 : Processo 3014929 Exec -> Pronto por tempo
+34 : Processo 3014827 Pronto -> Exec
+35 : Processo 3014827 Exec -> Pronto por tempo
+36 : Processo 3014929 Pronto -> Exec
+37 : Processo 3014929 Exec -> Pronto por tempo
+38 : Processo 3014827 Pronto -> Exec
+39 : Processo 3014827 Exec -> Pronto por tempo
+40 : Processo 3014929 Pronto -> Exec
+41 : Processo 3014929 Exec -> Pronto por tempo
+42 : Processo 3014827 Pronto -> Exec
+43 : Processo 3014827 Exec -> Pronto por tempo
+44 : Processo 3014929 Pronto -> Exec
+45 : Processo 3014929 Exec -> Pronto por tempo
+46 : Processo 3014827 Pronto -> Exec
+47 : Processo 3014827 Exec -> Pronto por tempo
+48 : Processo 3014929 Pronto -> Exec
+49 : Processo 3014929 Exec -> Pronto por tempo
+50 : Processo 3014827 Pronto -> Exec
+51 : Processo 3014827 Exec -> Pronto por tempo
+52 : Processo 3014929 Pronto -> Exec
+53 : Processo 3014929 Exec -> Pronto por tempo
+54 : Processo 3014827 Pronto -> Exec
+55 : Processo 3014827 Exec -> Page Fault1
+56 : Processo 3014929 Pronto -> Exec
+57 : Processo 3014929 Exec -> Page Fault1
+65 : Processo 3014827 Aumento de prioridade +2
+65 : Processo 3014827 HwPF - Executável1
+66 : Processo 3014827 Pronto -> Exec
+67 : Processo 3014827 Exec -> Pronto por tempo
+68 : Processo 3014827 Pronto -> Exec
+69 : Processo 3014827 Exec -> Pronto por tempo
+70 : Processo 3014827 Pronto -> Exec
+71 : Processo 3014827 Exec -> Pronto por tempo
+72 : Processo 3014827 Pronto -> Exec
+73 : Processo 3014827 Exec -> Pronto por tempo
+74 : Processo 3014827 Pronto -> Exec
+75 : Processo 3014827 Exec -> Pronto por tempo
+75 : Processo 3014929 Aumento de prioridade +2
+75 : Processo 3014929 HwPF - Executável1
+76 : Processo 3014929 Pronto -> Exec
+77 : Processo 3014929 Exec -> Pronto por tempo
+78 : Processo 3014827 Pronto -> Exec
+79 : Processo 3014827 Exec -> Pronto por tempo
+80 : Processo 3014929 Pronto -> Exec
+80 : Processo 3014929 Executando -> Suspenso
+81 : Processo 3014827 Pronto -> Exec
+82 : Processo 3014827 Exec -> Pronto por tempo
+83 : Processo 3014827 Pronto -> Exec
+84 : Processo 3014827 Exec -> Pronto por tempo
+85 : Processo 3014827 Pronto -> Exec
+86 : Processo 3014827 Exec -> Page Fault2
+96 : Processo 3014827 Aumento de prioridade +2
+96 : Processo 3014827 HwPF - Executável2
+97 : Processo 3014827 Pronto -> Exec
+98 : Processo 3014827 Exec -> Pronto por tempo
+99 : Processo 3014827 Pronto -> Exec
+100 : Processo 3014827 Exec -> Pronto por tempo
+101 : Processo 3014827 Pronto -> Exec
+102 : Processo 3014827 Exec -> Pronto por tempo
+103 : Processo 3014827 Pronto -> Exec
+104 : Processo 3014827 Exec -> Pronto por tempo
+105 : Processo 3014827 Pronto -> Exec
+106 : Processo 3014827 Exec -> Pronto por tempo
+107 : Processo 3014827 Pronto -> Exec
+108 : Processo 3014827 Exec -> Pronto por tempo
+109 : Processo 3014827 Pronto -> Exec
+110 : Processo 3014827 Exec -> Pronto por tempo
+111 : Processo 3014827 Pronto -> Exec
+112 : Processo 3014827 Exec -> Pronto por tempo
+113 : Processo 3014827 Pronto -> Exec
+114 : Processo 3014827 Exec -> Page Fault3
+124 : Processo 3014827 Aumento de prioridade +2
+124 : Processo 3014827 HwPF - Executável3
+125 : Processo 3014827 Pronto -> Exec
+126 : Processo 3014827 Exec -> Pronto por tempo
+127 : Processo 3014827 Pronto -> Exec
+128 : Processo 3014827 Exec -> Pronto por tempo
+129 : Processo 3014827 Pronto -> Exec
+130 : Processo 3014827 Exec -> Pronto por tempo
+131 : Processo 3014827 Pronto -> Exec
+132 : Processo 3014827 Exec -> Pronto por tempo
+133 : Processo 3014827 Pronto -> Exec
+134 : Processo 3014827 Exec -> Pronto por tempo
+135 : Processo 3014827 Pronto -> Exec
+136 : Processo 3014827 Exec -> Pronto por tempo
+137 : Processo 3014827 Pronto -> Exec
+138 : Processo 3014827 Exec -> Pronto por tempo
+139 : Processo 3014827 Pronto -> Exec
+140 : Processo 3014827 Exec -> Pronto por tempo
+141 : Processo 3014827 Pronto -> Exec
+142 : Processo 3014827 Exec -> Page Fault4
+152 : Processo 3014827 Aumento de prioridade +2
+152 : Processo 3014827 HwPF - Executável4
+153 : Processo 3014827 Pronto -> Exec
+154 : Processo 3014827 Exec -> Pronto por tempo
+155 : Processo 3014827 Pronto -> Exec
+156 : Processo 3014827 Exec -> Pronto por tempo
+157 : Processo 3014827 Pronto -> Exec
+158 : Processo 3014827 Exec -> Pronto por tempo
+159 : Processo 3014827 Pronto -> Exec
+160 : Processo 3014827 Exec -> Pronto por tempo
+161 : Processo 3014827 Pronto -> Exec
+162 : Processo 3014827 Exec -> Pronto por tempo
+163 : Processo 3014827 Pronto -> Exec
+164 : Processo 3014827 Exec -> Pronto por tempo
+165 : Processo 3014827 Pronto -> Exec
+166 : Processo 3014827 Exec -> Pronto por tempo
+167 : Processo 3014827 Pronto -> Exec
+168 : Processo 3014827 Exec -> Pronto por tempo
+169 : Processo 3014827 Pronto -> Exec
+170 : Processo 3014827 Exec -> Page Fault0
+180 : Processo 3014827 Aumento de prioridade +2
+180 : Processo 3014827 SwPF - LPM0
+181 : Processo 3014827 Pronto -> Exec
+182 : Processo 3014827 Exec -> Pronto por tempo
+183 : Processo 3014827 Pronto -> Exec
+184 : Processo 3014827 Exec -> Pronto por tempo
+185 : Processo 3014827 Pronto -> Exec
+186 : Processo 3014827 Exec -> Pronto por tempo
+187 : Processo 3014827 Pronto -> Exec
+188 : Processo 3014827 Exec -> Pronto por tempo
+189 : Processo 3014827 Pronto -> Exec
+190 : Processo 3014827 Exec -> Pronto por tempo
+191 : Processo 3014827 Pronto -> Exec
+192 : Processo 3014827 Exec -> Pronto por tempo
+193 : Processo 3014827 Pronto -> Exec
+194 : Processo 3014827 Exec -> Pronto por tempo
+195 : Processo 3014827 Pronto -> Exec
+196 : Processo 3014827 Exec -> Pronto por tempo
+197 : Processo 3014827 Pronto -> Exec
+198 : Processo 3014827 Exec -> Page Fault1
+208 : Processo 3014827 Aumento de prioridade +2
+208 : Processo 3014827 SwPF - LPL1
+209 : Processo 3014827 Pronto -> Exec
+210 : Processo 3014827 Exec -> Pronto por tempo
+211 : Processo 3014827 Pronto -> Exec
+212 : Processo 3014827 Exec -> Pronto por tempo
+213 : Processo 3014827 Pronto -> Exec
+214 : Processo 3014827 Exec -> Pronto por tempo
+215 : Processo 3014827 Pronto -> Exec
+216 : Processo 3014827 Exec -> Pronto por tempo
+217 : Processo 3014827 Pronto -> Exec
+218 : Processo 3014827 Exec -> Pronto por tempo
+219 : Processo 3014827 Pronto -> Exec
+220 : Processo 3014827 Exec -> Pronto por tempo
+221 : Processo 3014827 Pronto -> Exec
+222 : Processo 3014827 Exec -> Pronto por tempo
+223 : Processo 3014827 Pronto -> Exec
+224 : Processo 3014827 Exec -> Pronto por tempo
+225 : Processo 3014827 Pronto -> Exec
+226 : Processo 3014827 Exec -> Page Fault2
+236 : Processo 3014827 Aumento de prioridade +2
+236 : Processo 3014827 SwPF - LPL2
+237 : Processo 3014827 Pronto -> Exec
+238 : Processo 3014827 Exec -> Pronto por tempo
+239 : Processo 3014827 Pronto -> Exec
+240 : Processo 3014827 Exec -> Pronto por tempo
+241 : Processo 3014827 Pronto -> Exec
+242 : Processo 3014827 Exec -> Pronto por tempo
+243 : Processo 3014827 Pronto -> Exec
+244 : Processo 3014827 Exec -> Pronto por tempo
+245 : Processo 3014827 Pronto -> Exec
+246 : Processo 3014827 Exec -> Pronto por tempo
+247 : Processo 3014827 Pronto -> Exec
+248 : Processo 3014827 Exec -> Pronto por tempo
+249 : Processo 3014827 Pronto -> Exec
+250 : Processo 3014827 Exec -> Pronto por tempo
+251 : Processo 3014827 Pronto -> Exec
+252 : Processo 3014827 Exec -> Pronto por tempo
+253 : Processo 3014827 Pronto -> Exec
+254 : Processo 3014827 Exec -> Page Fault3
+256 : Processo 3014929 Pronto -> Exec
+257 : Processo 3014929 Exec -> Pronto por tempo
+258 : Processo 3014929 Pronto -> Exec
+259 : Processo 3014929 Exec -> Pronto por tempo
+260 : Processo 3014929 Pronto -> Exec
+261 : Processo 3014929 Exec -> Pronto por tempo
+262 : Processo 3014929 Pronto -> Exec
+263 : Processo 3014929 Exec -> Pronto por tempo
+264 : Processo 3014929 Pronto -> Exec
+264 : Processo 3014827 Aumento de prioridade +2
+264 : Processo 3014827 SwPF - LPL3
+265 : Processo 3014929 Exec -> Pronto por tempo
+266 : Processo 3014827 Pronto -> Exec
+267 : Processo 3014827 Exec -> Pronto por tempo
+268 : Processo 3014929 Pronto -> Exec
+269 : Processo 3014929 Exec -> Pronto por tempo
+270 : Processo 3014827 Pronto -> Exec
+271 : Processo 3014827 Exec -> Pronto por tempo
+272 : Processo 3014929 Pronto -> Exec
+273 : Processo 3014929 Exec -> Pronto por tempo
+274 : Processo 3014827 Pronto -> Exec
+275 : Processo 3014827 Exec -> Pronto por tempo
+276 : Processo 3014929 Pronto -> Exec
+276 : Processo 3014929 eliminado
+276 : Tempo de UCP:17 Tempo decorrido:255
+276 : Processo 3014929 liberando pagefile reservado
+277 : Processo 3014827 Pronto -> Exec
+278 : Processo 3014827 Exec -> Pronto por tempo
+279 : Processo 3014827 Pronto -> Exec
+280 : Processo 3014827 Exec -> Pronto por tempo
+281 : Processo 3014827 Pronto -> Exec
+282 : Processo 3014827 Exec -> Pronto por tempo
+283 : Processo 3014827 Pronto -> Exec
+284 : Processo 3014827 Exec -> Pronto por tempo
+285 : Processo 3014827 Pronto -> Exec
+285 : SOsim desativado

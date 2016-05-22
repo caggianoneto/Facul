@@ -1,0 +1,141 @@
+package view;
+
+import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.table.AbstractTableModel;
+
+import model.Relatorio;
+
+public class RelatorioTableModelFrota extends AbstractTableModel{
+
+	private static final int COL_QTDVEICULOS = 0;
+	private static final int COL_QTDVEICULOS_DISPONIVEL = 1;
+	private static final int COL_ENTREGAS_REALIZADAS = 2;
+	private static final int COL_ENTREGAS_EM_PROGRESSO = 3;
+	private static final int COL_ENTREGAS_NAO_FINALIDAS = 4;
+	private static final int COL_REGIAO = 5;
+
+
+	private List<Relatorio> valores;
+	
+	public RelatorioTableModelFrota(List<Relatorio> valores){
+		
+		this.valores = valores;
+	}
+	
+	
+	@Override
+	public int getColumnCount() {
+		// TODO Auto-generated method stub
+		return 6;
+	}
+
+	@Override
+	public int getRowCount() {
+		// TODO Auto-generated method stub
+		return valores.size();
+	}
+	
+	@Override
+	public Object getValueAt(int rowIndex, int columnIndex) {
+	
+		Relatorio relatorio = valores.get(rowIndex);
+		
+
+		if(columnIndex == COL_QTDVEICULOS){
+			return relatorio.getQtd_veiculos();
+		}
+		else if(columnIndex == COL_QTDVEICULOS_DISPONIVEL){
+			return relatorio.getQtd_veiculos_disponivel();
+		}
+		else if(columnIndex == COL_ENTREGAS_REALIZADAS){
+			return relatorio.getEntregas_realizadas();
+		}
+		else if(columnIndex == COL_ENTREGAS_EM_PROGRESSO){
+			return relatorio.getEntrega_em_progresso();
+		}
+		else if(columnIndex == COL_ENTREGAS_NAO_FINALIDAS){
+			return relatorio.getEntrega_nao_finalizada();
+		}
+		else if(columnIndex == COL_REGIAO){
+			
+			
+			return relatorio.getRegiao();
+		}
+		
+		return null;
+	}
+	
+	public String getColumnName(int column){
+		
+		String coluna = "";
+		
+		switch (column) {
+
+		case COL_QTDVEICULOS:
+			coluna = "QUANTIDADE VEICULOS";
+			break;
+		case COL_QTDVEICULOS_DISPONIVEL:
+			coluna = "QUANTIDADE VEICULOS DISPONIVEL";
+			break;
+		case COL_ENTREGAS_REALIZADAS:
+			coluna = "ENTREGAS REALIZADAS";
+			break;	
+		case COL_ENTREGAS_EM_PROGRESSO:
+			coluna = "ENTREGAS EM PROGRESSO";
+			break;
+		case COL_ENTREGAS_NAO_FINALIDAS:
+			coluna = "ENTREGAS NÃO FINALIZADAS";
+			break;	
+		case COL_REGIAO:
+			coluna = "REGIÃO";
+			break;	
+			
+		default:
+			throw new IllegalArgumentException("Coluna invalida");
+			
+		}
+		return coluna;
+		
+	}
+	
+	
+	// tipo de dados que a coluna tem
+	public Class<?> getColumnClass(int columnIndex){
+
+	    if(columnIndex == COL_QTDVEICULOS){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_QTDVEICULOS_DISPONIVEL){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_ENTREGAS_REALIZADAS){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_ENTREGAS_EM_PROGRESSO){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_ENTREGAS_NAO_FINALIDAS){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_REGIAO){
+			return Integer.class;
+		}
+		
+		return null;
+	}
+	
+
+	
+	
+	//oque contem na linha
+	public Relatorio get(int row){
+		
+		return valores.get(row);
+	}
+
+	
+	
+}

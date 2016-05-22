@@ -1,0 +1,2 @@
+SELECT *, DATE_FORMAT( dt_inicio, "%d/%m/%Y" ) AS 'data inico' FROM atividades;
+atividade.setString(rs.getStrind("data inico"));

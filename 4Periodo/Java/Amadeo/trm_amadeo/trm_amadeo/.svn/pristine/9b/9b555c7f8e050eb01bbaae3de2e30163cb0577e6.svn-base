@@ -1,0 +1,161 @@
+package view;
+
+import java.sql.Date;
+import java.util.List;
+
+import javax.swing.table.AbstractTableModel;
+import javax.xml.crypto.Data;
+
+import model.Relatorio;
+
+public class RelatorioTableModelPedido extends AbstractTableModel{
+
+	private static final int COL_NOME_DEST = 0;
+	private static final int COL_STATUS_PEDIDO = 1;
+	private static final int COL_PRAZO_ENTREGA = 2;
+	private static final int COL_DATA_CADAS = 3;
+	private static final int COL_ENTREGA = 4;
+
+
+
+	private List<Relatorio> valores;
+	
+	public RelatorioTableModelPedido(List<Relatorio> valores){
+		
+		this.valores = valores;
+	}
+	
+	
+	@Override
+	public int getColumnCount() {
+		// TODO Auto-generated method stub
+		return 5;
+	}
+
+	@Override
+	public int getRowCount() {
+		// TODO Auto-generated method stub
+		return valores.size();
+	}
+	
+	public boolean isCellEditable(int rowIndex, int columnIndex){  
+	
+		if(columnIndex == COL_STATUS_PEDIDO){
+			return true;
+		}
+		
+		Relatorios relatorios = new Relatorios();
+		
+		return relatorios.error();
+	}
+	
+	@Override    
+	public void setValueAt(Object aValue, int rowIndex, int columnIndex) {    
+		Relatorio relatorio = valores.get(rowIndex);
+		
+	    if(columnIndex == COL_STATUS_PEDIDO){
+			relatorio.setStatusPedido((String)aValue);
+		}
+		
+		Relatorios rel = new Relatorios();
+		
+		boolean verificaExclusao = rel.confirmaExclusao();
+		
+		if(verificaExclusao == true){
+			
+		rel.onSaveVeiculos(relatorio);
+			
+			fireTableCellUpdated(rowIndex,columnIndex); 
+			
+		}
+		else{
+			rel.refreshTablePedido();
+		}
+		
+	}  
+	
+	
+	@Override
+	public Object getValueAt(int rowIndex, int columnIndex) {
+	
+		Relatorio relatorio = valores.get(rowIndex);
+		
+		if(columnIndex == COL_NOME_DEST){
+			return relatorio.getNome_dest();
+		}
+		else if(columnIndex == COL_STATUS_PEDIDO){
+			return relatorio.getStatusPedido();
+		}
+		else if(columnIndex == COL_PRAZO_ENTREGA){
+			return relatorio.getPrazoEntregaPedido();
+		}
+		else if(columnIndex == COL_DATA_CADAS){
+			return relatorio.getDta_cadastro();
+		}
+		else if(columnIndex == COL_ENTREGA){
+			return relatorio.getDta_entrega();
+		}
+		
+		return null;
+	}
+	
+	public String getColumnName(int column){
+		
+		String coluna = "";
+		
+		switch (column) {
+
+		case COL_NOME_DEST:
+			coluna = "NOME DESTINATARIO";
+			break;
+		case COL_STATUS_PEDIDO:
+			coluna = "STATUS PEDIDO";
+			break;	
+		case COL_PRAZO_ENTREGA:
+			coluna = "PRAZO ENTREGA";
+			break;
+		case COL_DATA_CADAS:
+			coluna = "DATA CADASTRO";
+			break;
+		case COL_ENTREGA:
+			coluna = "DATA ENTREGA";
+			break;			
+			
+		default:
+			throw new IllegalArgumentException("Coluna invalida");
+			
+		}
+		return coluna;
+		
+	}
+	
+	
+	// tipo de dados que a coluna tem
+	public Class<?> getColumnClass(int columnIndex){
+		
+		if(columnIndex == COL_NOME_DEST){
+			return String.class;
+		}
+		else if(columnIndex == COL_STATUS_PEDIDO){
+			return String.class;
+		}
+		else if(columnIndex == COL_PRAZO_ENTREGA){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_DATA_CADAS){
+			return Date.class;
+		}
+		else if(columnIndex == COL_ENTREGA){
+			return Date.class;
+		}	
+		
+		return null;
+	}
+	
+	//oque contem na linha
+	public Relatorio get(int row){
+		
+		return valores.get(row);
+	}
+
+}

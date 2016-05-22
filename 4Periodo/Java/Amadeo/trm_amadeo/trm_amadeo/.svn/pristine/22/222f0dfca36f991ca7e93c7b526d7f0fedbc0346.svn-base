@@ -1,0 +1,636 @@
+	package view;
+
+import java.awt.Dimension;
+import java.awt.HeadlessException;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ItemEvent;
+import java.awt.event.ItemListener;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Vector;
+
+import javax.swing.BorderFactory;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JLabel;
+import javax.swing.JScrollPane;
+import javax.swing.JTabbedPane;
+import javax.swing.JTextField;
+import javax.swing.JComboBox;
+import javax.swing.DefaultComboBoxModel;
+import javax.swing.JButton;
+
+import controller.RelatorioCellRenderer;
+import controller.RelatorioController;
+import controller.VeiculoController;
+
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
+import javax.swing.text.html.HTMLEditorKit.Parser;
+
+import net.miginfocom.swing.MigLayout;
+import model.Cliente;
+import model.Relatorio;
+import model.Veiculo;
+
+import java.awt.Component;
+import java.awt.Color;
+
+public class Relatorios extends JPanel {
+
+	private JTextField campoCpf;
+	private JTextField campoNome;
+	private JTextField campoCnpj;
+	private JTextField campoRazaoSocial;
+	private JComboBox comboBoxRelatorioTipoPessoa;
+	private JComboBox comboBoxTipo; 
+	private JButton btnBuscar;
+	private JTextField campoPlaca;
+	private JTable table;
+	private JTextField campoRenavam;
+	private JComboBox comboRelatorioTipo;
+	private JPanel clienteFornecedor;
+	private ArrayList<String> listaTabelaDois;
+	
+	
+	
+	//novo
+	
+	private JTabbedPane viewPesquisa;
+	private JPanel veiculos, panelTableVeiculo, panelButtons,ClienteDestinatario;
+	private JButton btnNew, btnRemove, btnCancel;
+	private JButton btnBuscarVeiculo;
+	private JLabel lblDataCadastro;
+
+	
+	private List<Relatorio> veiculoList;
+	private List<Relatorio> frotaList;
+	private List<Relatorio> pedidoList;
+	private String idVeiculo;
+	private int idFrota;
+	private JPanel panelButton;
+	private JTable tableVeiculo;
+
+	private JPanel panelButtonFrota;
+	private JButton btnBuscarFrota,btnRemoverFrota;
+	private JPanel panelTableFrota;
+	private JScrollPane scrollPaneFrota;
+	private JTable tableFrota;
+	private JScrollPane scrollPaneVeiculo;
+	private JTable tablePedido;
+	private JPanel panelFilter;
+	private JTextField textRelatorioPlaca;
+	private JTextField textRelatorioRenavam;
+	private JLabel lblRelatorioTipo;
+	private JPanel panelPedidoAdd;
+	private JComboBox comboBoxPedidoStatus;
+	private JLabel lblStatus;
+	private JPanel panelAddCliente;
+	private JPanel panelTableCliente;
+	private JPanel panelButtonCliente;
+	private JTable table_1;
+
+
+	
+	
+	
+	/**
+	 * Create the panel.
+	 */
+	public Relatorios() throws HeadlessException{
+		
+		final Relatorio relatorioModelo = new Relatorio();
+		
+		setBackground(Color.WHITE);
+		setLayout(null);
+
+		
+		JLabel lblPesquisa = new JLabel("Pesquisa:");
+		lblPesquisa.setBounds(10, 11, 89, 14);
+		add(lblPesquisa);
+		
+		viewPesquisa = new JTabbedPane(JTabbedPane.TOP);
+		viewPesquisa.setBounds(20, 36, 1754, 714);
+		add(viewPesquisa);
+		
+		// CLiente
+				
+				ClienteDestinatario = new JPanel();
+				ClienteDestinatario.setBackground(Color.WHITE);
+				viewPesquisa.addTab("Cliente / Destinatario", null, ClienteDestinatario, null);
+				ClienteDestinatario.setLayout(null);
+				
+				panelAddCliente = new JPanel();
+				panelAddCliente.setBounds(10, 11, 779, 76);
+				ClienteDestinatario.add(panelAddCliente);
+				panelAddCliente.setLayout(null);
+				
+				panelTableCliente = new JPanel();
+				panelTableCliente.setBounds(10, 136, 771, 156);
+				ClienteDestinatario.add(panelTableCliente);
+				panelTableCliente.setLayout(null);
+				
+				JScrollPane scrollPaneTable = new JScrollPane();
+				scrollPaneTable.setBounds(10, 11, 751, 134);
+				panelTableCliente.add(scrollPaneTable);
+				
+				table_1 = new JTable();
+				scrollPaneTable.setColumnHeaderView(table_1);
+				
+				panelButtonCliente = new JPanel();
+				panelButtonCliente.setBounds(10, 325, 776, 86);
+				ClienteDestinatario.add(panelButtonCliente);
+				panelButtonCliente.setLayout(null);
+		
+		JPanel frotas = new JPanel();
+		frotas.setBackground(Color.WHITE);
+		viewPesquisa.addTab("Frota", null, frotas, null);
+		frotas.setLayout(null);
+		
+		panelTableFrota = new JPanel();
+		panelTableFrota.setBounds(27, 11, 981, 315);
+		panelTableFrota.setBackground(Color.WHITE);
+		panelTableFrota.setBorder(BorderFactory.createTitledBorder("Lista de Frotas"));
+		frotas.add(panelTableFrota);
+		panelTableFrota.setLayout(null);
+		
+		scrollPaneFrota = new JScrollPane();
+		scrollPaneFrota.setBounds(23, 35, 934, 251);
+		panelTableFrota.add(scrollPaneFrota);
+		
+		tableFrota = new JTable();
+		scrollPaneFrota.setViewportView(tableFrota);
+		
+		panelButtonFrota = new JPanel();
+		panelButtonFrota.setBounds(758, 352, 255, 49);
+		frotas.add(panelButtonFrota);
+		panelButtonFrota.setBackground(Color.WHITE);
+		panelButtonFrota.setLayout(null);
+		
+		btnBuscarFrota = new JButton("Buscar");
+		btnBuscarFrota.setBounds(144, 11, 90, 27);
+		panelButtonFrota.add(btnBuscarFrota);
+		
+		btnRemoverFrota = new JButton("Remover");
+		btnRemoverFrota.setBounds(27, 11, 90, 27);
+		panelButtonFrota.add(btnRemoverFrota);
+			
+			veiculos = new JPanel();
+			veiculos.setBackground(Color.WHITE);
+			viewPesquisa.addTab("Veiculo", null, veiculos, null);
+			veiculos.setLayout(null);
+			
+			panelButton = new JPanel();
+			panelButton.setBackground(Color.WHITE);
+			panelButton.setBounds(1003, 497, 277, 61);
+			veiculos.add(panelButton);
+			panelButton.setLayout(null);
+			
+				btnRemove = new JButton("Remover");
+				btnRemove.setBounds(28, 11, 102, 29);
+				panelButton.add(btnRemove);
+				
+				btnBuscarVeiculo = new JButton("Buscar");
+				btnBuscarVeiculo.setBounds(154, 11, 102, 29);
+				panelButton.add(btnBuscarVeiculo);
+				
+		panelTableVeiculo = new JPanel();
+		panelTableVeiculo.setBackground(Color.WHITE);
+		panelTableVeiculo.setBorder(BorderFactory.createTitledBorder("Lista de Veiculos"));
+		panelTableVeiculo.setBounds(13, 123, 1267, 313);
+		veiculos.add(panelTableVeiculo);
+		panelTableVeiculo.setLayout(null);
+		
+		scrollPaneVeiculo = new JScrollPane();
+		scrollPaneVeiculo.setBounds(10, 34, 1233, 251);
+		panelTableVeiculo.add(scrollPaneVeiculo);
+		
+		tableVeiculo = new JTable();
+		tableVeiculo.setBackground(Color.WHITE);
+		scrollPaneVeiculo.setViewportView(tableVeiculo);
+		
+		panelFilter = new JPanel();
+		panelFilter.setBounds(13, 23, 690, 70);
+		veiculos.add(panelFilter);
+		panelFilter.setLayout(null);
+		
+		JLabel lblRelatorioPlaca = new JLabel("Placa:");
+		lblRelatorioPlaca.setBounds(10, 31, 46, 14);
+		panelFilter.add(lblRelatorioPlaca);
+		
+		textRelatorioPlaca = new JTextField();
+		textRelatorioPlaca.setBounds(54, 28, 86, 20);
+		panelFilter.add(textRelatorioPlaca);
+		textRelatorioPlaca.setColumns(10);
+		
+		JLabel lblRelatorioRenavam = new JLabel("Renavam:");
+		lblRelatorioRenavam.setBounds(179, 31, 86, 14);
+		panelFilter.add(lblRelatorioRenavam);
+		
+		textRelatorioRenavam = new JTextField();
+		textRelatorioRenavam.setBounds(251, 28, 86, 20);
+		panelFilter.add(textRelatorioRenavam);
+		textRelatorioRenavam.setColumns(10);
+		
+		comboRelatorioTipo = new JComboBox();
+		comboRelatorioTipo.setModel(new DefaultComboBoxModel(new String[] {"Todos","Caminh\u00E3o", "Carro", "Van", "Carroceria"}));
+		comboRelatorioTipo.setBounds(447, 27, 123, 22);
+		panelFilter.add(comboRelatorioTipo);
+		
+		lblRelatorioTipo = new JLabel("Tipo:");
+		lblRelatorioTipo.setBounds(391, 31, 46, 14);
+		panelFilter.add(lblRelatorioTipo);
+		
+	// PEDIDO
+		
+			JPanel pedidos = new JPanel();
+			pedidos.setBackground(Color.WHITE);
+			viewPesquisa.addTab("Pedidos", null, pedidos, null);		
+			viewPesquisa.setBackgroundAt(3, Color.WHITE);
+			pedidos.setLayout(null);
+			
+			JPanel panelButtonPedido = new JPanel();
+			panelButtonPedido.setLayout(null);
+			panelButtonPedido.setBackground(Color.WHITE);
+			panelButtonPedido.setBounds(1026, 357, 251, 61);
+			pedidos.add(panelButtonPedido);
+			
+			JButton btnRemovePedido = new JButton("Remover");
+			btnRemovePedido.setBounds(20, 11, 89, 29);
+			panelButtonPedido.add(btnRemovePedido);
+			
+			JButton btnBuscarPedido = new JButton("Buscar");
+			btnBuscarPedido.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent e) {
+				}
+			});
+			btnBuscarPedido.setBounds(144, 11, 89, 29);
+			panelButtonPedido.add(btnBuscarPedido);
+			
+			JPanel panelTablePedido = new JPanel();
+			panelTablePedido.setBorder(BorderFactory.createTitledBorder("Lista de Pedidos"));
+			panelTablePedido.setBackground(Color.WHITE);
+			panelTablePedido.setBounds(10, 82, 1267, 264);
+			pedidos.add(panelTablePedido);
+			panelTablePedido.setLayout(null);
+			
+			JScrollPane scrollPanePedido = new JScrollPane();
+			scrollPanePedido.setBounds(10, 34, 1233, 205);
+			panelTablePedido.add(scrollPanePedido);
+			
+			tablePedido = new JTable();
+			scrollPanePedido.setViewportView(tablePedido);
+			
+			panelPedidoAdd = new JPanel();
+			panelPedidoAdd.setBounds(10, 11, 324, 60);
+			pedidos.add(panelPedidoAdd);
+			panelPedidoAdd.setLayout(null);
+			
+			comboBoxPedidoStatus = new JComboBox();
+			comboBoxPedidoStatus.setBounds(76, 11, 123, 22);
+			comboBoxPedidoStatus.setModel(new DefaultComboBoxModel(new String[] {"Todos","Cancelado", "Excluido"}));
+			panelPedidoAdd.add(comboBoxPedidoStatus);
+			
+			lblStatus = new JLabel("Status:");
+			lblStatus.setBounds(10, 15, 46, 14);
+			panelPedidoAdd.add(lblStatus);
+				
+		btnRemove.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				onRemoverVeiculo();
+				
+			}
+		});
+				
+				btnBuscarVeiculo.addActionListener(new ActionListener(){
+					
+					public void actionPerformed(ActionEvent e) {
+						
+						refreshTableVeiculo();
+					}
+					
+				});
+				
+				
+	    enableFild(false);
+		
+		
+		
+		// FROTAS
+		
+		btnBuscarFrota.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent arg0) {
+				refreshTableFrota();
+				enableFild(true);
+			}
+		});
+		
+		
+		
+		btnRemoverFrota.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				onRemoverFrota();
+				
+			}
+		});
+		
+		// PEDIDO
+		
+		btnBuscarPedido.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent arg0) {
+				refreshTablePedido();
+				enableFild(true);
+			}
+		});
+		
+		btnRemovePedido.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				onRemoverPedido();
+				
+			}
+		});
+
+	}
+	
+
+	/*
+	 *  Metodos acao tabela frotas
+	 * 
+	 * Author Lucas Gabriel
+	 * */
+	
+	private void refreshTableFrota(){
+		
+		Relatorio relatorio = new Relatorio();
+		
+		relatorio.setStatusRelatorio(2);
+		
+		frotaList = new RelatorioController().findAll(relatorio);
+		
+		if(frotaList != null){
+			
+			tableFrota.setModel(new RelatorioTableModelFrota(frotaList));
+		//	tableVeiculo.setDefaultRenderer(Object.class, new RelatorioCellRenderer());
+		}
+		
+	}
+	
+	
+	private void onRemoverFrota(){
+		
+		int rowIndex =  tableFrota.getSelectedRow();
+		
+		// se a tabela nao tiver nenhuma linha selecionada
+		if(rowIndex == -1){
+			JOptionPane.showMessageDialog(this, "selecione o veiculo a ser removido");
+			return;
+		}
+		
+		Relatorio lineTableFrota = new RelatorioTableModelFrota(frotaList).get(rowIndex);
+		
+		lineTableFrota.setStatusRelatorio(2);
+		
+		int confirm = JOptionPane.showConfirmDialog(this, "Confirmar exclusao?", "Excluir Veiculo", JOptionPane.YES_NO_OPTION);
+		
+		if(confirm != 0){
+			return;
+		}
+		
+		boolean result = new RelatorioController().remove(lineTableFrota);
+		
+
+		if(result == true){
+			
+			JOptionPane.showMessageDialog(this, "Valor removido com sucesso");
+			refreshTableFrota();
+			
+		}
+		else{
+			JOptionPane.showMessageDialog(this, "Tente novamente");
+		}
+		
+	}
+	
+	
+	
+	
+	
+	public void refreshTableVeiculo(){
+		
+		Relatorio relatorio = new Relatorio();
+		
+		relatorio.setStatusRelatorio(1);
+		relatorio.setPlaca(textRelatorioPlaca.getText());
+		relatorio.setRenavam(textRelatorioRenavam.getText());
+		relatorio.setComboTipoVeiculo(String.valueOf(comboRelatorioTipo.getSelectedItem()));
+		
+		
+		if(relatorio.getComboTipoVeiculo().equals("Todos"))
+			relatorio.setComboTipoVeiculo("");
+		
+		veiculoList = new RelatorioController().findAll(relatorio);
+		
+		if(veiculoList != null){
+			
+			tableVeiculo.setModel(new RelatorioTableModelVeiculo(veiculoList));
+		//	tableVeiculo.setDefaultRenderer(Object.class, new RelatorioCellRenderer());
+		}
+		
+	}
+	
+	public void refreshTablePedido(){
+		
+		Relatorio relatorio = new Relatorio();
+		
+		relatorio.setStatusRelatorio(3);
+		relatorio.setStatusPedido(String.valueOf(comboBoxPedidoStatus.getSelectedItem()));
+		
+		if(relatorio.getStatusPedido().equals("Todos")){
+			relatorio.setStatusPedido("");
+		}
+		
+		pedidoList = new RelatorioController().findAll(relatorio);
+		
+		if(pedidoList != null){
+			
+			tablePedido.setModel(new RelatorioTableModelPedido(pedidoList));
+		//	tableVeiculo.setDefaultRenderer(Object.class, new RelatorioCellRenderer());
+		}
+		
+	}
+	
+	
+	private void onRemoverVeiculo(){
+		
+		int rowIndex =  tableVeiculo.getSelectedRow();
+		
+		// se a tabela nao tiver nenhuma linha selecionada
+		if(rowIndex == -1){
+			JOptionPane.showMessageDialog(this, "selecione o veiculo a ser removido");
+			return;
+		}
+		
+		Relatorio lineTableVeiculo = new RelatorioTableModelVeiculo(veiculoList).get(rowIndex);
+		
+		lineTableVeiculo.setStatusRelatorio(1);
+		
+		int confirm = JOptionPane.showConfirmDialog(this, "Confirmar exclusao?", "Excluir Veiculo", JOptionPane.YES_NO_OPTION);
+		
+		if(confirm != 0){
+			return;
+		}
+		
+		boolean result = new RelatorioController().remove(lineTableVeiculo);
+		
+
+		if(result == true){
+			
+			JOptionPane.showMessageDialog(this, "Valor removido com sucesso");
+			refreshTableVeiculo();
+		}
+		else{
+			JOptionPane.showMessageDialog(this, "Tente novamente");
+		}
+		
+	}
+	
+	private void onAlterarVeiculo(){
+		
+		int rowIndex =  tableVeiculo.getSelectedRow();
+		
+		// se a tabela nao tiver nenhuma linha selecionada
+		if(rowIndex == -1){
+			JOptionPane.showMessageDialog(this, "selecione o veiculo a ser alterado");
+			return;
+		}
+		
+		Relatorio veiculo = new RelatorioTableModelVeiculo(veiculoList).get(rowIndex);
+		
+		idVeiculo = veiculo.getPlaca();
+		
+//		txtPlaca.setText(veiculo.getPlaca());
+//		txtRenavam.setText(veiculo.getRenavam());
+//		texTipo.setText(veiculo.getComboTipoVeiculo());
+//		textTara.setText(String.valueOf(veiculo.getTara()));
+//		textCap_Comp_Carga.setText(String.valueOf(veiculo.getCompCapacidadeCarga()));
+//		textLargura_Carga.setText(String.valueOf(veiculo.getLarguraCapacidadeCarga()));
+//		textAltura_Carga.setText(String.valueOf(veiculo.getAlturaCapacidadeCarga()));
+//		txtPesoCarga.setText(String.valueOf(veiculo.getPesoMaxCarga()));
+//		textNumero_Eixo.setText(String.valueOf(veiculo.getNumeroEixos()));
+//		textCap_Combustivel.setText(String.valueOf(veiculo.getCapacidadeTanqueComb()));
+//		textModelo.setText(veiculo.getMarcaModelo());
+//		textCombustivel.setText(veiculo.getCombustivel());
+//		textAnoFabricacao.setText(String.valueOf(veiculo.getAnoFabricacao()));
+		
+		enableFild(true);
+	}
+	
+	public void onSaveVeiculos(Relatorio relatorio){
+			
+			relatorio.setStatusRelatorio(1);
+		
+			boolean result = new RelatorioController().update(relatorio);
+		
+			if(result == true){
+			
+			JOptionPane.showMessageDialog(this, "Veiculo Atualizado com sucesso");
+			enableFild(false);
+			onCancelar();
+			
+			
+			refreshTableVeiculo();
+			
+		
+			}
+			
+			else{
+				JOptionPane.showMessageDialog(this, "Tente Novamente");
+			}	
+		}
+		
+	
+	private void onRemoverPedido(){
+		
+		int rowIndex =  tablePedido.getSelectedRow();
+		
+		// se a tabela nao tiver nenhuma linha selecionada
+		if(rowIndex == -1){
+			JOptionPane.showMessageDialog(this, "selecione o pedido a ser removido");
+			return;
+		}
+		
+		Relatorio lineTablePedido = new RelatorioTableModelVeiculo(pedidoList).get(rowIndex);
+		
+		lineTablePedido.setStatusRelatorio(3);
+		
+		int confirm = JOptionPane.showConfirmDialog(this, "Confirmar exclusao?", "Excluir Pedido", JOptionPane.YES_NO_OPTION);
+		
+		if(confirm != 0){
+			return;
+		}
+		
+		boolean result = new RelatorioController().remove(lineTablePedido);
+
+		if(result == true){
+			
+			JOptionPane.showMessageDialog(this, "Valor removido com sucesso");
+			refreshTablePedido();
+		}
+		else{
+			JOptionPane.showMessageDialog(this, "Tente novamente");
+		}
+		
+	}
+
+	public void onCancelar(){
+		
+//		txtPlaca.setText("");
+//		txtRenavam.setText("");
+//		texTipo.setText("");
+//		textTara.setText("");
+//		textCap_Comp_Carga.setText("");
+//		textLargura_Carga.setText("");
+//		textAltura_Carga.setText("");
+//		txtPesoCarga.setText("");
+//		textNumero_Eixo.setText("");
+//		textCap_Combustivel.setText("");
+//		textModelo.setText("");
+//		textCombustivel.setText("");
+//		textAnoFabricacao.setText("");
+
+		enableFild(false);
+		
+	}
+
+	public void enableFild(boolean b){
+		btnRemoverFrota.setEnabled(b);
+
+	}
+	
+   public boolean confirmaExclusao() {
+		
+		int confirm = JOptionPane.showConfirmDialog(this, "Confirmar alteração?", "Alterar Veiculo", JOptionPane.YES_NO_OPTION);
+		
+		if(confirm != 0){
+			
+			return false;
+		}
+		
+		return true;
+	}
+   
+	public boolean error(){
+
+		JOptionPane.showMessageDialog(this, "Esse campo não pode ser alterado");
+		
+		return false;
+	}
+}

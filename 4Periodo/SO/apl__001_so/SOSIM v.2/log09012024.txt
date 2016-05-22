@@ -1,0 +1,1782 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+9 : Processo 2450791 alocacao de blocos no pagefile
+9 : Processo 2450791 HwPF - Executável0
+9 : Processo 2450791 HwPF - Executável1
+9 : Processo 2450791 HwPF - Executável2
+9 : Processo 2450791 HwPF - Executável3
+9 : Processo 2450791 HwPF - Executável4
+9 : Processo 2450791 criado
+10 : Processo 2450791 Pronto -> Exec
+11 : Processo 2450791 Exec -> Pronto por tempo
+12 : Processo 2450791 Pronto -> Exec
+13 : Processo 2450791 Exec -> Pronto por tempo
+13 : Processo 2454647 alocacao de blocos no pagefile
+13 : Processo 2454647 HwPF - Executável0
+13 : Processo 2454647 HwPF - Executável1
+13 : Processo 2454647 HwPF - Executável2
+13 : Processo 2454647 HwPF - Executável3
+13 : Processo 2454647 HwPF - Executável4
+13 : Processo 2454647 criado
+14 : Processo 2450791 Pronto -> Exec
+15 : Processo 2450791 Exec -> Pronto por tempo
+16 : Processo 2454647 Pronto -> Exec
+16 : Processo 2454647 Exec -> I/O
+17 : Processo 2450791 Pronto -> Exec
+18 : Processo 2450791 Exec -> Pronto por tempo
+19 : Processo 2450791 Pronto -> Exec
+19 : Processo 2454647 Aumento de prioridade +1
+20 : Processo 2450791 Exec -> Pronto por tempo
+21 : Processo 2454647 Pronto -> Exec
+22 : Processo 2454647 Exec -> Pronto por tempo
+23 : Processo 2450791 Pronto -> Exec
+24 : Processo 2450791 Exec -> Pronto por tempo
+25 : Processo 2454647 Pronto -> Exec
+25 : Processo 2454647 Exec -> I/O
+25 : Processo 2454647 Aumento de prioridade +1
+26 : Processo 2454647 Pronto -> Exec
+26 : Processo 2454647 Exec -> I/O
+27 : Processo 2450791 Pronto -> Exec
+27 : Processo 2454647 Aumento de prioridade +1
+28 : Processo 2450791 Exec -> Pronto por tempo
+29 : Processo 2454647 Pronto -> Exec
+29 : Processo 2454647 Exec -> I/O
+29 : Processo 2454647 Aumento de prioridade +1
+30 : Processo 2454647 Pronto -> Exec
+30 : Processo 2454647 Exec -> I/O
+30 : Processo 2454647 Aumento de prioridade +1
+31 : Processo 2454647 Pronto -> Exec
+31 : Processo 2454647 Exec -> I/O
+31 : Processo 2454647 Aumento de prioridade +1
+32 : Processo 2454647 Pronto -> Exec
+32 : Processo 2454647 Exec -> I/O
+32 : Processo 2454647 Aumento de prioridade +1
+33 : Processo 2454647 Pronto -> Exec
+33 : Processo 2454647 Exec -> I/O
+33 : Processo 2454647 Aumento de prioridade +1
+34 : Processo 2454647 Pronto -> Exec
+34 : Processo 2454647 Exec -> I/O
+35 : Processo 2450791 Pronto -> Exec
+35 : Processo 2454647 Aumento de prioridade +1
+36 : Processo 2450791 Exec -> Pronto por tempo
+37 : Processo 2454647 Pronto -> Exec
+37 : Processo 2454647 Exec -> I/O
+37 : Processo 2454647 Aumento de prioridade +1
+38 : Processo 2454647 Pronto -> Exec
+38 : Processo 2454647 Exec -> I/O
+38 : Processo 2454647 Aumento de prioridade +1
+39 : Processo 2454647 Pronto -> Exec
+39 : Processo 2454647 Exec -> I/O
+39 : Processo 2454647 Aumento de prioridade +1
+40 : Processo 2454647 Pronto -> Exec
+40 : Processo 2454647 Exec -> I/O
+40 : Processo 2454647 Aumento de prioridade +1
+41 : Processo 2454647 Pronto -> Exec
+41 : Processo 2454647 Exec -> I/O
+41 : Processo 2454647 Aumento de prioridade +1
+42 : Processo 2454647 Pronto -> Exec
+42 : Processo 2454647 Exec -> I/O
+43 : Processo 2450791 Pronto -> Exec
+43 : Processo 2454647 Aumento de prioridade +1
+44 : Processo 2450791 Exec -> Pronto por tempo
+45 : Processo 2454647 Pronto -> Exec
+45 : Processo 2454647 Exec -> I/O
+45 : Processo 2454647 Aumento de prioridade +1
+46 : Processo 2454647 Pronto -> Exec
+46 : Processo 2454647 Exec -> I/O
+46 : Processo 2454647 Aumento de prioridade +1
+47 : Processo 2454647 Pronto -> Exec
+47 : Processo 2454647 Exec -> I/O
+47 : Processo 2454647 Aumento de prioridade +1
+48 : Processo 2454647 Pronto -> Exec
+48 : Processo 2454647 Exec -> I/O
+48 : Processo 2454647 Aumento de prioridade +1
+49 : Processo 2454647 Pronto -> Exec
+49 : Processo 2454647 Exec -> I/O
+49 : Processo 2454647 Aumento de prioridade +1
+50 : Processo 2454647 Pronto -> Exec
+50 : Processo 2454647 Exec -> I/O
+51 : Processo 2450791 Pronto -> Exec
+51 : Processo 2454647 Aumento de prioridade +1
+52 : Processo 2450791 Exec -> Pronto por tempo
+53 : Processo 2454647 Pronto -> Exec
+53 : Processo 2454647 Exec -> I/O
+53 : Processo 2454647 Aumento de prioridade +1
+54 : Processo 2454647 Pronto -> Exec
+54 : Processo 2454647 Exec -> I/O
+54 : Processo 2454647 Aumento de prioridade +1
+55 : Processo 2454647 Pronto -> Exec
+55 : Processo 2454647 Exec -> I/O
+55 : Processo 2454647 Aumento de prioridade +1
+56 : Processo 2454647 Pronto -> Exec
+56 : Processo 2454647 Exec -> I/O
+56 : Processo 2454647 Aumento de prioridade +1
+57 : Processo 2454647 Pronto -> Exec
+57 : Processo 2454647 Exec -> I/O
+57 : Processo 2454647 Aumento de prioridade +1
+58 : Processo 2454647 Pronto -> Exec
+58 : Processo 2454647 Exec -> I/O
+59 : Processo 2450791 Pronto -> Exec
+59 : Processo 2454647 Aumento de prioridade +1
+60 : Processo 2450791 Exec -> Pronto por tempo
+61 : Processo 2454647 Pronto -> Exec
+61 : Processo 2454647 Exec -> I/O
+61 : Processo 2454647 Aumento de prioridade +1
+62 : Processo 2454647 Pronto -> Exec
+62 : Processo 2454647 Exec -> I/O
+62 : Processo 2454647 Aumento de prioridade +1
+63 : Processo 2454647 Pronto -> Exec
+63 : Processo 2454647 Exec -> I/O
+63 : Processo 2454647 Aumento de prioridade +1
+64 : Processo 2454647 Pronto -> Exec
+64 : Processo 2454647 Exec -> I/O
+64 : Processo 2454647 Aumento de prioridade +1
+65 : Processo 2454647 Pronto -> Exec
+65 : Processo 2454647 Exec -> I/O
+65 : Processo 2454647 Aumento de prioridade +1
+66 : Processo 2454647 Pronto -> Exec
+66 : Processo 2454647 Exec -> I/O
+66 : Processo 2454647 Aumento de prioridade +1
+67 : Processo 2454647 Pronto -> Exec
+67 : Processo 2454647 Exec -> I/O
+68 : Processo 2450791 Pronto -> Exec
+68 : Processo 2454647 Aumento de prioridade +1
+69 : Processo 2450791 Exec -> Pronto por tempo
+70 : Processo 2454647 Pronto -> Exec
+70 : Processo 2454647 Exec -> I/O
+70 : Processo 2454647 Aumento de prioridade +1
+71 : Processo 2454647 Pronto -> Exec
+71 : Processo 2454647 Exec -> I/O
+71 : Processo 2454647 Aumento de prioridade +1
+72 : Processo 2454647 Pronto -> Exec
+72 : Processo 2454647 Exec -> I/O
+72 : Processo 2454647 Aumento de prioridade +1
+73 : Processo 2454647 Pronto -> Exec
+73 : Processo 2454647 Exec -> I/O
+73 : Processo 2454647 Aumento de prioridade +1
+74 : Processo 2454647 Pronto -> Exec
+74 : Processo 2454647 Exec -> I/O
+75 : Processo 2450791 Pronto -> Exec
+76 : Processo 2450791 Exec -> Pronto por tempo
+77 : Processo 2454647 Pronto -> Exec
+77 : Processo 2454647 Exec -> I/O
+77 : Processo 2454647 Aumento de prioridade +1
+78 : Processo 2454647 Pronto -> Exec
+79 : Processo 2454647 Exec -> Pronto por tempo
+80 : Processo 2450791 Pronto -> Exec
+81 : Processo 2450791 Exec -> Pronto por tempo
+82 : Processo 2454647 Pronto -> Exec
+82 : Processo 2454647 Exec -> I/O
+82 : Processo 2454647 Aumento de prioridade +1
+83 : Processo 2454647 Pronto -> Exec
+83 : Processo 2454647 Exec -> I/O
+83 : Processo 2454647 Aumento de prioridade +1
+84 : Processo 2454647 Pronto -> Exec
+84 : Processo 2454647 Exec -> I/O
+84 : Processo 2454647 Aumento de prioridade +1
+85 : Processo 2454647 Pronto -> Exec
+85 : Processo 2454647 Exec -> I/O
+86 : Processo 2450791 Pronto -> Exec
+86 : Processo 2454647 Aumento de prioridade +1
+87 : Processo 2450791 Exec -> Pronto por tempo
+88 : Processo 2454647 Pronto -> Exec
+88 : Processo 2454647 Exec -> I/O
+88 : Processo 2454647 Aumento de prioridade +1
+89 : Processo 2454647 Pronto -> Exec
+89 : Processo 2454647 Exec -> I/O
+89 : Processo 2454647 Aumento de prioridade +1
+90 : Processo 2454647 Pronto -> Exec
+90 : Processo 2454647 Exec -> I/O
+90 : Processo 2454647 Aumento de prioridade +1
+91 : Processo 2454647 Pronto -> Exec
+91 : Processo 2454647 Exec -> I/O
+91 : Processo 2454647 Aumento de prioridade +1
+92 : Processo 2454647 Pronto -> Exec
+92 : Processo 2454647 Exec -> I/O
+92 : Processo 2454647 Aumento de prioridade +1
+93 : Processo 2454647 Pronto -> Exec
+93 : Processo 2454647 Exec -> I/O
+93 : Processo 2454647 Aumento de prioridade +1
+94 : Processo 2454647 Pronto -> Exec
+94 : Processo 2454647 Exec -> I/O
+95 : Processo 2450791 Pronto -> Exec
+95 : Processo 2454647 Aumento de prioridade +1
+96 : Processo 2450791 Exec -> Pronto por tempo
+97 : Processo 2454647 Pronto -> Exec
+97 : Processo 2454647 Exec -> I/O
+97 : Processo 2454647 Aumento de prioridade +1
+98 : Processo 2454647 Pronto -> Exec
+98 : Processo 2454647 Exec -> I/O
+98 : Processo 2454647 Aumento de prioridade +1
+99 : Processo 2454647 Pronto -> Exec
+99 : Processo 2454647 Exec -> I/O
+99 : Processo 2454647 Aumento de prioridade +1
+100 : Processo 2454647 Pronto -> Exec
+100 : Processo 2454647 Exec -> I/O
+100 : Processo 2454647 Aumento de prioridade +1
+101 : Processo 2454647 Pronto -> Exec
+101 : Processo 2454647 Exec -> I/O
+101 : Processo 2454647 Aumento de prioridade +1
+102 : Processo 2454647 Pronto -> Exec
+102 : Processo 2454647 Exec -> I/O
+103 : Processo 2450791 Pronto -> Exec
+103 : Processo 2454647 Aumento de prioridade +1
+104 : Processo 2450791 Exec -> Pronto por tempo
+105 : Processo 2454647 Pronto -> Exec
+105 : Processo 2454647 Exec -> I/O
+105 : Processo 2454647 Aumento de prioridade +1
+106 : Processo 2454647 Pronto -> Exec
+106 : Processo 2454647 Exec -> I/O
+106 : Processo 2454647 Aumento de prioridade +1
+107 : Processo 2454647 Pronto -> Exec
+107 : Processo 2454647 Exec -> I/O
+107 : Processo 2454647 Aumento de prioridade +1
+108 : Processo 2454647 Pronto -> Exec
+108 : Processo 2454647 Exec -> I/O
+108 : Processo 2454647 Aumento de prioridade +1
+109 : Processo 2454647 Pronto -> Exec
+109 : Processo 2454647 Exec -> I/O
+110 : Processo 2450791 Pronto -> Exec
+110 : Processo 2454647 Aumento de prioridade +1
+111 : Processo 2450791 Exec -> Pronto por tempo
+112 : Processo 2454647 Pronto -> Exec
+112 : Processo 2454647 Exec -> I/O
+112 : Processo 2454647 Aumento de prioridade +1
+113 : Processo 2454647 Pronto -> Exec
+113 : Processo 2454647 Exec -> I/O
+113 : Processo 2454647 Aumento de prioridade +1
+114 : Processo 2454647 Pronto -> Exec
+114 : Processo 2454647 Exec -> I/O
+114 : Processo 2454647 Aumento de prioridade +1
+115 : Processo 2454647 Pronto -> Exec
+115 : Processo 2454647 Exec -> I/O
+115 : Processo 2454647 Aumento de prioridade +1
+116 : Processo 2454647 Pronto -> Exec
+116 : Processo 2454647 Exec -> I/O
+117 : Processo 2450791 Pronto -> Exec
+117 : Processo 2454647 Aumento de prioridade +1
+118 : Processo 2450791 Exec -> Pronto por tempo
+119 : Processo 2454647 Pronto -> Exec
+119 : Processo 2454647 Exec -> I/O
+119 : Processo 2454647 Aumento de prioridade +1
+120 : Processo 2454647 Pronto -> Exec
+120 : Processo 2454647 Exec -> I/O
+120 : Processo 2454647 Aumento de prioridade +1
+121 : Processo 2454647 Pronto -> Exec
+121 : Processo 2454647 Exec -> I/O
+121 : Processo 2454647 Aumento de prioridade +1
+122 : Processo 2454647 Pronto -> Exec
+122 : Processo 2454647 Exec -> I/O
+122 : Processo 2454647 Aumento de prioridade +1
+123 : Processo 2454647 Pronto -> Exec
+123 : Processo 2454647 Exec -> I/O
+124 : Processo 2450791 Pronto -> Exec
+124 : Processo 2454647 Aumento de prioridade +1
+125 : Processo 2450791 Exec -> Pronto por tempo
+126 : Processo 2454647 Pronto -> Exec
+126 : Processo 2454647 Exec -> I/O
+126 : Processo 2454647 Aumento de prioridade +1
+127 : Processo 2454647 Pronto -> Exec
+127 : Processo 2454647 Exec -> I/O
+127 : Processo 2454647 Aumento de prioridade +1
+128 : Processo 2454647 Pronto -> Exec
+128 : Processo 2454647 Exec -> I/O
+128 : Processo 2454647 Aumento de prioridade +1
+129 : Processo 2454647 Pronto -> Exec
+129 : Processo 2454647 Exec -> I/O
+129 : Processo 2454647 Aumento de prioridade +1
+130 : Processo 2454647 Pronto -> Exec
+130 : Processo 2454647 Exec -> I/O
+131 : Processo 2450791 Pronto -> Exec
+131 : Processo 2454647 Aumento de prioridade +1
+132 : Processo 2450791 Exec -> Pronto por tempo
+133 : Processo 2454647 Pronto -> Exec
+133 : Processo 2454647 Exec -> I/O
+134 : Processo 2450791 Pronto -> Exec
+135 : Processo 2450791 Exec -> Pronto por tempo
+136 : Processo 2454647 Pronto -> Exec
+136 : Processo 2454647 Exec -> I/O
+136 : Processo 2454647 Aumento de prioridade +1
+137 : Processo 2454647 Pronto -> Exec
+138 : Processo 2454647 Exec -> Pronto por tempo
+139 : Processo 2450791 Pronto -> Exec
+140 : Processo 2450791 Exec -> Pronto por tempo
+141 : Processo 2454647 Pronto -> Exec
+141 : Processo 2454647 Exec -> I/O
+142 : Processo 2450791 Pronto -> Exec
+142 : Processo 2454647 Aumento de prioridade +1
+143 : Processo 2450791 Exec -> Pronto por tempo
+144 : Processo 2454647 Pronto -> Exec
+144 : Processo 2454647 Exec -> I/O
+144 : Processo 2454647 Aumento de prioridade +1
+145 : Processo 2454647 Pronto -> Exec
+145 : Processo 2454647 Exec -> I/O
+145 : Processo 2454647 Aumento de prioridade +1
+146 : Processo 2454647 Pronto -> Exec
+146 : Processo 2454647 Exec -> I/O
+146 : Processo 2454647 Aumento de prioridade +1
+147 : Processo 2454647 Pronto -> Exec
+147 : Processo 2454647 Exec -> I/O
+147 : Processo 2454647 Aumento de prioridade +1
+148 : Processo 2454647 Pronto -> Exec
+148 : Processo 2454647 Exec -> I/O
+149 : Processo 2450791 Pronto -> Exec
+149 : Processo 2454647 Aumento de prioridade +1
+150 : Processo 2450791 Exec -> Pronto por tempo
+151 : Processo 2454647 Pronto -> Exec
+151 : Processo 2454647 Exec -> I/O
+151 : Processo 2454647 Aumento de prioridade +1
+152 : Processo 2454647 Pronto -> Exec
+152 : Processo 2454647 Exec -> I/O
+152 : Processo 2454647 Aumento de prioridade +1
+153 : Processo 2454647 Pronto -> Exec
+153 : Processo 2454647 Exec -> I/O
+153 : Processo 2454647 Aumento de prioridade +1
+154 : Processo 2454647 Pronto -> Exec
+154 : Processo 2454647 Exec -> I/O
+154 : Processo 2454647 Aumento de prioridade +1
+155 : Processo 2454647 Pronto -> Exec
+155 : Processo 2454647 Exec -> I/O
+156 : Processo 2450791 Pronto -> Exec
+156 : Processo 2454647 Aumento de prioridade +1
+157 : Processo 2450791 Exec -> Pronto por tempo
+158 : Processo 2454647 Pronto -> Exec
+158 : Processo 2454647 Exec -> I/O
+158 : Processo 2454647 Aumento de prioridade +1
+159 : Processo 2454647 Pronto -> Exec
+159 : Processo 2454647 Exec -> I/O
+159 : Processo 2454647 Aumento de prioridade +1
+160 : Processo 2454647 Pronto -> Exec
+160 : Processo 2454647 Exec -> I/O
+160 : Processo 2454647 Aumento de prioridade +1
+161 : Processo 2454647 Pronto -> Exec
+161 : Processo 2454647 Exec -> I/O
+161 : Processo 2454647 Aumento de prioridade +1
+162 : Processo 2454647 Pronto -> Exec
+162 : Processo 2454647 Exec -> I/O
+163 : Processo 2450791 Pronto -> Exec
+163 : Processo 2454647 Aumento de prioridade +1
+164 : Processo 2450791 Exec -> Pronto por tempo
+165 : Processo 2454647 Pronto -> Exec
+165 : Processo 2454647 Exec -> I/O
+165 : Processo 2454647 Aumento de prioridade +1
+166 : Processo 2454647 Pronto -> Exec
+166 : Processo 2454647 Exec -> I/O
+166 : Processo 2454647 Aumento de prioridade +1
+167 : Processo 2454647 Pronto -> Exec
+167 : Processo 2454647 Exec -> I/O
+167 : Processo 2454647 Aumento de prioridade +1
+168 : Processo 2454647 Pronto -> Exec
+168 : Processo 2454647 Exec -> I/O
+169 : Processo 2450791 Pronto -> Exec
+170 : Processo 2450791 Exec -> Pronto por tempo
+171 : Processo 2450791 Pronto -> Exec
+172 : Processo 2450791 Exec -> Pronto por tempo
+173 : Processo 2450791 Pronto -> Exec
+174 : Processo 2450791 Exec -> Pronto por tempo
+175 : Processo 2450791 Pronto -> Exec
+176 : Processo 2450791 Exec -> Pronto por tempo
+177 : Processo 2450791 Pronto -> Exec
+177 : Processo 2454647 Aumento de prioridade +1
+178 : Processo 2450791 Exec -> Pronto por tempo
+179 : Processo 2454647 Pronto -> Exec
+179 : Processo 2454647 Exec -> I/O
+180 : Processo 2450791 Pronto -> Exec
+181 : Processo 2450791 Exec -> Pronto por tempo
+182 : Processo 2450791 Pronto -> Exec
+183 : Processo 2450791 Exec -> Pronto por tempo
+184 : Processo 2450791 Pronto -> Exec
+185 : Processo 2450791 Exec -> Pronto por tempo
+186 : Processo 2450791 Pronto -> Exec
+187 : Processo 2450791 Exec -> Pronto por tempo
+188 : Processo 2450791 Pronto -> Exec
+188 : Processo 2454647 Aumento de prioridade +1
+189 : Processo 2450791 Exec -> Pronto por tempo
+190 : Processo 2454647 Pronto -> Exec
+190 : Processo 2454647 Exec -> I/O
+191 : Processo 2450791 Pronto -> Exec
+192 : Processo 2450791 Exec -> Pronto por tempo
+193 : Processo 2450791 Pronto -> Exec
+194 : Processo 2450791 Exec -> Pronto por tempo
+195 : Processo 2450791 Pronto -> Exec
+196 : Processo 2450791 Exec -> Pronto por tempo
+197 : Processo 2450791 Pronto -> Exec
+198 : Processo 2450791 Exec -> Pronto por tempo
+199 : Processo 2450791 Pronto -> Exec
+200 : Processo 2450791 Exec -> Pronto por tempo
+201 : Processo 2450791 Pronto -> Exec
+202 : Processo 2450791 Exec -> Pronto por tempo
+203 : Processo 2450791 Pronto -> Exec
+213 : Processo 2450791 Exec -> Pronto por tempo
+214 : Processo 2450791 Pronto -> Exec
+224 : Processo 2450791 Exec -> Pronto por tempo
+225 : Processo 2450791 Pronto -> Exec
+235 : Processo 2450791 Exec -> Pronto por tempo
+236 : Processo 2450791 Pronto -> Exec
+246 : Processo 2450791 Exec -> Pronto por tempo
+247 : Processo 2450791 Pronto -> Exec
+257 : Processo 2450791 Exec -> Pronto por tempo
+258 : Processo 2450791 Pronto -> Exec
+268 : Processo 2450791 Exec -> Pronto por tempo
+269 : Processo 2450791 Pronto -> Exec
+279 : Processo 2450791 Exec -> Pronto por tempo
+280 : Processo 2450791 Pronto -> Exec
+290 : Processo 2450791 Exec -> Pronto por tempo
+291 : Processo 2450791 Pronto -> Exec
+301 : Processo 2450791 Exec -> Pronto por tempo
+302 : Processo 2450791 Pronto -> Exec
+312 : Processo 2450791 Exec -> Pronto por tempo
+313 : Processo 2450791 Pronto -> Exec
+320 : Processo 2450791 Exec -> Pronto por tempo
+321 : Processo 2450791 Pronto -> Exec
+324 : Processo 2450791 Exec -> Pronto por tempo
+325 : Processo 2450791 Pronto -> Exec
+326 : Processo 2450791 Exec -> Pronto por tempo
+327 : Processo 2450791 Pronto -> Exec
+328 : Processo 2450791 Exec -> Pronto por tempo
+329 : Processo 2450791 Pronto -> Exec
+330 : Processo 2450791 Exec -> Pronto por tempo
+331 : Processo 2450791 Pronto -> Exec
+332 : Processo 2450791 Exec -> Pronto por tempo
+333 : Processo 2450791 Pronto -> Exec
+334 : Processo 2450791 Exec -> Pronto por tempo
+335 : Processo 2450791 Pronto -> Exec
+336 : Processo 2450791 Exec -> Pronto por tempo
+337 : Processo 2450791 Pronto -> Exec
+338 : Processo 2450791 Exec -> Pronto por tempo
+339 : Processo 2450791 Pronto -> Exec
+340 : Processo 2450791 Exec -> Pronto por tempo
+341 : Processo 2450791 Pronto -> Exec
+342 : Processo 2450791 Exec -> Pronto por tempo
+343 : Processo 2450791 Pronto -> Exec
+344 : Processo 2450791 Exec -> Pronto por tempo
+345 : Processo 2450791 Pronto -> Exec
+346 : Processo 2450791 Exec -> Pronto por tempo
+347 : Processo 2450791 Pronto -> Exec
+348 : Processo 2450791 Exec -> Pronto por tempo
+349 : Processo 2450791 Pronto -> Exec
+350 : Processo 2450791 Exec -> Pronto por tempo
+351 : Processo 2450791 Pronto -> Exec
+352 : Processo 2450791 Exec -> Pronto por tempo
+353 : Processo 2450791 Pronto -> Exec
+354 : Processo 2450791 Exec -> Pronto por tempo
+355 : Processo 2450791 Pronto -> Exec
+356 : Processo 2450791 Exec -> Pronto por tempo
+357 : Processo 2450791 Pronto -> Exec
+358 : Processo 2450791 Exec -> Pronto por tempo
+359 : Processo 2450791 Pronto -> Exec
+360 : Processo 2450791 Exec -> Pronto por tempo
+361 : Processo 2450791 Pronto -> Exec
+362 : Processo 2450791 Exec -> Pronto por tempo
+363 : Processo 2450791 Pronto -> Exec
+364 : Processo 2450791 Exec -> Pronto por tempo
+365 : Processo 2450791 Pronto -> Exec
+366 : Processo 2450791 Exec -> Pronto por tempo
+367 : Processo 2450791 Pronto -> Exec
+368 : Processo 2450791 Exec -> Pronto por tempo
+369 : Processo 2450791 Pronto -> Exec
+370 : Processo 2450791 Exec -> Pronto por tempo
+371 : Processo 2450791 Pronto -> Exec
+372 : Processo 2450791 Exec -> Pronto por tempo
+373 : Processo 2450791 Pronto -> Exec
+374 : Processo 2450791 Exec -> Pronto por tempo
+375 : Processo 2450791 Pronto -> Exec
+376 : Processo 2450791 Exec -> Pronto por tempo
+377 : Processo 2450791 Pronto -> Exec
+378 : Processo 2450791 Exec -> Pronto por tempo
+379 : Processo 2450791 Pronto -> Exec
+380 : Processo 2450791 Exec -> Pronto por tempo
+381 : Processo 2450791 Pronto -> Exec
+382 : Processo 2450791 Exec -> Pronto por tempo
+383 : Processo 2450791 Pronto -> Exec
+384 : Processo 2450791 Exec -> Pronto por tempo
+385 : Processo 2450791 Pronto -> Exec
+386 : Processo 2450791 Exec -> Pronto por tempo
+387 : Processo 2450791 Pronto -> Exec
+388 : Processo 2450791 Exec -> Pronto por tempo
+389 : Processo 2450791 Pronto -> Exec
+390 : Processo 2450791 Exec -> Pronto por tempo
+391 : Processo 2450791 Pronto -> Exec
+392 : Processo 2450791 Exec -> Pronto por tempo
+393 : Processo 2450791 Pronto -> Exec
+394 : Processo 2450791 Exec -> Pronto por tempo
+395 : Processo 2450791 Pronto -> Exec
+396 : Processo 2450791 Exec -> Pronto por tempo
+397 : Processo 2450791 Pronto -> Exec
+398 : Processo 2450791 Exec -> Pronto por tempo
+399 : Processo 2450791 Pronto -> Exec
+400 : Processo 2450791 Exec -> Pronto por tempo
+401 : Processo 2450791 Pronto -> Exec
+402 : Processo 2450791 Exec -> Pronto por tempo
+403 : Processo 2450791 Pronto -> Exec
+404 : Processo 2450791 Exec -> Pronto por tempo
+405 : Processo 2450791 Pronto -> Exec
+406 : Processo 2450791 Exec -> Pronto por tempo
+407 : Processo 2450791 Pronto -> Exec
+408 : Processo 2450791 Exec -> Pronto por tempo
+409 : Processo 2450791 Pronto -> Exec
+410 : Processo 2450791 Exec -> Pronto por tempo
+411 : Processo 2450791 Pronto -> Exec
+412 : Processo 2450791 Exec -> Pronto por tempo
+413 : Processo 2450791 Pronto -> Exec
+414 : Processo 2450791 Exec -> Pronto por tempo
+415 : Processo 2450791 Pronto -> Exec
+416 : Processo 2450791 Exec -> Pronto por tempo
+417 : Processo 2450791 Pronto -> Exec
+418 : Processo 2450791 Exec -> Pronto por tempo
+419 : Processo 2450791 Pronto -> Exec
+420 : Processo 2450791 Exec -> Pronto por tempo
+421 : Processo 2450791 Pronto -> Exec
+422 : Processo 2450791 Exec -> Pronto por tempo
+423 : Processo 2450791 Pronto -> Exec
+424 : Processo 2450791 Exec -> Pronto por tempo
+425 : Processo 2450791 Pronto -> Exec
+426 : Processo 2450791 Exec -> Pronto por tempo
+427 : Processo 2450791 Pronto -> Exec
+428 : Processo 2450791 Exec -> Pronto por tempo
+429 : Processo 2450791 Pronto -> Exec
+430 : Processo 2450791 Exec -> Pronto por tempo
+431 : Processo 2450791 Pronto -> Exec
+432 : Processo 2450791 Exec -> Pronto por tempo
+433 : Processo 2450791 Pronto -> Exec
+434 : Processo 2450791 Exec -> Pronto por tempo
+435 : Processo 2450791 Pronto -> Exec
+436 : Processo 2450791 Exec -> Pronto por tempo
+437 : Processo 2450791 Pronto -> Exec
+438 : Processo 2450791 Exec -> Pronto por tempo
+439 : Processo 2450791 Pronto -> Exec
+440 : Processo 2450791 Exec -> Pronto por tempo
+441 : Processo 2450791 Pronto -> Exec
+442 : Processo 2450791 Exec -> Pronto por tempo
+443 : Processo 2450791 Pronto -> Exec
+444 : Processo 2450791 Exec -> Pronto por tempo
+445 : Processo 2450791 Pronto -> Exec
+446 : Processo 2450791 Exec -> Pronto por tempo
+447 : Processo 2450791 Pronto -> Exec
+448 : Processo 2450791 Exec -> Pronto por tempo
+449 : Processo 2450791 Pronto -> Exec
+450 : Processo 2450791 Exec -> Pronto por tempo
+451 : Processo 2450791 Pronto -> Exec
+452 : Processo 2450791 Exec -> Pronto por tempo
+453 : Processo 2450791 Pronto -> Exec
+454 : Processo 2450791 Exec -> Pronto por tempo
+455 : Processo 2450791 Pronto -> Exec
+456 : Processo 2450791 Exec -> Pronto por tempo
+457 : Processo 2450791 Pronto -> Exec
+458 : Processo 2450791 Exec -> Pronto por tempo
+459 : Processo 2450791 Pronto -> Exec
+460 : Processo 2450791 Exec -> Pronto por tempo
+461 : Processo 2450791 Pronto -> Exec
+462 : Processo 2450791 Exec -> Pronto por tempo
+463 : Processo 2450791 Pronto -> Exec
+464 : Processo 2450791 Exec -> Pronto por tempo
+465 : Processo 2450791 Pronto -> Exec
+466 : Processo 2450791 Exec -> Pronto por tempo
+467 : Processo 2450791 Pronto -> Exec
+468 : Processo 2450791 Exec -> Pronto por tempo
+469 : Processo 2450791 Pronto -> Exec
+470 : Processo 2450791 Exec -> Pronto por tempo
+471 : Processo 2450791 Pronto -> Exec
+472 : Processo 2450791 Exec -> Pronto por tempo
+473 : Processo 2450791 Pronto -> Exec
+474 : Processo 2450791 Exec -> Pronto por tempo
+475 : Processo 2450791 Pronto -> Exec
+476 : Processo 2450791 Exec -> Pronto por tempo
+477 : Processo 2450791 Pronto -> Exec
+478 : Processo 2450791 Exec -> Pronto por tempo
+479 : Processo 2450791 Pronto -> Exec
+480 : Processo 2450791 Exec -> Pronto por tempo
+481 : Processo 2450791 Pronto -> Exec
+482 : Processo 2450791 Exec -> Pronto por tempo
+483 : Processo 2450791 Pronto -> Exec
+484 : Processo 2450791 Exec -> Pronto por tempo
+485 : Processo 2450791 Pronto -> Exec
+486 : Processo 2450791 Exec -> Pronto por tempo
+487 : Processo 2450791 Pronto -> Exec
+488 : Processo 2450791 Exec -> Pronto por tempo
+489 : Processo 2450791 Pronto -> Exec
+490 : Processo 2450791 Exec -> Pronto por tempo
+491 : Processo 2450791 Pronto -> Exec
+492 : Processo 2450791 Exec -> Pronto por tempo
+493 : Processo 2450791 Pronto -> Exec
+494 : Processo 2450791 Exec -> Pronto por tempo
+495 : Processo 2450791 Pronto -> Exec
+496 : Processo 2450791 Exec -> Pronto por tempo
+497 : Processo 2450791 Pronto -> Exec
+498 : Processo 2450791 Exec -> Pronto por tempo
+499 : Processo 2450791 Pronto -> Exec
+500 : Processo 2450791 Exec -> Pronto por tempo
+501 : Processo 2450791 Pronto -> Exec
+502 : Processo 2450791 Exec -> Pronto por tempo
+503 : Processo 2450791 Pronto -> Exec
+504 : Processo 2450791 Exec -> Pronto por tempo
+505 : Processo 2450791 Pronto -> Exec
+506 : Processo 2450791 Exec -> Pronto por tempo
+507 : Processo 2450791 Pronto -> Exec
+508 : Processo 2450791 Exec -> Pronto por tempo
+509 : Processo 2450791 Pronto -> Exec
+510 : Processo 2450791 Exec -> Pronto por tempo
+511 : Processo 2450791 Pronto -> Exec
+512 : Processo 2450791 Exec -> Pronto por tempo
+513 : Processo 2450791 Pronto -> Exec
+514 : Processo 2450791 Exec -> Pronto por tempo
+515 : Processo 2450791 Pronto -> Exec
+516 : Processo 2450791 Exec -> Pronto por tempo
+517 : Processo 2450791 Pronto -> Exec
+518 : Processo 2450791 Exec -> Pronto por tempo
+519 : Processo 2450791 Pronto -> Exec
+520 : Processo 2450791 Exec -> Pronto por tempo
+521 : Processo 2450791 Pronto -> Exec
+522 : Processo 2450791 Exec -> Pronto por tempo
+523 : Processo 2450791 Pronto -> Exec
+524 : Processo 2450791 Exec -> Pronto por tempo
+525 : Processo 2450791 Pronto -> Exec
+526 : Processo 2450791 Exec -> Pronto por tempo
+527 : Processo 2450791 Pronto -> Exec
+528 : Processo 2450791 Exec -> Pronto por tempo
+529 : Processo 2450791 Pronto -> Exec
+530 : Processo 2450791 Exec -> Pronto por tempo
+531 : Processo 2450791 Pronto -> Exec
+532 : Processo 2450791 Exec -> Pronto por tempo
+533 : Processo 2450791 Pronto -> Exec
+534 : Processo 2450791 Exec -> Pronto por tempo
+535 : Processo 2450791 Pronto -> Exec
+536 : Processo 2450791 Exec -> Pronto por tempo
+537 : Processo 2450791 Pronto -> Exec
+538 : Processo 2450791 Exec -> Pronto por tempo
+539 : Processo 2450791 Pronto -> Exec
+540 : Processo 2450791 Exec -> Pronto por tempo
+541 : Processo 2450791 Pronto -> Exec
+542 : Processo 2450791 Exec -> Pronto por tempo
+543 : Processo 2450791 Pronto -> Exec
+544 : Processo 2450791 Exec -> Pronto por tempo
+545 : Processo 2450791 Pronto -> Exec
+546 : Processo 2450791 Exec -> Pronto por tempo
+547 : Processo 2450791 Pronto -> Exec
+548 : Processo 2450791 Exec -> Pronto por tempo
+549 : Processo 2450791 Pronto -> Exec
+550 : Processo 2450791 Exec -> Pronto por tempo
+551 : Processo 2450791 Pronto -> Exec
+552 : Processo 2450791 Exec -> Pronto por tempo
+553 : Processo 2450791 Pronto -> Exec
+554 : Processo 2450791 Exec -> Pronto por tempo
+555 : Processo 2450791 Pronto -> Exec
+556 : Processo 2450791 Exec -> Pronto por tempo
+557 : Processo 2450791 Pronto -> Exec
+558 : Processo 2450791 Exec -> Pronto por tempo
+559 : Processo 2450791 Pronto -> Exec
+560 : Processo 2450791 Exec -> Pronto por tempo
+561 : Processo 2450791 Pronto -> Exec
+562 : Processo 2450791 Exec -> Pronto por tempo
+563 : Processo 2450791 Pronto -> Exec
+564 : Processo 2450791 Exec -> Pronto por tempo
+565 : Processo 2450791 Pronto -> Exec
+566 : Processo 2450791 Exec -> Pronto por tempo
+567 : Processo 2450791 Pronto -> Exec
+568 : Processo 2450791 Exec -> Pronto por tempo
+569 : Processo 2450791 Pronto -> Exec
+570 : Processo 2450791 Exec -> Pronto por tempo
+571 : Processo 2450791 Pronto -> Exec
+572 : Processo 2450791 Exec -> Pronto por tempo
+573 : Processo 2450791 Pronto -> Exec
+574 : Processo 2450791 Exec -> Pronto por tempo
+575 : Processo 2450791 Pronto -> Exec
+576 : Processo 2450791 Exec -> Pronto por tempo
+577 : Processo 2450791 Pronto -> Exec
+578 : Processo 2450791 Exec -> Pronto por tempo
+579 : Processo 2450791 Pronto -> Exec
+580 : Processo 2450791 Exec -> Pronto por tempo
+581 : Processo 2450791 Pronto -> Exec
+582 : Processo 2450791 Exec -> Pronto por tempo
+583 : Processo 2450791 Pronto -> Exec
+584 : Processo 2450791 Exec -> Pronto por tempo
+585 : Processo 2450791 Pronto -> Exec
+586 : Processo 2450791 Exec -> Pronto por tempo
+587 : Processo 2450791 Pronto -> Exec
+588 : Processo 2450791 Exec -> Pronto por tempo
+589 : Processo 2450791 Pronto -> Exec
+590 : Processo 2450791 Exec -> Pronto por tempo
+591 : Processo 2450791 Pronto -> Exec
+592 : Processo 2450791 Exec -> Pronto por tempo
+593 : Processo 2450791 Pronto -> Exec
+594 : Processo 2450791 Exec -> Pronto por tempo
+595 : Processo 2450791 Pronto -> Exec
+596 : Processo 2450791 Exec -> Pronto por tempo
+597 : Processo 2450791 Pronto -> Exec
+598 : Processo 2450791 Exec -> Pronto por tempo
+599 : Processo 2450791 Pronto -> Exec
+600 : Processo 2450791 Exec -> Pronto por tempo
+601 : Processo 2450791 Pronto -> Exec
+602 : Processo 2450791 Exec -> Pronto por tempo
+603 : Processo 2450791 Pronto -> Exec
+604 : Processo 2450791 Exec -> Pronto por tempo
+605 : Processo 2450791 Pronto -> Exec
+606 : Processo 2450791 Exec -> Pronto por tempo
+607 : Processo 2450791 Pronto -> Exec
+608 : Processo 2450791 Exec -> Pronto por tempo
+609 : Processo 2450791 Pronto -> Exec
+610 : Processo 2450791 Exec -> Pronto por tempo
+611 : Processo 2450791 Pronto -> Exec
+612 : Processo 2450791 Exec -> Pronto por tempo
+613 : Processo 2450791 Pronto -> Exec
+614 : Processo 2450791 Exec -> Pronto por tempo
+615 : Processo 2450791 Pronto -> Exec
+616 : Processo 2450791 Exec -> Pronto por tempo
+617 : Processo 2450791 Pronto -> Exec
+618 : Processo 2450791 Exec -> Pronto por tempo
+619 : Processo 2450791 Pronto -> Exec
+620 : Processo 2450791 Exec -> Pronto por tempo
+621 : Processo 2450791 Pronto -> Exec
+622 : Processo 2450791 Exec -> Pronto por tempo
+623 : Processo 2450791 Pronto -> Exec
+624 : Processo 2450791 Exec -> Pronto por tempo
+625 : Processo 2450791 Pronto -> Exec
+626 : Processo 2450791 Exec -> Pronto por tempo
+627 : Processo 2450791 Pronto -> Exec
+628 : Processo 2450791 Exec -> Pronto por tempo
+629 : Processo 2450791 Pronto -> Exec
+630 : Processo 2450791 Exec -> Pronto por tempo
+631 : Processo 2450791 Pronto -> Exec
+632 : Processo 2450791 Exec -> Pronto por tempo
+633 : Processo 2450791 Pronto -> Exec
+634 : Processo 2450791 Exec -> Pronto por tempo
+635 : Processo 2450791 Pronto -> Exec
+636 : Processo 2450791 Exec -> Pronto por tempo
+637 : Processo 2450791 Pronto -> Exec
+638 : Processo 2450791 Exec -> Pronto por tempo
+639 : Processo 2450791 Pronto -> Exec
+640 : Processo 2450791 Exec -> Pronto por tempo
+641 : Processo 2450791 Pronto -> Exec
+642 : Processo 2450791 Exec -> Pronto por tempo
+643 : Processo 2450791 Pronto -> Exec
+644 : Processo 2450791 Exec -> Pronto por tempo
+645 : Processo 2450791 Pronto -> Exec
+646 : Processo 2450791 Exec -> Pronto por tempo
+647 : Processo 2450791 Pronto -> Exec
+648 : Processo 2450791 Exec -> Pronto por tempo
+649 : Processo 2450791 Pronto -> Exec
+650 : Processo 2450791 Exec -> Pronto por tempo
+651 : Processo 2450791 Pronto -> Exec
+652 : Processo 2450791 Exec -> Pronto por tempo
+653 : Processo 2450791 Pronto -> Exec
+654 : Processo 2450791 Exec -> Pronto por tempo
+655 : Processo 2450791 Pronto -> Exec
+656 : Processo 2450791 Exec -> Pronto por tempo
+657 : Processo 2450791 Pronto -> Exec
+658 : Processo 2450791 Exec -> Pronto por tempo
+659 : Processo 2450791 Pronto -> Exec
+660 : Processo 2450791 Exec -> Pronto por tempo
+661 : Processo 2450791 Pronto -> Exec
+662 : Processo 2450791 Exec -> Pronto por tempo
+663 : Processo 2450791 Pronto -> Exec
+664 : Processo 2450791 Exec -> Pronto por tempo
+665 : Processo 2450791 Pronto -> Exec
+666 : Processo 2450791 Exec -> Pronto por tempo
+667 : Processo 2450791 Pronto -> Exec
+668 : Processo 2450791 Exec -> Pronto por tempo
+669 : Processo 2450791 Pronto -> Exec
+670 : Processo 2450791 Exec -> Pronto por tempo
+671 : Processo 2450791 Pronto -> Exec
+672 : Processo 2450791 Exec -> Pronto por tempo
+673 : Processo 2450791 Pronto -> Exec
+674 : Processo 2450791 Exec -> Pronto por tempo
+675 : Processo 2450791 Pronto -> Exec
+676 : Processo 2450791 Exec -> Pronto por tempo
+677 : Processo 2450791 Pronto -> Exec
+678 : Processo 2450791 Exec -> Pronto por tempo
+679 : Processo 2450791 Pronto -> Exec
+680 : Processo 2450791 Exec -> Pronto por tempo
+681 : Processo 2450791 Pronto -> Exec
+682 : Processo 2450791 Exec -> Pronto por tempo
+683 : Processo 2450791 Pronto -> Exec
+684 : Processo 2450791 Exec -> Pronto por tempo
+685 : Processo 2450791 Pronto -> Exec
+686 : Processo 2450791 Exec -> Pronto por tempo
+687 : Processo 2450791 Pronto -> Exec
+688 : Processo 2450791 Exec -> Pronto por tempo
+689 : Processo 2450791 Pronto -> Exec
+690 : Processo 2450791 Exec -> Pronto por tempo
+691 : Processo 2450791 Pronto -> Exec
+692 : Processo 2450791 Exec -> Pronto por tempo
+693 : Processo 2450791 Pronto -> Exec
+694 : Processo 2450791 Exec -> Pronto por tempo
+695 : Processo 2450791 Pronto -> Exec
+696 : Processo 2450791 Exec -> Pronto por tempo
+697 : Processo 2450791 Pronto -> Exec
+698 : Processo 2450791 Exec -> Pronto por tempo
+699 : Processo 2450791 Pronto -> Exec
+700 : Processo 2450791 Exec -> Pronto por tempo
+701 : Processo 2450791 Pronto -> Exec
+702 : Processo 2450791 Exec -> Pronto por tempo
+703 : Processo 2450791 Pronto -> Exec
+704 : Processo 2450791 Exec -> Pronto por tempo
+705 : Processo 2450791 Pronto -> Exec
+706 : Processo 2450791 Exec -> Pronto por tempo
+707 : Processo 2450791 Pronto -> Exec
+708 : Processo 2450791 Exec -> Pronto por tempo
+709 : Processo 2450791 Pronto -> Exec
+710 : Processo 2450791 Exec -> Pronto por tempo
+711 : Processo 2450791 Pronto -> Exec
+712 : Processo 2450791 Exec -> Pronto por tempo
+713 : Processo 2450791 Pronto -> Exec
+714 : Processo 2450791 Exec -> Pronto por tempo
+715 : Processo 2450791 Pronto -> Exec
+716 : Processo 2450791 Exec -> Pronto por tempo
+717 : Processo 2450791 Pronto -> Exec
+718 : Processo 2450791 Exec -> Pronto por tempo
+719 : Processo 2450791 Pronto -> Exec
+720 : Processo 2450791 Exec -> Pronto por tempo
+721 : Processo 2450791 Pronto -> Exec
+722 : Processo 2450791 Exec -> Pronto por tempo
+723 : Processo 2450791 Pronto -> Exec
+724 : Processo 2450791 Exec -> Pronto por tempo
+725 : Processo 2450791 Pronto -> Exec
+726 : Processo 2450791 Exec -> Pronto por tempo
+727 : Processo 2450791 Pronto -> Exec
+728 : Processo 2450791 Exec -> Pronto por tempo
+729 : Processo 2450791 Pronto -> Exec
+730 : Processo 2450791 Exec -> Pronto por tempo
+731 : Processo 2450791 Pronto -> Exec
+732 : Processo 2450791 Exec -> Pronto por tempo
+733 : Processo 2450791 Pronto -> Exec
+734 : Processo 2450791 Exec -> Pronto por tempo
+735 : Processo 2450791 Pronto -> Exec
+736 : Processo 2450791 Exec -> Pronto por tempo
+737 : Processo 2450791 Pronto -> Exec
+738 : Processo 2450791 Exec -> Pronto por tempo
+739 : Processo 2450791 Pronto -> Exec
+740 : Processo 2450791 Exec -> Pronto por tempo
+741 : Processo 2450791 Pronto -> Exec
+742 : Processo 2450791 Exec -> Pronto por tempo
+743 : Processo 2450791 Pronto -> Exec
+744 : Processo 2450791 Exec -> Pronto por tempo
+745 : Processo 2450791 Pronto -> Exec
+746 : Processo 2450791 Exec -> Pronto por tempo
+747 : Processo 2450791 Pronto -> Exec
+778 : Processo 2450791 Exec -> Pronto por tempo
+779 : Processo 2450791 Pronto -> Exec
+780 : Processo 2450791 Exec -> Pronto por tempo
+781 : Processo 2450791 Pronto -> Exec
+782 : Processo 2450791 Exec -> Pronto por tempo
+783 : Processo 2450791 Pronto -> Exec
+784 : Processo 2450791 Exec -> Pronto por tempo
+785 : Processo 2450791 Pronto -> Exec
+786 : Processo 2450791 Exec -> Pronto por tempo
+787 : Processo 2450791 Pronto -> Exec
+788 : Processo 2450791 Exec -> Pronto por tempo
+789 : Processo 2450791 Pronto -> Exec
+790 : Processo 2450791 Exec -> Pronto por tempo
+791 : Processo 2450791 Pronto -> Exec
+792 : Processo 2450791 Exec -> Pronto por tempo
+793 : Processo 2450791 Pronto -> Exec
+794 : Processo 2450791 Exec -> Pronto por tempo
+795 : Processo 2450791 Pronto -> Exec
+796 : Processo 2450791 Exec -> Pronto por tempo
+797 : Processo 2450791 Pronto -> Exec
+798 : Processo 2450791 Exec -> Pronto por tempo
+799 : Processo 2450791 Pronto -> Exec
+800 : Processo 2450791 Exec -> Pronto por tempo
+801 : Processo 2450791 Pronto -> Exec
+802 : Processo 2450791 Exec -> Pronto por tempo
+803 : Processo 2450791 Pronto -> Exec
+804 : Processo 2450791 Exec -> Pronto por tempo
+805 : Processo 2450791 Pronto -> Exec
+806 : Processo 2450791 Exec -> Pronto por tempo
+807 : Processo 2450791 Pronto -> Exec
+808 : Processo 2450791 Exec -> Pronto por tempo
+809 : Processo 2450791 Pronto -> Exec
+810 : Processo 2450791 Exec -> Pronto por tempo
+811 : Processo 2450791 Pronto -> Exec
+812 : Processo 2450791 Exec -> Pronto por tempo
+813 : Processo 2450791 Pronto -> Exec
+814 : Processo 2450791 Exec -> Pronto por tempo
+815 : Processo 2450791 Pronto -> Exec
+816 : Processo 2450791 Exec -> Pronto por tempo
+817 : Processo 2450791 Pronto -> Exec
+818 : Processo 2450791 Exec -> Pronto por tempo
+819 : Processo 2450791 Pronto -> Exec
+820 : Processo 2450791 Exec -> Pronto por tempo
+821 : Processo 2450791 Pronto -> Exec
+822 : Processo 2450791 Exec -> Pronto por tempo
+823 : Processo 2450791 Pronto -> Exec
+824 : Processo 2450791 Exec -> Pronto por tempo
+825 : Processo 2450791 Pronto -> Exec
+826 : Processo 2450791 Exec -> Pronto por tempo
+827 : Processo 2450791 Pronto -> Exec
+828 : Processo 2450791 Exec -> Pronto por tempo
+829 : Processo 2450791 Pronto -> Exec
+830 : Processo 2450791 Exec -> Pronto por tempo
+831 : Processo 2450791 Pronto -> Exec
+832 : Processo 2450791 Exec -> Pronto por tempo
+833 : Processo 2450791 Pronto -> Exec
+834 : Processo 2450791 Exec -> Pronto por tempo
+835 : Processo 2450791 Pronto -> Exec
+836 : Processo 2450791 Exec -> Pronto por tempo
+837 : Processo 2450791 Pronto -> Exec
+838 : Processo 2450791 Exec -> Pronto por tempo
+839 : Processo 2450791 Pronto -> Exec
+840 : Processo 2450791 Exec -> Pronto por tempo
+841 : Processo 2450791 Pronto -> Exec
+842 : Processo 2450791 Exec -> Pronto por tempo
+843 : Processo 2450791 Pronto -> Exec
+844 : Processo 2450791 Exec -> Pronto por tempo
+845 : Processo 2450791 Pronto -> Exec
+846 : Processo 2450791 Exec -> Pronto por tempo
+847 : Processo 2450791 Pronto -> Exec
+848 : Processo 2450791 Exec -> Pronto por tempo
+849 : Processo 2450791 Pronto -> Exec
+850 : Processo 2450791 Exec -> Pronto por tempo
+851 : Processo 2450791 Pronto -> Exec
+852 : Processo 2450791 Exec -> Pronto por tempo
+853 : Processo 2450791 Pronto -> Exec
+854 : Processo 2450791 Exec -> Pronto por tempo
+855 : Processo 2450791 Pronto -> Exec
+856 : Processo 2450791 Exec -> Pronto por tempo
+857 : Processo 2450791 Pronto -> Exec
+858 : Processo 2450791 Exec -> Pronto por tempo
+859 : Processo 2450791 Pronto -> Exec
+860 : Processo 2450791 Exec -> Pronto por tempo
+861 : Processo 2450791 Pronto -> Exec
+862 : Processo 2450791 Exec -> Pronto por tempo
+863 : Processo 2450791 Pronto -> Exec
+864 : Processo 2450791 Exec -> Pronto por tempo
+865 : Processo 2450791 Pronto -> Exec
+866 : Processo 2450791 Exec -> Pronto por tempo
+867 : Processo 2450791 Pronto -> Exec
+868 : Processo 2450791 Exec -> Pronto por tempo
+869 : Processo 2450791 Pronto -> Exec
+870 : Processo 2450791 Exec -> Pronto por tempo
+871 : Processo 2450791 Pronto -> Exec
+872 : Processo 2450791 Exec -> Pronto por tempo
+873 : Processo 2450791 Pronto -> Exec
+874 : Processo 2450791 Exec -> Pronto por tempo
+875 : Processo 2450791 Pronto -> Exec
+876 : Processo 2450791 Exec -> Pronto por tempo
+877 : Processo 2450791 Pronto -> Exec
+878 : Processo 2450791 Exec -> Pronto por tempo
+879 : Processo 2450791 Pronto -> Exec
+880 : Processo 2450791 Exec -> Pronto por tempo
+881 : Processo 2450791 Pronto -> Exec
+882 : Processo 2450791 Exec -> Pronto por tempo
+883 : Processo 2450791 Pronto -> Exec
+884 : Processo 2450791 Exec -> Pronto por tempo
+885 : Processo 2450791 Pronto -> Exec
+886 : Processo 2450791 Exec -> Pronto por tempo
+887 : Processo 2450791 Pronto -> Exec
+888 : Processo 2450791 Exec -> Pronto por tempo
+889 : Processo 2450791 Pronto -> Exec
+890 : Processo 2450791 Exec -> Pronto por tempo
+891 : Processo 2450791 Pronto -> Exec
+892 : Processo 2450791 Exec -> Pronto por tempo
+893 : Processo 2450791 Pronto -> Exec
+894 : Processo 2450791 Exec -> Pronto por tempo
+895 : Processo 2450791 Pronto -> Exec
+896 : Processo 2450791 Exec -> Pronto por tempo
+897 : Processo 2450791 Pronto -> Exec
+898 : Processo 2450791 Exec -> Pronto por tempo
+899 : Processo 2450791 Pronto -> Exec
+900 : Processo 2450791 Exec -> Pronto por tempo
+901 : Processo 2450791 Pronto -> Exec
+902 : Processo 2450791 Exec -> Pronto por tempo
+903 : Processo 2450791 Pronto -> Exec
+904 : Processo 2450791 Exec -> Pronto por tempo
+905 : Processo 2450791 Pronto -> Exec
+906 : Processo 2450791 Exec -> Pronto por tempo
+907 : Processo 2450791 Pronto -> Exec
+908 : Processo 2450791 Exec -> Pronto por tempo
+909 : Processo 2450791 Pronto -> Exec
+910 : Processo 2450791 Exec -> Pronto por tempo
+911 : Processo 2450791 Pronto -> Exec
+912 : Processo 2450791 Exec -> Pronto por tempo
+913 : Processo 2450791 Pronto -> Exec
+914 : Processo 2450791 Exec -> Pronto por tempo
+915 : Processo 2450791 Pronto -> Exec
+916 : Processo 2450791 Exec -> Pronto por tempo
+917 : Processo 2450791 Pronto -> Exec
+918 : Processo 2450791 Exec -> Pronto por tempo
+919 : Processo 2450791 Pronto -> Exec
+920 : Processo 2450791 Exec -> Pronto por tempo
+921 : Processo 2450791 Pronto -> Exec
+922 : Processo 2450791 Exec -> Pronto por tempo
+923 : Processo 2450791 Pronto -> Exec
+924 : Processo 2450791 Exec -> Pronto por tempo
+925 : Processo 2450791 Pronto -> Exec
+926 : Processo 2450791 Exec -> Pronto por tempo
+927 : Processo 2450791 Pronto -> Exec
+928 : Processo 2450791 Exec -> Pronto por tempo
+929 : Processo 2450791 Pronto -> Exec
+930 : Processo 2450791 Exec -> Pronto por tempo
+931 : Processo 2450791 Pronto -> Exec
+932 : Processo 2450791 Exec -> Pronto por tempo
+933 : Processo 2450791 Pronto -> Exec
+934 : Processo 2450791 Exec -> Pronto por tempo
+935 : Processo 2450791 Pronto -> Exec
+936 : Processo 2450791 Exec -> Pronto por tempo
+937 : Processo 2450791 Pronto -> Exec
+938 : Processo 2450791 Exec -> Pronto por tempo
+939 : Processo 2450791 Pronto -> Exec
+940 : Processo 2450791 Exec -> Pronto por tempo
+941 : Processo 2450791 Pronto -> Exec
+942 : Processo 2450791 Exec -> Pronto por tempo
+943 : Processo 2450791 Pronto -> Exec
+944 : Processo 2450791 Exec -> Pronto por tempo
+945 : Processo 2450791 Pronto -> Exec
+946 : Processo 2450791 Exec -> Pronto por tempo
+947 : Processo 2450791 Pronto -> Exec
+948 : Processo 2450791 Exec -> Pronto por tempo
+949 : Processo 2450791 Pronto -> Exec
+950 : Processo 2450791 Exec -> Pronto por tempo
+951 : Processo 2450791 Pronto -> Exec
+952 : Processo 2450791 Exec -> Pronto por tempo
+953 : Processo 2450791 Pronto -> Exec
+954 : Processo 2450791 Exec -> Pronto por tempo
+955 : Processo 2450791 Pronto -> Exec
+956 : Processo 2450791 Exec -> Pronto por tempo
+957 : Processo 2450791 Pronto -> Exec
+958 : Processo 2450791 Exec -> Pronto por tempo
+959 : Processo 2450791 Pronto -> Exec
+960 : Processo 2450791 Exec -> Pronto por tempo
+961 : Processo 2450791 Pronto -> Exec
+962 : Processo 2450791 Exec -> Pronto por tempo
+963 : Processo 2450791 Pronto -> Exec
+964 : Processo 2450791 Exec -> Pronto por tempo
+965 : Processo 2450791 Pronto -> Exec
+966 : Processo 2450791 Exec -> Pronto por tempo
+967 : Processo 2450791 Pronto -> Exec
+968 : Processo 2450791 Exec -> Pronto por tempo
+969 : Processo 2450791 Pronto -> Exec
+970 : Processo 2450791 Exec -> Pronto por tempo
+971 : Processo 2450791 Pronto -> Exec
+972 : Processo 2450791 Exec -> Pronto por tempo
+973 : Processo 2450791 Pronto -> Exec
+974 : Processo 2450791 Exec -> Pronto por tempo
+975 : Processo 2450791 Pronto -> Exec
+976 : Processo 2450791 Exec -> Pronto por tempo
+977 : Processo 2450791 Pronto -> Exec
+978 : Processo 2450791 Exec -> Pronto por tempo
+979 : Processo 2450791 Pronto -> Exec
+980 : Processo 2450791 Exec -> Pronto por tempo
+981 : Processo 2450791 Pronto -> Exec
+982 : Processo 2450791 Exec -> Pronto por tempo
+983 : Processo 2450791 Pronto -> Exec
+984 : Processo 2450791 Exec -> Pronto por tempo
+985 : Processo 2450791 Pronto -> Exec
+986 : Processo 2450791 Exec -> Pronto por tempo
+987 : Processo 2450791 Pronto -> Exec
+988 : Processo 2450791 Exec -> Pronto por tempo
+989 : Processo 2450791 Pronto -> Exec
+990 : Processo 2450791 Exec -> Pronto por tempo
+991 : Processo 2450791 Pronto -> Exec
+992 : Processo 2450791 Exec -> Pronto por tempo
+993 : Processo 2450791 Pronto -> Exec
+994 : Processo 2450791 Exec -> Pronto por tempo
+995 : Processo 2450791 Pronto -> Exec
+996 : Processo 2450791 Exec -> Pronto por tempo
+997 : Processo 2450791 Pronto -> Exec
+998 : Processo 2450791 Exec -> Pronto por tempo
+999 : Processo 2450791 Pronto -> Exec
+1000 : Processo 2450791 Exec -> Pronto por tempo
+1001 : Processo 2450791 Pronto -> Exec
+1002 : Processo 2450791 Exec -> Pronto por tempo
+1003 : Processo 2450791 Pronto -> Exec
+1004 : Processo 2450791 Exec -> Pronto por tempo
+1005 : Processo 2450791 Pronto -> Exec
+1006 : Processo 2450791 Exec -> Pronto por tempo
+1007 : Processo 2450791 Pronto -> Exec
+1008 : Processo 2450791 Exec -> Pronto por tempo
+1009 : Processo 2450791 Pronto -> Exec
+1010 : Processo 2450791 Exec -> Pronto por tempo
+1011 : Processo 2450791 Pronto -> Exec
+1012 : Processo 2450791 Exec -> Pronto por tempo
+1013 : Processo 2450791 Pronto -> Exec
+1014 : Processo 2450791 Exec -> Pronto por tempo
+1015 : Processo 2450791 Pronto -> Exec
+1016 : Processo 2450791 Exec -> Pronto por tempo
+1017 : Processo 2450791 Pronto -> Exec
+1018 : Processo 2450791 Exec -> Pronto por tempo
+1019 : Processo 2450791 Pronto -> Exec
+1020 : Processo 2450791 Exec -> Pronto por tempo
+1021 : Processo 2450791 Pronto -> Exec
+1022 : Processo 2450791 Exec -> Pronto por tempo
+1023 : Processo 2450791 Pronto -> Exec
+1024 : Processo 2450791 Exec -> Pronto por tempo
+1025 : Processo 2450791 Pronto -> Exec
+1026 : Processo 2450791 Exec -> Pronto por tempo
+1027 : Processo 2450791 Pronto -> Exec
+1028 : Processo 2450791 Exec -> Pronto por tempo
+1029 : Processo 2450791 Pronto -> Exec
+1030 : Processo 2450791 Exec -> Pronto por tempo
+1031 : Processo 2450791 Pronto -> Exec
+1032 : Processo 2450791 Exec -> Pronto por tempo
+1033 : Processo 2450791 Pronto -> Exec
+1034 : Processo 2450791 Exec -> Pronto por tempo
+1035 : Processo 2450791 Pronto -> Exec
+1036 : Processo 2450791 Exec -> Pronto por tempo
+1037 : Processo 2450791 Pronto -> Exec
+1038 : Processo 2450791 Exec -> Pronto por tempo
+1039 : Processo 2450791 Pronto -> Exec
+1040 : Processo 2450791 Exec -> Pronto por tempo
+1041 : Processo 2450791 Pronto -> Exec
+1042 : Processo 2450791 Exec -> Pronto por tempo
+1043 : Processo 2450791 Pronto -> Exec
+1044 : Processo 2450791 Exec -> Pronto por tempo
+1045 : Processo 2450791 Pronto -> Exec
+1046 : Processo 2450791 Exec -> Pronto por tempo
+1047 : Processo 2450791 Pronto -> Exec
+1048 : Processo 2450791 Exec -> Pronto por tempo
+1049 : Processo 2450791 Pronto -> Exec
+1050 : Processo 2450791 Exec -> Pronto por tempo
+1051 : Processo 2450791 Pronto -> Exec
+1052 : Processo 2450791 Exec -> Pronto por tempo
+1053 : Processo 2450791 Pronto -> Exec
+1054 : Processo 2450791 Exec -> Pronto por tempo
+1055 : Processo 2450791 Pronto -> Exec
+1056 : Processo 2450791 Exec -> Pronto por tempo
+1057 : Processo 2450791 Pronto -> Exec
+1058 : Processo 2450791 Exec -> Pronto por tempo
+1059 : Processo 2450791 Pronto -> Exec
+1060 : Processo 2450791 Exec -> Pronto por tempo
+1061 : Processo 2450791 Pronto -> Exec
+1062 : Processo 2450791 Exec -> Pronto por tempo
+1063 : Processo 2450791 Pronto -> Exec
+1064 : Processo 2450791 Exec -> Pronto por tempo
+1065 : Processo 2450791 Pronto -> Exec
+1066 : Processo 2450791 Exec -> Pronto por tempo
+1067 : Processo 2450791 Pronto -> Exec
+1068 : Processo 2450791 Exec -> Pronto por tempo
+1069 : Processo 2450791 Pronto -> Exec
+1070 : Processo 2450791 Exec -> Pronto por tempo
+1071 : Processo 2450791 Pronto -> Exec
+1072 : Processo 2450791 Exec -> Pronto por tempo
+1073 : Processo 2450791 Pronto -> Exec
+1074 : Processo 2450791 Exec -> Pronto por tempo
+1075 : Processo 2450791 Pronto -> Exec
+1076 : Processo 2450791 Exec -> Pronto por tempo
+1077 : Processo 2450791 Pronto -> Exec
+1078 : Processo 2450791 Exec -> Pronto por tempo
+1079 : Processo 2450791 Pronto -> Exec
+1080 : Processo 2450791 Exec -> Pronto por tempo
+1081 : Processo 2450791 Pronto -> Exec
+1082 : Processo 2450791 Exec -> Pronto por tempo
+1083 : Processo 2450791 Pronto -> Exec
+1084 : Processo 2450791 Exec -> Pronto por tempo
+1085 : Processo 2450791 Pronto -> Exec
+1086 : Processo 2450791 Exec -> Pronto por tempo
+1087 : Processo 2450791 Pronto -> Exec
+1088 : Processo 2450791 Exec -> Pronto por tempo
+1089 : Processo 2450791 Pronto -> Exec
+1090 : Processo 2450791 Exec -> Pronto por tempo
+1091 : Processo 2450791 Pronto -> Exec
+1092 : Processo 2450791 Exec -> Pronto por tempo
+1093 : Processo 2450791 Pronto -> Exec
+1094 : Processo 2450791 Exec -> Pronto por tempo
+1095 : Processo 2450791 Pronto -> Exec
+1096 : Processo 2450791 Exec -> Pronto por tempo
+1097 : Processo 2450791 Pronto -> Exec
+1098 : Processo 2450791 Exec -> Pronto por tempo
+1099 : Processo 2450791 Pronto -> Exec
+1100 : Processo 2450791 Exec -> Pronto por tempo
+1101 : Processo 2450791 Pronto -> Exec
+1102 : Processo 2450791 Exec -> Pronto por tempo
+1103 : Processo 2450791 Pronto -> Exec
+1104 : Processo 2450791 Exec -> Pronto por tempo
+1105 : Processo 2450791 Pronto -> Exec
+1106 : Processo 2450791 Exec -> Pronto por tempo
+1107 : Processo 2450791 Pronto -> Exec
+1108 : Processo 2450791 Exec -> Pronto por tempo
+1109 : Processo 2450791 Pronto -> Exec
+1110 : Processo 2450791 Exec -> Pronto por tempo
+1111 : Processo 2450791 Pronto -> Exec
+1112 : Processo 2450791 Exec -> Pronto por tempo
+1113 : Processo 2450791 Pronto -> Exec
+1114 : Processo 2450791 Exec -> Pronto por tempo
+1115 : Processo 2450791 Pronto -> Exec
+1116 : Processo 2450791 Exec -> Pronto por tempo
+1117 : Processo 2450791 Pronto -> Exec
+1118 : Processo 2450791 Exec -> Pronto por tempo
+1119 : Processo 2450791 Pronto -> Exec
+1120 : Processo 2450791 Exec -> Pronto por tempo
+1121 : Processo 2450791 Pronto -> Exec
+1122 : Processo 2450791 Exec -> Pronto por tempo
+1123 : Processo 2450791 Pronto -> Exec
+1124 : Processo 2450791 Exec -> Pronto por tempo
+1125 : Processo 2450791 Pronto -> Exec
+1126 : Processo 2450791 Exec -> Pronto por tempo
+1127 : Processo 2450791 Pronto -> Exec
+1128 : Processo 2450791 Exec -> Pronto por tempo
+1129 : Processo 2450791 Pronto -> Exec
+1130 : Processo 2450791 Exec -> Pronto por tempo
+1131 : Processo 2450791 Pronto -> Exec
+1132 : Processo 2450791 Exec -> Pronto por tempo
+1133 : Processo 2450791 Pronto -> Exec
+1134 : Processo 2450791 Exec -> Pronto por tempo
+1135 : Processo 2450791 Pronto -> Exec
+1136 : Processo 2450791 Exec -> Pronto por tempo
+1137 : Processo 2450791 Pronto -> Exec
+1138 : Processo 2450791 Exec -> Pronto por tempo
+1139 : Processo 2450791 Pronto -> Exec
+1140 : Processo 2450791 Exec -> Pronto por tempo
+1141 : Processo 2450791 Pronto -> Exec
+1142 : Processo 2450791 Exec -> Pronto por tempo
+1143 : Processo 2450791 Pronto -> Exec
+1144 : Processo 2450791 Exec -> Pronto por tempo
+1145 : Processo 2450791 Pronto -> Exec
+1146 : Processo 2450791 Exec -> Pronto por tempo
+1147 : Processo 2450791 Pronto -> Exec
+1148 : Processo 2450791 Exec -> Pronto por tempo
+1149 : Processo 2450791 Pronto -> Exec
+1150 : Processo 2450791 Exec -> Pronto por tempo
+1151 : Processo 2450791 Pronto -> Exec
+1152 : Processo 2450791 Exec -> Pronto por tempo
+1153 : Processo 2450791 Pronto -> Exec
+1154 : Processo 2450791 Exec -> Pronto por tempo
+1155 : Processo 2450791 Pronto -> Exec
+1156 : Processo 2450791 Exec -> Pronto por tempo
+1157 : Processo 2450791 Pronto -> Exec
+1158 : Processo 2450791 Exec -> Pronto por tempo
+1159 : Processo 2450791 Pronto -> Exec
+1160 : Processo 2450791 Exec -> Pronto por tempo
+1161 : Processo 2450791 Pronto -> Exec
+1162 : Processo 2450791 Exec -> Pronto por tempo
+1163 : Processo 2450791 Pronto -> Exec
+1164 : Processo 2450791 Exec -> Pronto por tempo
+1165 : Processo 2450791 Pronto -> Exec
+1166 : Processo 2450791 Exec -> Pronto por tempo
+1167 : Processo 2450791 Pronto -> Exec
+1168 : Processo 2450791 Exec -> Pronto por tempo
+1169 : Processo 2450791 Pronto -> Exec
+1170 : Processo 2450791 Exec -> Pronto por tempo
+1171 : Processo 2450791 Pronto -> Exec
+1172 : Processo 2450791 Exec -> Pronto por tempo
+1173 : Processo 2450791 Pronto -> Exec
+1174 : Processo 2450791 Exec -> Pronto por tempo
+1175 : Processo 2450791 Pronto -> Exec
+1176 : Processo 2450791 Exec -> Pronto por tempo
+1177 : Processo 2450791 Pronto -> Exec
+1178 : Processo 2450791 Exec -> Pronto por tempo
+1179 : Processo 2450791 Pronto -> Exec
+1180 : Processo 2450791 Exec -> Pronto por tempo
+1181 : Processo 2450791 Pronto -> Exec
+1182 : Processo 2450791 Exec -> Pronto por tempo
+1183 : Processo 2450791 Pronto -> Exec
+1184 : Processo 2450791 Exec -> Pronto por tempo
+1185 : Processo 2450791 Pronto -> Exec
+1186 : Processo 2450791 Exec -> Pronto por tempo
+1187 : Processo 2450791 Pronto -> Exec
+1188 : Processo 2450791 Exec -> Pronto por tempo
+1189 : Processo 2450791 Pronto -> Exec
+1190 : Processo 2450791 Exec -> Pronto por tempo
+1191 : Processo 2450791 Pronto -> Exec
+1192 : Processo 2450791 Exec -> Pronto por tempo
+1193 : Processo 2450791 Pronto -> Exec
+1194 : Processo 2450791 Exec -> Pronto por tempo
+1195 : Processo 2450791 Pronto -> Exec
+1196 : Processo 2450791 Exec -> Pronto por tempo
+1197 : Processo 2450791 Pronto -> Exec
+1198 : Processo 2450791 Exec -> Pronto por tempo
+1199 : Processo 2450791 Pronto -> Exec
+1200 : Processo 2450791 Exec -> Pronto por tempo
+1201 : Processo 2450791 Pronto -> Exec
+1202 : Processo 2450791 Exec -> Pronto por tempo
+1203 : Processo 2450791 Pronto -> Exec
+1204 : Processo 2450791 Exec -> Pronto por tempo
+1205 : Processo 2450791 Pronto -> Exec
+1206 : Processo 2450791 Exec -> Pronto por tempo
+1207 : Processo 2450791 Pronto -> Exec
+1208 : Processo 2450791 Exec -> Pronto por tempo
+1209 : Processo 2450791 Pronto -> Exec
+1210 : Processo 2450791 Exec -> Pronto por tempo
+1211 : Processo 2450791 Pronto -> Exec
+1212 : Processo 2450791 Exec -> Pronto por tempo
+1213 : Processo 2450791 Pronto -> Exec
+1214 : Processo 2450791 Exec -> Pronto por tempo
+1215 : Processo 2450791 Pronto -> Exec
+1216 : Processo 2450791 Exec -> Pronto por tempo
+1217 : Processo 2450791 Pronto -> Exec
+1218 : Processo 2450791 Exec -> Pronto por tempo
+1219 : Processo 2450791 Pronto -> Exec
+1220 : Processo 2450791 Exec -> Pronto por tempo
+1221 : Processo 2450791 Pronto -> Exec
+1222 : Processo 2450791 Exec -> Pronto por tempo
+1223 : Processo 2450791 Pronto -> Exec
+1224 : Processo 2450791 Exec -> Pronto por tempo
+1225 : Processo 2450791 Pronto -> Exec
+1226 : Processo 2450791 Exec -> Pronto por tempo
+1227 : Processo 2450791 Pronto -> Exec
+1228 : Processo 2450791 Exec -> Pronto por tempo
+1229 : Processo 2450791 Pronto -> Exec
+1230 : Processo 2450791 Exec -> Pronto por tempo
+1231 : Processo 2450791 Pronto -> Exec
+1232 : Processo 2450791 Exec -> Pronto por tempo
+1233 : Processo 2450791 Pronto -> Exec
+1234 : Processo 2450791 Exec -> Pronto por tempo
+1235 : Processo 2450791 Pronto -> Exec
+1236 : Processo 2450791 Exec -> Pronto por tempo
+1237 : Processo 2450791 Pronto -> Exec
+1238 : Processo 2450791 Exec -> Pronto por tempo
+1239 : Processo 2450791 Pronto -> Exec
+1240 : Processo 2450791 Exec -> Pronto por tempo
+1241 : Processo 2450791 Pronto -> Exec
+1242 : Processo 2450791 Exec -> Pronto por tempo
+1243 : Processo 2450791 Pronto -> Exec
+1244 : Processo 2450791 Exec -> Pronto por tempo
+1245 : Processo 2450791 Pronto -> Exec
+1246 : Processo 2450791 Exec -> Pronto por tempo
+1247 : Processo 2450791 Pronto -> Exec
+1248 : Processo 2450791 Exec -> Pronto por tempo
+1249 : Processo 2450791 Pronto -> Exec
+1250 : Processo 2450791 Exec -> Pronto por tempo
+1251 : Processo 2450791 Pronto -> Exec
+1252 : Processo 2450791 Exec -> Pronto por tempo
+1253 : Processo 2450791 Pronto -> Exec
+1254 : Processo 2450791 Exec -> Pronto por tempo
+1255 : Processo 2450791 Pronto -> Exec
+1256 : Processo 2450791 Exec -> Pronto por tempo
+1257 : Processo 2450791 Pronto -> Exec
+1258 : Processo 2450791 Exec -> Pronto por tempo
+1259 : Processo 2450791 Pronto -> Exec
+1260 : Processo 2450791 Exec -> Pronto por tempo
+1261 : Processo 2450791 Pronto -> Exec
+1262 : Processo 2450791 Exec -> Pronto por tempo
+1263 : Processo 2450791 Pronto -> Exec
+1264 : Processo 2450791 Exec -> Pronto por tempo
+1265 : Processo 2450791 Pronto -> Exec
+1266 : Processo 2450791 Exec -> Pronto por tempo
+1267 : Processo 2450791 Pronto -> Exec
+1268 : Processo 2450791 Exec -> Pronto por tempo
+1269 : Processo 2450791 Pronto -> Exec
+1270 : Processo 2450791 Exec -> Pronto por tempo
+1271 : Processo 2450791 Pronto -> Exec
+1272 : Processo 2450791 Exec -> Pronto por tempo
+1273 : Processo 2450791 Pronto -> Exec
+1274 : Processo 2450791 Exec -> Pronto por tempo
+1275 : Processo 2450791 Pronto -> Exec
+1276 : Processo 2450791 Exec -> Pronto por tempo
+1277 : Processo 2450791 Pronto -> Exec
+1278 : Processo 2450791 Exec -> Pronto por tempo
+1279 : Processo 2450791 Pronto -> Exec
+1280 : Processo 2450791 Exec -> Pronto por tempo
+1281 : Processo 2450791 Pronto -> Exec
+1282 : Processo 2450791 Exec -> Pronto por tempo
+1283 : Processo 2450791 Pronto -> Exec
+1284 : Processo 2450791 Exec -> Pronto por tempo
+1285 : Processo 2450791 Pronto -> Exec
+1286 : Processo 2450791 Exec -> Pronto por tempo
+1287 : Processo 2450791 Pronto -> Exec
+1288 : Processo 2450791 Exec -> Pronto por tempo
+1289 : Processo 2450791 Pronto -> Exec
+1290 : Processo 2450791 Exec -> Pronto por tempo
+1291 : Processo 2450791 Pronto -> Exec
+1292 : Processo 2450791 Exec -> Pronto por tempo
+1293 : Processo 2450791 Pronto -> Exec
+1294 : Processo 2450791 Exec -> Pronto por tempo
+1295 : Processo 2450791 Pronto -> Exec
+1296 : Processo 2450791 Exec -> Pronto por tempo
+1297 : Processo 2450791 Pronto -> Exec
+1298 : Processo 2450791 Exec -> Pronto por tempo
+1299 : Processo 2450791 Pronto -> Exec
+1300 : Processo 2450791 Exec -> Pronto por tempo
+1301 : Processo 2450791 Pronto -> Exec
+1302 : Processo 2450791 Exec -> Pronto por tempo
+1303 : Processo 2450791 Pronto -> Exec
+1304 : Processo 2450791 Exec -> Pronto por tempo
+1305 : Processo 2450791 Pronto -> Exec
+1306 : Processo 2450791 Exec -> Pronto por tempo
+1307 : Processo 2450791 Pronto -> Exec
+1308 : Processo 2450791 Exec -> Pronto por tempo
+1309 : Processo 2450791 Pronto -> Exec
+1310 : Processo 2450791 Exec -> Pronto por tempo
+1311 : Processo 2450791 Pronto -> Exec
+1312 : Processo 2450791 Exec -> Pronto por tempo
+1313 : Processo 2450791 Pronto -> Exec
+1314 : Processo 2450791 Exec -> Pronto por tempo
+1315 : Processo 2450791 Pronto -> Exec
+1316 : Processo 2450791 Exec -> Pronto por tempo
+1317 : Processo 2450791 Pronto -> Exec
+1318 : Processo 2450791 Exec -> Pronto por tempo
+1319 : Processo 2450791 Pronto -> Exec
+1320 : Processo 2450791 Exec -> Pronto por tempo
+1321 : Processo 2450791 Pronto -> Exec
+1322 : Processo 2450791 Exec -> Pronto por tempo
+1323 : Processo 2450791 Pronto -> Exec
+1324 : Processo 2450791 Exec -> Pronto por tempo
+1325 : Processo 2450791 Pronto -> Exec
+1326 : Processo 2450791 Exec -> Pronto por tempo
+1327 : Processo 2450791 Pronto -> Exec
+1328 : Processo 2450791 Exec -> Pronto por tempo
+1329 : Processo 2450791 Pronto -> Exec
+1330 : Processo 2450791 Exec -> Pronto por tempo
+1331 : Processo 2450791 Pronto -> Exec
+1332 : Processo 2450791 Exec -> Pronto por tempo
+1333 : Processo 2450791 Pronto -> Exec
+1334 : Processo 2450791 Exec -> Pronto por tempo
+1335 : Processo 2450791 Pronto -> Exec
+1336 : Processo 2450791 Exec -> Pronto por tempo
+1337 : Processo 2450791 Pronto -> Exec
+1338 : Processo 2450791 Exec -> Pronto por tempo
+1339 : Processo 2450791 Pronto -> Exec
+1340 : Processo 2450791 Exec -> Pronto por tempo
+1341 : Processo 2450791 Pronto -> Exec
+1342 : Processo 2450791 Exec -> Pronto por tempo
+1343 : Processo 2450791 Pronto -> Exec
+1344 : Processo 2450791 Exec -> Pronto por tempo
+1345 : Processo 2450791 Pronto -> Exec
+1346 : Processo 2450791 Exec -> Pronto por tempo
+1347 : Processo 2450791 Pronto -> Exec
+1348 : Processo 2450791 Exec -> Pronto por tempo
+1349 : Processo 2450791 Pronto -> Exec
+1350 : Processo 2450791 Exec -> Pronto por tempo
+1351 : Processo 2450791 Pronto -> Exec
+1352 : Processo 2450791 Exec -> Pronto por tempo
+1353 : Processo 2450791 Pronto -> Exec
+1354 : Processo 2450791 Exec -> Pronto por tempo
+1355 : Processo 2450791 Pronto -> Exec
+1356 : Processo 2450791 Exec -> Pronto por tempo
+1357 : Processo 2450791 Pronto -> Exec
+1358 : Processo 2450791 Exec -> Pronto por tempo
+1359 : Processo 2450791 Pronto -> Exec
+1360 : Processo 2450791 Exec -> Pronto por tempo
+1361 : Processo 2450791 Pronto -> Exec
+1362 : Processo 2450791 Exec -> Pronto por tempo
+1363 : Processo 2450791 Pronto -> Exec
+1364 : Processo 2450791 Exec -> Pronto por tempo
+1365 : Processo 2450791 Pronto -> Exec
+1366 : Processo 2450791 Exec -> Pronto por tempo
+1367 : Processo 2450791 Pronto -> Exec
+1368 : Processo 2450791 Exec -> Pronto por tempo
+1369 : Processo 2450791 Pronto -> Exec
+1370 : Processo 2450791 Exec -> Pronto por tempo
+1371 : Processo 2450791 Pronto -> Exec
+1372 : Processo 2450791 Exec -> Pronto por tempo
+1373 : Processo 2450791 Pronto -> Exec
+1374 : Processo 2450791 Exec -> Pronto por tempo
+1375 : Processo 2450791 Pronto -> Exec
+1376 : Processo 2450791 Exec -> Pronto por tempo
+1377 : Processo 2450791 Pronto -> Exec
+1378 : Processo 2450791 Exec -> Pronto por tempo
+1379 : Processo 2450791 Pronto -> Exec
+1380 : Processo 2450791 Exec -> Pronto por tempo
+1381 : Processo 2450791 Pronto -> Exec
+1382 : Processo 2450791 Exec -> Pronto por tempo
+1383 : Processo 2450791 Pronto -> Exec
+1384 : Processo 2450791 Exec -> Pronto por tempo
+1385 : Processo 2450791 Pronto -> Exec
+1386 : Processo 2450791 Exec -> Pronto por tempo
+1387 : Processo 2450791 Pronto -> Exec
+1388 : Processo 2450791 Exec -> Pronto por tempo
+1389 : Processo 2450791 Pronto -> Exec
+1390 : Processo 2450791 Exec -> Pronto por tempo
+1391 : Processo 2450791 Pronto -> Exec
+1392 : Processo 2450791 Exec -> Pronto por tempo
+1393 : Processo 2450791 Pronto -> Exec
+1394 : Processo 2450791 Exec -> Pronto por tempo
+1395 : Processo 2450791 Pronto -> Exec
+1396 : Processo 2450791 Exec -> Pronto por tempo
+1397 : Processo 2450791 Pronto -> Exec
+1398 : Processo 2450791 Exec -> Pronto por tempo
+1399 : Processo 2450791 Pronto -> Exec
+1400 : Processo 2450791 Exec -> Pronto por tempo
+1401 : Processo 2450791 Pronto -> Exec
+1402 : Processo 2450791 Exec -> Pronto por tempo
+1403 : Processo 2450791 Pronto -> Exec
+1404 : Processo 2450791 Exec -> Pronto por tempo
+1405 : Processo 2450791 Pronto -> Exec
+1406 : Processo 2450791 Exec -> Pronto por tempo
+1407 : Processo 2450791 Pronto -> Exec
+1408 : Processo 2450791 Exec -> Pronto por tempo
+1409 : Processo 2450791 Pronto -> Exec
+1410 : Processo 2450791 Exec -> Pronto por tempo
+1411 : Processo 2450791 Pronto -> Exec
+1412 : Processo 2450791 Exec -> Pronto por tempo
+1413 : Processo 2450791 Pronto -> Exec
+1414 : Processo 2450791 Exec -> Pronto por tempo
+1415 : Processo 2450791 Pronto -> Exec
+1416 : Processo 2450791 Exec -> Pronto por tempo
+1417 : Processo 2450791 Pronto -> Exec
+1418 : Processo 2450791 Exec -> Pronto por tempo
+1419 : Processo 2450791 Pronto -> Exec
+1420 : Processo 2450791 Exec -> Pronto por tempo
+1421 : Processo 2450791 Pronto -> Exec
+1422 : Processo 2450791 Exec -> Pronto por tempo
+1423 : Processo 2450791 Pronto -> Exec
+1424 : Processo 2450791 Exec -> Pronto por tempo
+1425 : Processo 2450791 Pronto -> Exec
+1426 : Processo 2450791 Exec -> Pronto por tempo
+1427 : Processo 2450791 Pronto -> Exec
+1428 : Processo 2450791 Exec -> Pronto por tempo
+1429 : Processo 2450791 Pronto -> Exec
+1430 : Processo 2450791 Exec -> Pronto por tempo
+1431 : Processo 2450791 Pronto -> Exec
+1432 : Processo 2450791 Exec -> Pronto por tempo
+1433 : Processo 2450791 Pronto -> Exec
+1434 : Processo 2450791 Exec -> Pronto por tempo
+1435 : Processo 2450791 Pronto -> Exec
+1436 : Processo 2450791 Exec -> Pronto por tempo
+1437 : Processo 2450791 Pronto -> Exec
+1438 : Processo 2450791 Exec -> Pronto por tempo
+1439 : Processo 2450791 Pronto -> Exec
+1440 : Processo 2450791 Exec -> Pronto por tempo
+1441 : Processo 2450791 Pronto -> Exec
+1442 : Processo 2450791 Exec -> Pronto por tempo
+1443 : Processo 2450791 Pronto -> Exec
+1444 : Processo 2450791 Exec -> Pronto por tempo
+1445 : Processo 2450791 Pronto -> Exec
+1446 : Processo 2450791 Exec -> Pronto por tempo
+1447 : Processo 2450791 Pronto -> Exec
+1448 : Processo 2450791 Exec -> Pronto por tempo
+1449 : Processo 2450791 Pronto -> Exec
+1450 : Processo 2450791 Exec -> Pronto por tempo
+1451 : Processo 2450791 Pronto -> Exec
+1452 : Processo 2450791 Exec -> Pronto por tempo
+1453 : Processo 2450791 Pronto -> Exec
+1454 : Processo 2450791 Exec -> Pronto por tempo
+1455 : Processo 2450791 Pronto -> Exec
+1456 : Processo 2450791 Exec -> Pronto por tempo
+1457 : Processo 2450791 Pronto -> Exec
+1458 : Processo 2450791 Exec -> Pronto por tempo
+1459 : Processo 2450791 Pronto -> Exec
+1460 : Processo 2450791 Exec -> Pronto por tempo
+1461 : Processo 2450791 Pronto -> Exec
+1462 : Processo 2450791 Exec -> Pronto por tempo
+1463 : Processo 2450791 Pronto -> Exec
+1464 : Processo 2450791 Exec -> Pronto por tempo
+1465 : Processo 2450791 Pronto -> Exec
+1466 : Processo 2450791 Exec -> Pronto por tempo
+1467 : Processo 2450791 Pronto -> Exec
+1468 : Processo 2450791 Exec -> Pronto por tempo
+1469 : Processo 2450791 Pronto -> Exec
+1470 : Processo 2450791 Exec -> Pronto por tempo
+1471 : Processo 2450791 Pronto -> Exec
+1472 : Processo 2450791 Exec -> Pronto por tempo
+1473 : Processo 2450791 Pronto -> Exec
+1474 : Processo 2450791 Exec -> Pronto por tempo
+1475 : Processo 2450791 Pronto -> Exec
+1476 : Processo 2450791 Exec -> Pronto por tempo
+1477 : Processo 2450791 Pronto -> Exec
+1478 : Processo 2450791 Exec -> Pronto por tempo
+1479 : Processo 2450791 Pronto -> Exec
+1480 : Processo 2450791 Exec -> Pronto por tempo
+1481 : Processo 2450791 Pronto -> Exec
+1482 : Processo 2450791 Exec -> Pronto por tempo
+1483 : Processo 2450791 Pronto -> Exec
+1484 : Processo 2450791 Exec -> Pronto por tempo
+1485 : Processo 2450791 Pronto -> Exec
+1486 : Processo 2450791 Exec -> Pronto por tempo
+1487 : Processo 2450791 Pronto -> Exec
+1488 : Processo 2450791 Exec -> Pronto por tempo
+1489 : Processo 2450791 Pronto -> Exec
+1490 : Processo 2450791 Exec -> Pronto por tempo
+1491 : Processo 2450791 Pronto -> Exec
+1492 : Processo 2450791 Exec -> Pronto por tempo
+1493 : Processo 2450791 Pronto -> Exec
+1494 : Processo 2450791 Exec -> Pronto por tempo
+1495 : Processo 2450791 Pronto -> Exec
+1496 : Processo 2450791 Exec -> Pronto por tempo
+1497 : Processo 2450791 Pronto -> Exec
+1498 : Processo 2450791 Exec -> Pronto por tempo
+1499 : Processo 2450791 Pronto -> Exec
+1500 : Processo 2450791 Exec -> Pronto por tempo
+1501 : Processo 2450791 Pronto -> Exec
+1502 : Processo 2450791 Exec -> Pronto por tempo
+1503 : Processo 2450791 Pronto -> Exec
+1504 : Processo 2450791 Exec -> Pronto por tempo
+1505 : Processo 2450791 Pronto -> Exec
+1506 : Processo 2450791 Exec -> Pronto por tempo
+1507 : Processo 2450791 Pronto -> Exec
+1508 : Processo 2450791 Exec -> Pronto por tempo
+1509 : Processo 2450791 Pronto -> Exec
+1510 : Processo 2450791 Exec -> Pronto por tempo
+1511 : Processo 2450791 Pronto -> Exec
+1512 : Processo 2450791 Exec -> Pronto por tempo
+1513 : Processo 2450791 Pronto -> Exec
+1514 : Processo 2450791 Exec -> Pronto por tempo
+1515 : Processo 2450791 Pronto -> Exec
+1516 : Processo 2450791 Exec -> Pronto por tempo
+1517 : Processo 2450791 Pronto -> Exec
+1518 : Processo 2450791 Exec -> Pronto por tempo
+1519 : Processo 2450791 Pronto -> Exec
+1520 : Processo 2450791 Exec -> Pronto por tempo
+1521 : Processo 2450791 Pronto -> Exec
+1522 : Processo 2450791 Exec -> Pronto por tempo
+1523 : Processo 2450791 Pronto -> Exec
+1524 : Processo 2450791 Exec -> Pronto por tempo
+1525 : Processo 2450791 Pronto -> Exec
+1526 : Processo 2450791 Exec -> Pronto por tempo
+1527 : Processo 2450791 Pronto -> Exec
+1528 : Processo 2450791 Exec -> Pronto por tempo
+1529 : Processo 2450791 Pronto -> Exec
+1530 : Processo 2450791 Exec -> Pronto por tempo
+1531 : Processo 2450791 Pronto -> Exec
+1532 : Processo 2450791 Exec -> Pronto por tempo
+1533 : Processo 2450791 Pronto -> Exec
+1534 : Processo 2450791 Exec -> Pronto por tempo
+1535 : Processo 2450791 Pronto -> Exec
+1536 : Processo 2450791 Exec -> Pronto por tempo
+1537 : Processo 2450791 Pronto -> Exec
+1538 : Processo 2450791 Exec -> Pronto por tempo
+1539 : Processo 2450791 Pronto -> Exec
+1540 : Processo 2450791 Exec -> Pronto por tempo
+1541 : Processo 2450791 Pronto -> Exec
+1542 : Processo 2450791 Exec -> Pronto por tempo
+1543 : Processo 2450791 Pronto -> Exec
+1544 : Processo 2450791 Exec -> Pronto por tempo
+1545 : Processo 2450791 Pronto -> Exec
+1546 : Processo 2450791 Exec -> Pronto por tempo
+1547 : Processo 2450791 Pronto -> Exec
+1548 : Processo 2450791 Exec -> Pronto por tempo
+1549 : Processo 2450791 Pronto -> Exec
+1550 : Processo 2450791 Exec -> Pronto por tempo
+1551 : Processo 2450791 Pronto -> Exec
+1552 : Processo 2450791 Exec -> Pronto por tempo
+1553 : Processo 2450791 Pronto -> Exec
+1554 : Processo 2450791 Exec -> Pronto por tempo
+1555 : Processo 2450791 Pronto -> Exec
+1556 : Processo 2450791 Exec -> Pronto por tempo
+1557 : Processo 2450791 Pronto -> Exec
+1558 : Processo 2450791 Exec -> Pronto por tempo
+1559 : Processo 2450791 Pronto -> Exec
+1560 : Processo 2450791 Exec -> Pronto por tempo
+1561 : Processo 2450791 Pronto -> Exec
+1562 : Processo 2450791 Exec -> Pronto por tempo
+1563 : Processo 2450791 Pronto -> Exec
+1564 : Processo 2450791 Exec -> Pronto por tempo
+1565 : Processo 2450791 Pronto -> Exec
+1566 : Processo 2450791 Exec -> Pronto por tempo
+1567 : Processo 2450791 Pronto -> Exec
+1568 : Processo 2450791 Exec -> Pronto por tempo
+1569 : Processo 2450791 Pronto -> Exec
+1570 : Processo 2450791 Exec -> Pronto por tempo
+1571 : Processo 2450791 Pronto -> Exec
+1572 : Processo 2450791 Exec -> Pronto por tempo
+1573 : Processo 2450791 Pronto -> Exec
+1574 : Processo 2450791 Exec -> Pronto por tempo
+1575 : Processo 2450791 Pronto -> Exec
+1576 : Processo 2450791 Exec -> Pronto por tempo
+1577 : Processo 2450791 Pronto -> Exec
+1578 : Processo 2450791 Exec -> Pronto por tempo
+1579 : Processo 2450791 Pronto -> Exec
+1580 : Processo 2450791 Exec -> Pronto por tempo
+1581 : Processo 2450791 Pronto -> Exec
+1582 : Processo 2450791 Exec -> Pronto por tempo
+1583 : Processo 2450791 Pronto -> Exec
+1584 : Processo 2450791 Exec -> Pronto por tempo
+1585 : Processo 2450791 Pronto -> Exec
+1586 : Processo 2450791 Exec -> Pronto por tempo
+1587 : Processo 2450791 Pronto -> Exec
+1588 : Processo 2450791 Exec -> Pronto por tempo
+1589 : Processo 2450791 Pronto -> Exec
+1590 : Processo 2450791 Exec -> Pronto por tempo
+1591 : Processo 2450791 Pronto -> Exec
+1592 : Processo 2450791 Exec -> Pronto por tempo
+1593 : Processo 2450791 Pronto -> Exec
+1594 : Processo 2450791 Exec -> Pronto por tempo
+1595 : Processo 2450791 Pronto -> Exec
+1596 : Processo 2450791 Exec -> Pronto por tempo
+1597 : Processo 2450791 Pronto -> Exec
+1598 : Processo 2450791 Exec -> Pronto por tempo
+1599 : Processo 2450791 Pronto -> Exec
+1600 : Processo 2450791 Exec -> Pronto por tempo
+1601 : Processo 2450791 Pronto -> Exec
+1602 : Processo 2450791 Exec -> Pronto por tempo
+1603 : Processo 2450791 Pronto -> Exec
+1604 : Processo 2450791 Exec -> Pronto por tempo
+1605 : Processo 2450791 Pronto -> Exec
+1606 : Processo 2450791 Exec -> Pronto por tempo
+1607 : Processo 2450791 Pronto -> Exec
+1608 : Processo 2450791 Exec -> Pronto por tempo
+1609 : Processo 2450791 Pronto -> Exec
+1610 : Processo 2450791 Exec -> Pronto por tempo
+1611 : Processo 2450791 Pronto -> Exec
+1612 : Processo 2450791 Exec -> Pronto por tempo
+1613 : Processo 2450791 Pronto -> Exec
+1614 : Processo 2450791 Exec -> Pronto por tempo
+1615 : Processo 2450791 Pronto -> Exec
+1616 : Processo 2450791 Exec -> Pronto por tempo
+1617 : Processo 2450791 Pronto -> Exec
+1618 : Processo 2450791 Exec -> Pronto por tempo
+1619 : Processo 2450791 Pronto -> Exec
+1620 : Processo 2450791 Exec -> Pronto por tempo
+1621 : Processo 2450791 Pronto -> Exec
+1622 : Processo 2450791 Exec -> Pronto por tempo
+1623 : Processo 2450791 Pronto -> Exec
+1624 : Processo 2450791 Exec -> Pronto por tempo
+1625 : Processo 2450791 Pronto -> Exec
+1626 : Processo 2450791 Exec -> Pronto por tempo
+1627 : Processo 2450791 Pronto -> Exec
+1628 : Processo 2450791 Exec -> Pronto por tempo
+1629 : Processo 2450791 Pronto -> Exec
+1630 : Processo 2450791 Exec -> Pronto por tempo
+1631 : Processo 2450791 Pronto -> Exec
+1632 : Processo 2450791 Exec -> Pronto por tempo
+1633 : Processo 2450791 Pronto -> Exec
+1634 : Processo 2450791 Exec -> Pronto por tempo
+1635 : Processo 2450791 Pronto -> Exec
+1636 : Processo 2450791 Exec -> Pronto por tempo
+1637 : Processo 2450791 Pronto -> Exec
+1638 : Processo 2450791 Exec -> Pronto por tempo
+1639 : Processo 2450791 Pronto -> Exec
+1640 : Processo 2450791 Exec -> Pronto por tempo
+1641 : Processo 2450791 Pronto -> Exec
+1642 : Processo 2450791 Exec -> Pronto por tempo
+1643 : Processo 2450791 Pronto -> Exec
+1644 : Processo 2450791 Exec -> Pronto por tempo
+1645 : Processo 2450791 Pronto -> Exec
+1646 : Processo 2450791 Exec -> Pronto por tempo
+1647 : Processo 2450791 Pronto -> Exec
+1648 : Processo 2450791 Exec -> Pronto por tempo
+1649 : Processo 2450791 Pronto -> Exec
+1650 : Processo 2450791 Exec -> Pronto por tempo
+1651 : Processo 2450791 Pronto -> Exec
+1652 : Processo 2450791 Exec -> Pronto por tempo
+1653 : Processo 2450791 Pronto -> Exec
+1654 : Processo 2450791 Exec -> Pronto por tempo
+1655 : Processo 2450791 Pronto -> Exec
+1656 : Processo 2450791 Exec -> Pronto por tempo
+1657 : Processo 2450791 Pronto -> Exec
+1658 : Processo 2450791 Exec -> Pronto por tempo
+1659 : Processo 2450791 Pronto -> Exec
+1660 : Processo 2450791 Exec -> Pronto por tempo
+1661 : Processo 2450791 Pronto -> Exec
+1662 : Processo 2450791 Exec -> Pronto por tempo
+1663 : Processo 2450791 Pronto -> Exec
+1664 : Processo 2450791 Exec -> Pronto por tempo
+1665 : Processo 2450791 Pronto -> Exec
+1666 : Processo 2450791 Exec -> Pronto por tempo
+1667 : Processo 2450791 Pronto -> Exec
+1668 : Processo 2450791 Exec -> Pronto por tempo
+1669 : Processo 2450791 Pronto -> Exec
+1670 : Processo 2450791 Exec -> Pronto por tempo
+1671 : Processo 2450791 Pronto -> Exec
+1672 : Processo 2450791 Exec -> Pronto por tempo
+1673 : Processo 2450791 Pronto -> Exec
+1674 : Processo 2450791 Exec -> Pronto por tempo
+1675 : Processo 2450791 Pronto -> Exec
+1676 : Processo 2450791 Exec -> Pronto por tempo
+1677 : Processo 2450791 Pronto -> Exec
+1678 : Processo 2450791 Exec -> Pronto por tempo
+1679 : Processo 2450791 Pronto -> Exec
+1680 : Processo 2450791 Exec -> Pronto por tempo
+1681 : Processo 2450791 Pronto -> Exec
+1682 : Processo 2450791 Exec -> Pronto por tempo
+1683 : Processo 2450791 Pronto -> Exec
+1684 : Processo 2450791 Exec -> Pronto por tempo
+1685 : Processo 2450791 Pronto -> Exec
+1686 : Processo 2450791 Exec -> Pronto por tempo
+1687 : Processo 2450791 Pronto -> Exec
+1688 : Processo 2450791 Exec -> Pronto por tempo
+1689 : Processo 2450791 Pronto -> Exec
+1690 : Processo 2450791 Exec -> Pronto por tempo
+1691 : Processo 2450791 Pronto -> Exec
+1692 : Processo 2450791 Exec -> Pronto por tempo
+1693 : Processo 2450791 Pronto -> Exec
+1694 : Processo 2450791 Exec -> Pronto por tempo
+1695 : Processo 2450791 Pronto -> Exec
+1696 : Processo 2450791 Exec -> Pronto por tempo
+1697 : Processo 2450791 Pronto -> Exec
+1698 : Processo 2450791 Exec -> Pronto por tempo
+1699 : Processo 2450791 Pronto -> Exec
+1700 : Processo 2450791 Exec -> Pronto por tempo
+1701 : Processo 2450791 Pronto -> Exec
+1702 : Processo 2450791 Exec -> Pronto por tempo
+1703 : Processo 2450791 Pronto -> Exec
+1703 : SOsim desativado

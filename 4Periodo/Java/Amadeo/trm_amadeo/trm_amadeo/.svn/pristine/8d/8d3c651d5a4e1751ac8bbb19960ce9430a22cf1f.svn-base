@@ -1,0 +1,309 @@
+package view;
+
+import java.text.DecimalFormat;
+import java.util.List;
+
+import javax.swing.JOptionPane;
+import javax.swing.table.AbstractTableModel;
+
+import model.Relatorio;
+
+public class RelatorioTableModelVeiculo extends AbstractTableModel{
+
+	private static final int COL_PLACA = 0;
+	private static final int COL_RENAVAM = 1;
+	private static final int COL_TIPO = 2;
+	private static final int COL_STATUSVEI = 3;
+	private static final int COL_TARA = 4;
+	private static final int COL_COM_CAP_CARG = 5;
+	private static final int COL_LARG_CAP_CARG = 6;
+	private static final int COL_ALT_CAP_CARGA = 7;
+	private static final int COL_PESO_MAX_CARGA = 8;
+	private static final int COL_NUMEROS_EIXO = 9;
+	private static final int COL_CAP_TANQUE_COMB = 10;
+	private static final int COL_MARCA_MODELO = 11;
+	private static final int COL_COMBUSTIVEL = 12;
+//	private static final int COL_ANO_FAB = 13;
+	private static final int COL_VINCULO_FROTA = 13;
+
+
+	private List<Relatorio> valores;
+	private boolean [] colsEdicao; 
+	
+	public RelatorioTableModelVeiculo(List<Relatorio> valores){
+		
+		this.valores = valores;
+	
+	}
+	
+	
+	@Override
+	public int getColumnCount() {
+		// TODO Auto-generated method stub
+		return 13;
+	}
+
+	@Override
+	public int getRowCount() {
+		// TODO Auto-generated method stub
+		return valores.size();
+	}
+
+	
+	public boolean isCellEditable(int rowIndex, int columnIndex){  
+	    
+		if(columnIndex == COL_PLACA){
+			return true;
+		}
+		else if(columnIndex == COL_RENAVAM){
+			return true;
+		}
+		else if(columnIndex == COL_TIPO){
+			return true;
+		}
+		else if(columnIndex == COL_STATUSVEI){
+			return true;
+		}
+		else if(columnIndex == COL_COM_CAP_CARG){
+			return true;
+		}
+		else if(columnIndex == COL_LARG_CAP_CARG){
+			return true;
+		}
+		else if(columnIndex == COL_ALT_CAP_CARGA){
+			return true;
+		}
+		else if(columnIndex == COL_MARCA_MODELO){
+			return true;
+		}
+		
+		Relatorios relatorios = new Relatorios();
+		
+		return relatorios.error();
+	}  
+	
+
+	
+	@Override    
+	public void setValueAt(Object aValue, int rowIndex, int columnIndex) {    
+		Relatorio relatorio = valores.get(rowIndex);
+		
+		if(columnIndex == COL_PLACA){
+			relatorio.setPlaca((String)aValue);
+		}
+		else if(columnIndex == COL_RENAVAM){
+			relatorio.setRenavam((String)aValue);
+		}
+		else if(columnIndex == COL_TIPO){
+			relatorio.setComboTipoVeiculo((String)aValue);
+		}
+		else if(columnIndex == COL_STATUSVEI){
+			relatorio.setStatusVeiculo((Integer)aValue);
+		}
+		else if(columnIndex == COL_COM_CAP_CARG){
+			relatorio.setCompCapacidadeCarga((Float)aValue);
+		}
+		else if(columnIndex == COL_LARG_CAP_CARG){
+			relatorio.setLarguraCapacidadeCarga((Float)aValue);
+		}
+		else if(columnIndex == COL_ALT_CAP_CARGA){
+			relatorio.setAlturaCapacidadeCarga((Float)aValue);
+		}
+		else if(columnIndex == COL_MARCA_MODELO){
+			relatorio.setMarcaModelo((String)aValue);
+		}
+		
+		Relatorios rel = new Relatorios();
+		
+		boolean verificaExclusao = rel.confirmaExclusao();
+		
+		if(verificaExclusao == true){
+			
+			rel.onSaveVeiculos(relatorio);
+		
+			fireTableCellUpdated(rowIndex,columnIndex); 
+			
+		}
+		else{
+			rel.refreshTableVeiculo();
+		}
+		
+	}  
+	
+	@Override
+	public Object getValueAt(int rowIndex, int columnIndex) {
+	
+		Relatorio relatorio = valores.get(rowIndex);
+		
+		if(columnIndex == COL_PLACA){
+			return relatorio.getPlaca();
+		}
+		else if(columnIndex == COL_RENAVAM){
+			return relatorio.getRenavam();
+		}
+		else if(columnIndex == COL_TIPO){
+			return relatorio.getComboTipoVeiculo();
+		}
+		else if(columnIndex == COL_STATUSVEI){
+			return relatorio.getStatusVeiculo();
+		}
+		else if(columnIndex == COL_TARA){
+			return relatorio.getTara();
+		}
+		else if(columnIndex == COL_COM_CAP_CARG){
+			return relatorio.getCompCapacidadeCarga();
+		}
+		else if(columnIndex == COL_LARG_CAP_CARG){
+			return relatorio.getLarguraCapacidadeCarga();
+		}
+		else if(columnIndex == COL_ALT_CAP_CARGA){
+			return relatorio.getAlturaCapacidadeCarga();
+		}
+		else if(columnIndex == COL_PESO_MAX_CARGA){
+			return relatorio.getPesoMaxCarga();
+		}
+		else if(columnIndex == COL_NUMEROS_EIXO){
+			return relatorio.getNumeroEixos();
+		}
+		else if(columnIndex == COL_CAP_TANQUE_COMB){
+			return relatorio.getCapacidadeTanqueComb();
+		}
+		else if(columnIndex == COL_MARCA_MODELO){
+			return relatorio.getMarcaModelo();
+		}
+		else if(columnIndex == COL_COMBUSTIVEL){
+			return relatorio.getCombustivel();
+		}
+//		else if(columnIndex == COL_ANO_FAB){
+//			return relatorio.getAnoFabricacao();
+//		}
+		else if(columnIndex == COL_VINCULO_FROTA){
+			return relatorio.getVinculoFrota();
+		}
+
+		return null;
+	}
+	
+	public String getColumnName(int column){
+		
+		String coluna = "";
+		
+		switch (column) {
+
+		case COL_PLACA:
+			coluna = "PLACA";
+			break;
+		case COL_RENAVAM:
+			coluna = "RENAVAM";
+			break;
+		case COL_TIPO:
+			coluna = "TIPO";
+			break;
+		case COL_STATUSVEI:
+			coluna = "STATUS";
+			break;	
+		case COL_TARA:
+			coluna = "TARA";
+			break;
+		case COL_COM_CAP_CARG:
+			coluna = "COMPRIMENTO CAP CARGA";
+			break;	
+		case COL_LARG_CAP_CARG:
+			coluna = "LARGURA";
+			break;	
+		case COL_ALT_CAP_CARGA:
+			coluna = "ALTURA";
+			break;	
+		case COL_PESO_MAX_CARGA:
+			coluna = "PESO";
+			break;	
+		case COL_NUMEROS_EIXO:
+			coluna = "EIXOS";
+			break;		
+		case COL_CAP_TANQUE_COMB:
+			coluna = "CAPACIDADE COMBUSTIVEL";
+			break;	
+		case COL_MARCA_MODELO:
+			coluna = "MODELO";
+			break;	
+		case COL_COMBUSTIVEL:
+			coluna = "COMBUSTIVEL";
+			break;	
+//		case COL_ANO_FAB:
+//			coluna = "ANO FABRICAÇÃO";
+//			break;	
+		case COL_VINCULO_FROTA:
+			coluna = "VINCULO FROTA";
+			break;		
+			
+		default:
+			throw new IllegalArgumentException("Coluna invalida");
+			
+		}
+		return coluna;
+		
+	}
+	
+	
+	// tipo de dados que a coluna tem
+	public Class<?> getColumnClass(int columnIndex){
+		
+		if(columnIndex == COL_PLACA){
+			return String.class;
+		}
+		else if(columnIndex == COL_RENAVAM){
+			return String.class;
+		}
+		else if(columnIndex == COL_TIPO){
+			return String.class;
+		}
+		else if(columnIndex == COL_STATUSVEI){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_TARA){
+			return Float.class;
+		}
+		else if(columnIndex == COL_COM_CAP_CARG){
+			return Float.class;
+		}
+		else if(columnIndex == COL_LARG_CAP_CARG){
+			return Float.class;
+		}
+		else if(columnIndex == COL_ALT_CAP_CARGA){
+			return Float.class;
+		}
+		else if(columnIndex == COL_PESO_MAX_CARGA){
+			return Float.class;
+		}
+		else if(columnIndex == COL_NUMEROS_EIXO){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_CAP_TANQUE_COMB){
+			return Integer.class;
+		}
+		else if(columnIndex == COL_MARCA_MODELO){
+			return String.class;
+		}
+		else if(columnIndex == COL_COMBUSTIVEL){
+			return String.class;
+		}
+//		else if(columnIndex == COL_ANO_FAB){
+//			return Integer.class;
+//		}
+		else if(columnIndex == COL_VINCULO_FROTA){
+			return Integer.class;
+		}
+		
+		return null;
+	}
+	
+	//oque contem na linha
+	public Relatorio get(int row){
+		
+		return valores.get(row);
+	}
+	
+
+	
+	
+}

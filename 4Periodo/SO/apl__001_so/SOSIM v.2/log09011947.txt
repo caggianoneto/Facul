@@ -1,0 +1,4368 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+19 : Processo 4740775 alocacao de blocos no pagefile
+19 : Processo 4740775 HwPF - Executável0
+19 : Processo 4740775 HwPF - Executável1
+19 : Processo 4740775 HwPF - Executável2
+19 : Processo 4740775 HwPF - Executável3
+19 : Processo 4740775 HwPF - Executável4
+19 : Processo 4740775 criado
+19 : Processo 4740877 alocacao de blocos no pagefile
+19 : Processo 4740877 HwPF - Executável0
+19 : Processo 4740877 HwPF - Executável1
+19 : Processo 4740877 HwPF - Executável2
+19 : Processo 4740877 HwPF - Executável3
+19 : Processo 4740877 HwPF - Executável4
+19 : Processo 4740877 criado
+19 : Processo 4740980 alocacao de blocos no pagefile
+19 : Processo 4740980 HwPF - Executável0
+19 : Processo 4740980 HwPF - Executável1
+19 : Processo 4740980 HwPF - Executável2
+19 : Processo 4740980 HwPF - Executável3
+19 : Processo 4740980 HwPF - Executável4
+19 : Processo 4740980 criado
+19 : Processo 4741084 alocacao de blocos no pagefile
+19 : Processo 4741084 HwPF - Executável0
+19 : Processo 4741084 HwPF - Executável1
+19 : Processo 4741084 HwPF - Executável2
+19 : Processo 4741084 HwPF - Executável3
+19 : Processo 4741084 HwPF - Executável4
+19 : Processo 4741084 criado
+19 : Processo 4741189 alocacao de blocos no pagefile
+19 : Processo 4741189 HwPF - Executável0
+19 : Lista de pags livres menor que80%
+19 : Iniciando Swap
+19 : Processo 4741084 pronto outswapped
+19 : Processo 4741189 HwPF - Executável1
+19 : Processo 4741189 HwPF - Executável2
+19 : Processo 4741189 HwPF - Executável3
+19 : Processo 4741189 HwPF - Executável4
+19 : Processo 4741189 criado
+19 : Processo 4741295 alocacao de blocos no pagefile
+19 : Processo 4741295 HwPF - Executável0
+19 : Lista de pags livres menor que80%
+19 : Iniciando Swap
+19 : Processo 4741189 pronto outswapped
+19 : Processo 4741295 HwPF - Executável1
+19 : Processo 4741295 HwPF - Executável2
+19 : Processo 4741295 HwPF - Executável3
+19 : Processo 4741295 HwPF - Executável4
+19 : Processo 4741295 criado
+19 : Processo 4741402 alocacao de blocos no pagefile
+19 : Processo 4741402 HwPF - Executável0
+19 : Lista de pags livres menor que80%
+19 : Iniciando Swap
+19 : Processo 4741295 pronto outswapped
+19 : Processo 4741402 HwPF - Executável1
+19 : Processo 4741402 HwPF - Executável2
+19 : Processo 4741402 HwPF - Executável3
+19 : Processo 4741402 HwPF - Executável4
+19 : Processo 4741402 criado
+19 : Processo 4741506 alocacao de blocos no pagefile
+19 : Processo 4741506 HwPF - Executável0
+19 : Lista de pags livres menor que80%
+19 : Iniciando Swap
+19 : Processo 4741402 pronto outswapped
+19 : Processo 4741506 HwPF - Executável1
+19 : Processo 4741506 HwPF - Executável2
+19 : Processo 4741506 HwPF - Executável3
+19 : Processo 4741506 HwPF - Executável4
+19 : Processo 4741506 criado
+19 : Processo 4741612 alocacao de blocos no pagefile
+19 : Processo 4741612 HwPF - Executável0
+19 : Lista de pags livres menor que80%
+19 : Iniciando Swap
+19 : Processo 4741506 pronto outswapped
+19 : Processo 4741612 HwPF - Executável1
+19 : Processo 4741612 HwPF - Executável2
+19 : Processo 4741612 HwPF - Executável3
+19 : Processo 4741612 HwPF - Executável4
+19 : Processo 4741612 criado
+19 : Processo 4741718 alocacao de blocos no pagefile
+19 : Processo 4741718 HwPF - Executável0
+19 : Lista de pags livres menor que80%
+19 : Iniciando Swap
+19 : Processo 4741612 pronto outswapped
+19 : Processo 4741718 HwPF - Executável1
+19 : Processo 4741718 HwPF - Executável2
+19 : Processo 4741718 HwPF - Executável3
+19 : Processo 4741718 HwPF - Executável4
+19 : Processo 4741718 criado
+20 : Processo 4740775 Pronto -> Exec
+21 : Processo 4740775 Exec -> Pronto por tempo
+22 : Processo 4740877 Pronto -> Exec
+23 : Processo 4740877 Exec -> Pronto por tempo
+24 : Processo 4740980 Pronto -> Exec
+25 : Processo 4740980 Exec -> Pronto por tempo
+26 : Processo 4741084 swap in
+26 : Processo 4741084 HwPF - Pagefile0
+26 : Processo 4741084 HwPF - Pagefile1
+26 : Lista de pags livres menor que80%
+26 : Iniciando Swap
+26 : Processo 4740980 pronto outswapped
+26 : Processo 4741084 HwPF - Pagefile2
+26 : Processo 4741084 HwPF - Pagefile3
+26 : Processo 4741084 HwPF - Pagefile4
+26 : Processo 4741084 liberando pagefile alocado
+26 : Processo 4741084 Pronto -> Exec
+27 : Processo 4741084 Exec -> Pronto por tempo
+28 : Processo 4741189 swap in
+28 : Processo 4741189 HwPF - Pagefile0
+28 : Processo 4741189 HwPF - Pagefile1
+28 : Lista de pags livres menor que80%
+28 : Iniciando Swap
+28 : Processo 4741084 pronto outswapped
+28 : Processo 4741189 HwPF - Pagefile2
+28 : Processo 4741189 HwPF - Pagefile3
+28 : Processo 4741189 HwPF - Pagefile4
+28 : Processo 4741189 liberando pagefile alocado
+28 : Processo 4741189 Pronto -> Exec
+29 : Processo 4741189 Exec -> Pronto por tempo
+30 : Processo 4741295 swap in
+30 : Processo 4741295 HwPF - Pagefile0
+30 : Processo 4741295 HwPF - Pagefile1
+30 : Lista de pags livres menor que80%
+30 : Iniciando Swap
+30 : Processo 4741189 pronto outswapped
+30 : Processo 4741295 HwPF - Pagefile2
+30 : Processo 4741295 HwPF - Pagefile3
+30 : Processo 4741295 HwPF - Pagefile4
+30 : Processo 4741295 liberando pagefile alocado
+30 : Processo 4741295 Pronto -> Exec
+31 : Processo 4741295 Exec -> Pronto por tempo
+32 : Processo 4741402 swap in
+32 : Processo 4741402 HwPF - Pagefile0
+32 : Processo 4741402 HwPF - Pagefile1
+32 : Lista de pags livres menor que80%
+32 : Iniciando Swap
+32 : Processo 4741295 pronto outswapped
+32 : Processo 4741402 HwPF - Pagefile2
+32 : Processo 4741402 HwPF - Pagefile3
+32 : Processo 4741402 HwPF - Pagefile4
+32 : Processo 4741402 liberando pagefile alocado
+32 : Processo 4741402 Pronto -> Exec
+33 : Processo 4741402 Exec -> Pronto por tempo
+34 : Processo 4741506 swap in
+34 : Processo 4741506 HwPF - Pagefile0
+34 : Processo 4741506 HwPF - Pagefile1
+34 : Lista de pags livres menor que80%
+34 : Iniciando Swap
+34 : Processo 4741402 pronto outswapped
+34 : Processo 4741506 HwPF - Pagefile2
+34 : Processo 4741506 HwPF - Pagefile3
+34 : Processo 4741506 HwPF - Pagefile4
+34 : Processo 4741506 liberando pagefile alocado
+34 : Processo 4741506 Pronto -> Exec
+35 : Processo 4741506 Exec -> Pronto por tempo
+36 : Processo 4740775 Pronto -> Exec
+37 : Processo 4740775 Exec -> Pronto por tempo
+38 : Processo 4740775 Pronto -> Exec
+39 : Processo 4740775 Exec -> Pronto por tempo
+40 : Processo 4740775 Pronto -> Exec
+41 : Processo 4740775 Exec -> Pronto por tempo
+42 : Processo 4740775 Pronto -> Exec
+43 : Processo 4740775 Exec -> Pronto por tempo
+44 : Processo 4740775 Pronto -> Exec
+45 : Processo 4740775 Exec -> Pronto por tempo
+46 : Processo 4740775 Pronto -> Exec
+47 : Processo 4740775 Exec -> Pronto por tempo
+48 : Processo 4740775 Pronto -> Exec
+49 : Processo 4740775 Exec -> Pronto por tempo
+50 : Processo 4740775 Pronto -> Exec
+51 : Processo 4740775 Exec -> Pronto por tempo
+52 : Processo 4740775 Pronto -> Exec
+53 : Processo 4740775 Exec -> Pronto por tempo
+54 : Processo 4740775 Pronto -> Exec
+55 : Processo 4740775 Exec -> Pronto por tempo
+56 : Processo 4740775 Pronto -> Exec
+57 : Processo 4740775 Exec -> Pronto por tempo
+58 : Processo 4740775 Pronto -> Exec
+59 : Processo 4740775 Exec -> Pronto por tempo
+60 : Processo 4740775 Pronto -> Exec
+61 : Processo 4740775 Exec -> Pronto por tempo
+62 : Processo 4740775 Pronto -> Exec
+63 : Processo 4740775 Exec -> Pronto por tempo
+64 : Processo 4740775 Pronto -> Exec
+65 : Processo 4740775 Exec -> Pronto por tempo
+66 : Processo 4740775 Pronto -> Exec
+67 : Processo 4740775 Exec -> Pronto por tempo
+68 : Processo 4740775 Pronto -> Exec
+69 : Processo 4740775 Exec -> Pronto por tempo
+70 : Processo 4740775 Pronto -> Exec
+71 : Processo 4740775 Exec -> Pronto por tempo
+72 : Processo 4740775 Pronto -> Exec
+73 : Processo 4740775 Exec -> Pronto por tempo
+74 : Processo 4740775 Pronto -> Exec
+75 : Processo 4740775 Exec -> Pronto por tempo
+76 : Processo 4740775 Pronto -> Exec
+77 : Processo 4740775 Exec -> Pronto por tempo
+78 : Processo 4740775 Pronto -> Exec
+79 : Processo 4740775 Exec -> Pronto por tempo
+80 : Processo 4740775 Pronto -> Exec
+81 : Processo 4740775 Exec -> Pronto por tempo
+82 : Processo 4740775 Pronto -> Exec
+83 : Processo 4740775 Exec -> Pronto por tempo
+84 : Processo 4740775 Pronto -> Exec
+85 : Processo 4740775 Exec -> Pronto por tempo
+86 : Processo 4740775 Pronto -> Exec
+87 : Processo 4740775 Exec -> Pronto por tempo
+88 : Processo 4740775 Pronto -> Exec
+89 : Processo 4740775 Exec -> Pronto por tempo
+90 : Processo 4740775 Pronto -> Exec
+91 : Processo 4740775 Exec -> Pronto por tempo
+92 : Processo 4740775 Pronto -> Exec
+93 : Processo 4740775 Exec -> Pronto por tempo
+94 : Processo 4740775 Pronto -> Exec
+95 : Processo 4740775 Exec -> Pronto por tempo
+96 : Processo 4740775 Pronto -> Exec
+97 : Processo 4740775 Exec -> Pronto por tempo
+98 : Processo 4740775 Pronto -> Exec
+99 : Processo 4740775 Exec -> Pronto por tempo
+100 : Processo 4740775 Pronto -> Exec
+101 : Processo 4740775 Exec -> Pronto por tempo
+102 : Processo 4740775 Pronto -> Exec
+103 : Processo 4740775 Exec -> Pronto por tempo
+104 : Processo 4740775 Pronto -> Exec
+105 : Processo 4740775 Exec -> Pronto por tempo
+106 : Processo 4740775 Pronto -> Exec
+107 : Processo 4740775 Exec -> Pronto por tempo
+108 : Processo 4740775 Pronto -> Exec
+109 : Processo 4740775 Exec -> Pronto por tempo
+110 : Processo 4740775 Pronto -> Exec
+111 : Processo 4740775 Exec -> Pronto por tempo
+112 : Processo 4740775 Pronto -> Exec
+113 : Processo 4740775 Exec -> Pronto por tempo
+114 : Processo 4740775 Pronto -> Exec
+115 : Processo 4740775 Exec -> Pronto por tempo
+116 : Processo 4740775 Pronto -> Exec
+117 : Processo 4740775 Exec -> Pronto por tempo
+118 : Processo 4740775 Pronto -> Exec
+119 : Processo 4740775 Exec -> Pronto por tempo
+120 : Processo 4740775 Pronto -> Exec
+121 : Processo 4740775 Exec -> Pronto por tempo
+122 : Processo 4740775 Pronto -> Exec
+123 : Processo 4740775 Exec -> Pronto por tempo
+124 : Processo 4740775 Pronto -> Exec
+125 : Processo 4740775 Exec -> Pronto por tempo
+126 : Processo 4740775 Pronto -> Exec
+127 : Processo 4740775 Exec -> Pronto por tempo
+128 : Processo 4740775 Pronto -> Exec
+129 : Processo 4740775 Exec -> Pronto por tempo
+130 : Processo 4740775 Pronto -> Exec
+131 : Processo 4740775 Exec -> Pronto por tempo
+132 : Processo 4740775 Pronto -> Exec
+133 : Processo 4740775 Exec -> Pronto por tempo
+134 : Processo 4740775 Pronto -> Exec
+135 : Processo 4740775 Exec -> Pronto por tempo
+136 : Processo 4740775 Pronto -> Exec
+137 : Processo 4740775 Exec -> Pronto por tempo
+138 : Processo 4740775 Pronto -> Exec
+139 : Processo 4740775 Exec -> Pronto por tempo
+140 : Processo 4740775 Pronto -> Exec
+141 : Processo 4740775 Exec -> Pronto por tempo
+142 : Processo 4740775 Pronto -> Exec
+143 : Processo 4740775 Exec -> Pronto por tempo
+144 : Processo 4740775 Pronto -> Exec
+145 : Processo 4740775 Exec -> Pronto por tempo
+146 : Processo 4740775 Pronto -> Exec
+147 : Processo 4740775 Exec -> Pronto por tempo
+148 : Processo 4740775 Pronto -> Exec
+149 : Processo 4740775 Exec -> Pronto por tempo
+150 : Processo 4740775 Pronto -> Exec
+151 : Processo 4740775 Exec -> Pronto por tempo
+152 : Processo 4740775 Pronto -> Exec
+153 : Processo 4740775 Exec -> Pronto por tempo
+154 : Processo 4740775 Pronto -> Exec
+155 : Processo 4740775 Exec -> Pronto por tempo
+156 : Processo 4740775 Pronto -> Exec
+157 : Processo 4740775 Exec -> Pronto por tempo
+158 : Processo 4740775 Pronto -> Exec
+159 : Processo 4740775 Exec -> Pronto por tempo
+160 : Processo 4740775 Pronto -> Exec
+161 : Processo 4740775 Exec -> Pronto por tempo
+162 : Processo 4740775 Pronto -> Exec
+163 : Processo 4740775 Exec -> Pronto por tempo
+164 : Processo 4740775 Pronto -> Exec
+165 : Processo 4740775 Exec -> Pronto por tempo
+166 : Processo 4740775 Pronto -> Exec
+167 : Processo 4740775 Exec -> Pronto por tempo
+168 : Processo 4740775 Pronto -> Exec
+169 : Processo 4740775 Exec -> Pronto por tempo
+170 : Processo 4740775 Pronto -> Exec
+171 : Processo 4740775 Exec -> Pronto por tempo
+172 : Processo 4740775 Pronto -> Exec
+173 : Processo 4740775 Exec -> Pronto por tempo
+174 : Processo 4740775 Pronto -> Exec
+175 : Processo 4740775 Exec -> Pronto por tempo
+176 : Processo 4740775 Pronto -> Exec
+177 : Processo 4740775 Exec -> Pronto por tempo
+178 : Processo 4740775 Pronto -> Exec
+179 : Processo 4740775 Exec -> Pronto por tempo
+180 : Processo 4740775 Pronto -> Exec
+181 : Processo 4740775 Exec -> Pronto por tempo
+182 : Processo 4740775 Pronto -> Exec
+183 : Processo 4740775 Exec -> Pronto por tempo
+184 : Processo 4740775 Pronto -> Exec
+185 : Processo 4740775 Exec -> Pronto por tempo
+186 : Processo 4740775 Pronto -> Exec
+187 : Processo 4740775 Exec -> Pronto por tempo
+188 : Processo 4740775 Pronto -> Exec
+189 : Processo 4740775 Exec -> Pronto por tempo
+190 : Processo 4740775 Pronto -> Exec
+191 : Processo 4740775 Exec -> Pronto por tempo
+192 : Processo 4740775 Pronto -> Exec
+193 : Processo 4740775 Exec -> Pronto por tempo
+194 : Processo 4740775 Pronto -> Exec
+195 : Processo 4740775 Exec -> Pronto por tempo
+196 : Processo 4740775 Pronto -> Exec
+197 : Processo 4740775 Exec -> Pronto por tempo
+198 : Processo 4740775 Pronto -> Exec
+199 : Processo 4740775 Exec -> Pronto por tempo
+200 : Processo 4740775 Pronto -> Exec
+201 : Processo 4740775 Exec -> Pronto por tempo
+202 : Processo 4740775 Pronto -> Exec
+203 : Processo 4740775 Exec -> Pronto por tempo
+204 : Processo 4740775 Pronto -> Exec
+205 : Processo 4740775 Exec -> Pronto por tempo
+206 : Processo 4740775 Pronto -> Exec
+207 : Processo 4740775 Exec -> Pronto por tempo
+208 : Processo 4740775 Pronto -> Exec
+209 : Processo 4740775 Exec -> Pronto por tempo
+210 : Processo 4740775 Pronto -> Exec
+211 : Processo 4740775 Exec -> Pronto por tempo
+212 : Processo 4740775 Pronto -> Exec
+213 : Processo 4740775 Exec -> Pronto por tempo
+214 : Processo 4740775 Pronto -> Exec
+215 : Processo 4740775 Exec -> Pronto por tempo
+216 : Processo 4740775 Pronto -> Exec
+217 : Processo 4740775 Exec -> Pronto por tempo
+218 : Processo 4740775 Pronto -> Exec
+219 : Processo 4740775 Exec -> Pronto por tempo
+220 : Processo 4740775 Pronto -> Exec
+221 : Processo 4740775 Exec -> Pronto por tempo
+222 : Processo 4740775 Pronto -> Exec
+223 : Processo 4740775 Exec -> Pronto por tempo
+224 : Processo 4740775 Pronto -> Exec
+225 : Processo 4740775 Exec -> Pronto por tempo
+226 : Processo 4740775 Pronto -> Exec
+227 : Processo 4740775 Exec -> Pronto por tempo
+228 : Processo 4740775 Pronto -> Exec
+229 : Processo 4740775 Exec -> Pronto por tempo
+230 : Processo 4740775 Pronto -> Exec
+231 : Processo 4740775 Exec -> Pronto por tempo
+232 : Processo 4740775 Pronto -> Exec
+233 : Processo 4740775 Exec -> Pronto por tempo
+234 : Processo 4740775 Pronto -> Exec
+235 : Processo 4740775 Exec -> Pronto por tempo
+236 : Processo 4740775 Pronto -> Exec
+237 : Processo 4740775 Exec -> Pronto por tempo
+238 : Processo 4740775 Pronto -> Exec
+239 : Processo 4740775 Exec -> Pronto por tempo
+240 : Processo 4740775 Pronto -> Exec
+241 : Processo 4740775 Exec -> Pronto por tempo
+242 : Processo 4740775 Pronto -> Exec
+243 : Processo 4740775 Exec -> Pronto por tempo
+244 : Processo 4740775 Pronto -> Exec
+245 : Processo 4740775 Exec -> Pronto por tempo
+246 : Processo 4740775 Pronto -> Exec
+247 : Processo 4740775 Exec -> Pronto por tempo
+248 : Processo 4740775 Pronto -> Exec
+249 : Processo 4740775 Exec -> Pronto por tempo
+250 : Processo 4740775 Pronto -> Exec
+251 : Processo 4740775 Exec -> Pronto por tempo
+252 : Processo 4740775 Pronto -> Exec
+253 : Processo 4740775 Exec -> Pronto por tempo
+254 : Processo 4740775 Pronto -> Exec
+255 : Processo 4740775 Exec -> Pronto por tempo
+256 : Processo 4740775 Pronto -> Exec
+257 : Processo 4740775 Exec -> Pronto por tempo
+258 : Processo 4740775 Pronto -> Exec
+259 : Processo 4740775 Exec -> Pronto por tempo
+260 : Processo 4740775 Pronto -> Exec
+261 : Processo 4740775 Exec -> Pronto por tempo
+262 : Processo 4740775 Pronto -> Exec
+263 : Processo 4740775 Exec -> Pronto por tempo
+264 : Processo 4740775 Pronto -> Exec
+265 : Processo 4740775 Exec -> Pronto por tempo
+266 : Processo 4740775 Pronto -> Exec
+267 : Processo 4740775 Exec -> Pronto por tempo
+268 : Processo 4740775 Pronto -> Exec
+269 : Processo 4740775 Exec -> Pronto por tempo
+270 : Processo 4740775 Pronto -> Exec
+271 : Processo 4740775 Exec -> Pronto por tempo
+272 : Processo 4740775 Pronto -> Exec
+273 : Processo 4740775 Exec -> Pronto por tempo
+274 : Processo 4740775 Pronto -> Exec
+275 : Processo 4740775 Exec -> Pronto por tempo
+276 : Processo 4740775 Pronto -> Exec
+277 : Processo 4740775 Exec -> Pronto por tempo
+278 : Processo 4740775 Pronto -> Exec
+279 : Processo 4740775 Exec -> Pronto por tempo
+280 : Processo 4740775 Pronto -> Exec
+281 : Processo 4740775 Exec -> Pronto por tempo
+282 : Processo 4740775 Pronto -> Exec
+283 : Processo 4740775 Exec -> Pronto por tempo
+284 : Processo 4740775 Pronto -> Exec
+285 : Processo 4740775 Exec -> Pronto por tempo
+286 : Processo 4740775 Pronto -> Exec
+287 : Processo 4740775 Exec -> Pronto por tempo
+288 : Processo 4740775 Pronto -> Exec
+289 : Processo 4740775 Exec -> Pronto por tempo
+290 : Processo 4740775 Pronto -> Exec
+291 : Processo 4740775 Exec -> Pronto por tempo
+292 : Processo 4740775 Pronto -> Exec
+293 : Processo 4740775 Exec -> Pronto por tempo
+294 : Processo 4740775 Pronto -> Exec
+295 : Processo 4740775 Exec -> Pronto por tempo
+296 : Processo 4740775 Pronto -> Exec
+297 : Processo 4740775 Exec -> Pronto por tempo
+298 : Processo 4740775 Pronto -> Exec
+299 : Processo 4740775 Exec -> Pronto por tempo
+300 : Processo 4740775 Pronto -> Exec
+301 : Processo 4740775 Exec -> Pronto por tempo
+302 : Processo 4740775 Pronto -> Exec
+303 : Processo 4740775 Exec -> Pronto por tempo
+304 : Processo 4740775 Pronto -> Exec
+305 : Processo 4740775 Exec -> Pronto por tempo
+306 : Processo 4740775 Pronto -> Exec
+307 : Processo 4740775 Exec -> Pronto por tempo
+308 : Processo 4740775 Pronto -> Exec
+309 : Processo 4740775 Exec -> Pronto por tempo
+310 : Processo 4740775 Pronto -> Exec
+311 : Processo 4740775 Exec -> Pronto por tempo
+312 : Processo 4740775 Pronto -> Exec
+313 : Processo 4740775 Exec -> Pronto por tempo
+314 : Processo 4740775 Pronto -> Exec
+315 : Processo 4740775 Exec -> Pronto por tempo
+316 : Processo 4740775 Pronto -> Exec
+317 : Processo 4740775 Exec -> Pronto por tempo
+318 : Processo 4740775 Pronto -> Exec
+319 : Processo 4740775 Exec -> Pronto por tempo
+320 : Processo 4740775 Pronto -> Exec
+321 : Processo 4740775 Exec -> Pronto por tempo
+322 : Processo 4740775 Pronto -> Exec
+323 : Processo 4740775 Exec -> Pronto por tempo
+324 : Processo 4740775 Pronto -> Exec
+325 : Processo 4740775 Exec -> Pronto por tempo
+326 : Processo 4740775 Pronto -> Exec
+327 : Processo 4740775 Exec -> Pronto por tempo
+328 : Processo 4740775 Pronto -> Exec
+329 : Processo 4740775 Exec -> Pronto por tempo
+330 : Processo 4740775 Pronto -> Exec
+331 : Processo 4740775 Exec -> Pronto por tempo
+332 : Processo 4740775 Pronto -> Exec
+333 : Processo 4740775 Exec -> Pronto por tempo
+334 : Processo 4740775 Pronto -> Exec
+334 : Processo 4740775 eliminado
+334 : Tempo de UCP:151 Tempo decorrido:315
+334 : Processo 4740775 liberando pagefile reservado
+335 : Processo 4741612 swap in
+335 : Processo 4741612 HwPF - Pagefile0
+335 : Processo 4741612 HwPF - Pagefile1
+335 : Processo 4741612 HwPF - Pagefile2
+335 : Processo 4741612 HwPF - Pagefile3
+335 : Processo 4741612 HwPF - Pagefile4
+335 : Processo 4741612 liberando pagefile alocado
+335 : Processo 4741612 Pronto -> Exec
+336 : Processo 4741612 Exec -> Pronto por tempo
+337 : Processo 4741718 Pronto -> Exec
+338 : Processo 4741718 Exec -> Pronto por tempo
+339 : Processo 4740877 Pronto -> Exec
+340 : Processo 4740877 Exec -> Pronto por tempo
+341 : Processo 4740980 swap in
+341 : Processo 4740980 HwPF - Pagefile0
+341 : Processo 4740980 HwPF - Pagefile1
+341 : Lista de pags livres menor que80%
+341 : Iniciando Swap
+341 : Processo 4740877 pronto outswapped
+341 : Processo 4740980 HwPF - Pagefile2
+341 : Processo 4740980 HwPF - Pagefile3
+341 : Processo 4740980 HwPF - Pagefile4
+341 : Processo 4740980 liberando pagefile alocado
+341 : Processo 4740980 Pronto -> Exec
+342 : Processo 4740980 Exec -> Pronto por tempo
+343 : Processo 4741084 swap in
+343 : Processo 4741084 HwPF - Pagefile0
+343 : Processo 4741084 HwPF - Pagefile1
+343 : Lista de pags livres menor que80%
+343 : Iniciando Swap
+343 : Processo 4740980 pronto outswapped
+343 : Processo 4741084 HwPF - Pagefile2
+343 : Processo 4741084 HwPF - Pagefile3
+343 : Processo 4741084 HwPF - Pagefile4
+343 : Processo 4741084 liberando pagefile alocado
+343 : Processo 4741084 Pronto -> Exec
+344 : Processo 4741084 Exec -> Pronto por tempo
+345 : Processo 4741189 swap in
+345 : Processo 4741189 HwPF - Pagefile0
+345 : Processo 4741189 HwPF - Pagefile1
+345 : Lista de pags livres menor que80%
+345 : Iniciando Swap
+345 : Processo 4741084 pronto outswapped
+345 : Processo 4741189 HwPF - Pagefile2
+345 : Processo 4741189 HwPF - Pagefile3
+345 : Processo 4741189 HwPF - Pagefile4
+345 : Processo 4741189 liberando pagefile alocado
+345 : Processo 4741189 Pronto -> Exec
+346 : Processo 4741189 Exec -> Pronto por tempo
+347 : Processo 4741295 swap in
+347 : Processo 4741295 HwPF - Pagefile0
+347 : Processo 4741295 HwPF - Pagefile1
+347 : Lista de pags livres menor que80%
+347 : Iniciando Swap
+347 : Processo 4741189 pronto outswapped
+347 : Processo 4741295 HwPF - Pagefile2
+347 : Processo 4741295 HwPF - Pagefile3
+347 : Processo 4741295 HwPF - Pagefile4
+347 : Processo 4741295 liberando pagefile alocado
+347 : Processo 4741295 Pronto -> Exec
+348 : Processo 4741295 Exec -> Pronto por tempo
+349 : Processo 4741402 swap in
+349 : Processo 4741402 HwPF - Pagefile0
+349 : Processo 4741402 HwPF - Pagefile1
+349 : Lista de pags livres menor que80%
+349 : Iniciando Swap
+349 : Processo 4741295 pronto outswapped
+350 : Processo 4741402 HwPF - Pagefile2
+350 : Processo 4741402 HwPF - Pagefile3
+350 : Processo 4741402 HwPF - Pagefile4
+350 : Processo 4741402 liberando pagefile alocado
+350 : Processo 4741402 Pronto -> Exec
+350 : Processo 4741402 Exec -> Pronto por tempo
+351 : Processo 4741506 Pronto -> Exec
+352 : Processo 4741506 Exec -> Pronto por tempo
+353 : Processo 4741612 Pronto -> Exec
+354 : Processo 4741612 Exec -> Pronto por tempo
+355 : Processo 4741718 Pronto -> Exec
+356 : Processo 4741718 Exec -> Pronto por tempo
+357 : Processo 4740877 swap in
+357 : Processo 4740877 HwPF - Pagefile0
+357 : Processo 4740877 HwPF - Pagefile1
+357 : Lista de pags livres menor que80%
+357 : Iniciando Swap
+357 : Processo 4741718 pronto outswapped
+357 : Processo 4740877 HwPF - Pagefile2
+358 : Processo 4740877 HwPF - Pagefile3
+358 : Processo 4740877 HwPF - Pagefile4
+358 : Processo 4740877 liberando pagefile alocado
+358 : Processo 4740877 Pronto -> Exec
+358 : Processo 4740877 Exec -> Pronto por tempo
+359 : Processo 4740980 swap in
+359 : Processo 4740980 HwPF - Pagefile0
+359 : Processo 4740980 HwPF - Pagefile1
+359 : Lista de pags livres menor que80%
+359 : Iniciando Swap
+359 : Processo 4740877 pronto outswapped
+360 : Processo 4740980 HwPF - Pagefile2
+360 : Processo 4740980 HwPF - Pagefile3
+360 : Processo 4740980 HwPF - Pagefile4
+360 : Processo 4740980 liberando pagefile alocado
+360 : Processo 4740980 Pronto -> Exec
+360 : Processo 4740980 Exec -> Pronto por tempo
+361 : Processo 4741084 swap in
+361 : Processo 4741084 HwPF - Pagefile0
+361 : Processo 4741084 HwPF - Pagefile1
+361 : Lista de pags livres menor que80%
+361 : Iniciando Swap
+361 : Processo 4740980 pronto outswapped
+362 : Processo 4741084 HwPF - Pagefile2
+362 : Processo 4741084 HwPF - Pagefile3
+362 : Processo 4741084 HwPF - Pagefile4
+362 : Processo 4741084 liberando pagefile alocado
+362 : Processo 4741084 Pronto -> Exec
+362 : Processo 4741084 Exec -> Pronto por tempo
+363 : Processo 4741189 swap in
+363 : Processo 4741189 HwPF - Pagefile0
+363 : Processo 4741189 HwPF - Pagefile1
+363 : Lista de pags livres menor que80%
+363 : Iniciando Swap
+363 : Processo 4741084 pronto outswapped
+364 : Processo 4741189 HwPF - Pagefile2
+364 : Processo 4741189 HwPF - Pagefile3
+364 : Processo 4741189 HwPF - Pagefile4
+364 : Processo 4741189 liberando pagefile alocado
+364 : Processo 4741189 Pronto -> Exec
+364 : Processo 4741189 Exec -> Pronto por tempo
+365 : Processo 4741295 swap in
+365 : Processo 4741295 HwPF - Pagefile0
+365 : Processo 4741295 HwPF - Pagefile1
+365 : Lista de pags livres menor que80%
+365 : Iniciando Swap
+365 : Processo 4741189 pronto outswapped
+366 : Processo 4741295 HwPF - Pagefile2
+366 : Processo 4741295 HwPF - Pagefile3
+366 : Processo 4741295 HwPF - Pagefile4
+366 : Processo 4741295 liberando pagefile alocado
+366 : Processo 4741295 Pronto -> Exec
+366 : Processo 4741295 Exec -> Pronto por tempo
+367 : Processo 4741402 Pronto -> Exec
+368 : Processo 4741402 Exec -> Pronto por tempo
+369 : Processo 4741506 Pronto -> Exec
+370 : Processo 4741506 Exec -> Pronto por tempo
+371 : Processo 4741612 Pronto -> Exec
+372 : Processo 4741612 Exec -> Pronto por tempo
+373 : Processo 4741718 swap in
+373 : Processo 4741718 HwPF - Pagefile0
+373 : Processo 4741718 HwPF - Pagefile1
+373 : Lista de pags livres menor que80%
+373 : Iniciando Swap
+373 : Processo 4741612 pronto outswapped
+374 : Processo 4741718 HwPF - Pagefile2
+374 : Processo 4741718 HwPF - Pagefile3
+374 : Processo 4741718 HwPF - Pagefile4
+374 : Processo 4741718 liberando pagefile alocado
+374 : Processo 4741718 Pronto -> Exec
+374 : Processo 4741718 Exec -> Pronto por tempo
+375 : Processo 4740877 swap in
+375 : Processo 4740877 HwPF - Pagefile0
+375 : Processo 4740877 HwPF - Pagefile1
+375 : Lista de pags livres menor que80%
+375 : Iniciando Swap
+375 : Processo 4741718 pronto outswapped
+376 : Processo 4740877 HwPF - Pagefile2
+376 : Processo 4740877 HwPF - Pagefile3
+376 : Processo 4740877 HwPF - Pagefile4
+376 : Processo 4740877 liberando pagefile alocado
+376 : Processo 4740877 Pronto -> Exec
+376 : Processo 4740877 Exec -> Pronto por tempo
+377 : Processo 4740980 swap in
+377 : Processo 4740980 HwPF - Pagefile0
+377 : Processo 4740980 HwPF - Pagefile1
+377 : Lista de pags livres menor que80%
+377 : Iniciando Swap
+377 : Processo 4740877 pronto outswapped
+378 : Processo 4740980 HwPF - Pagefile2
+378 : Processo 4740980 HwPF - Pagefile3
+378 : Processo 4740980 HwPF - Pagefile4
+378 : Processo 4740980 liberando pagefile alocado
+378 : Processo 4740980 Pronto -> Exec
+378 : Processo 4740980 Exec -> Pronto por tempo
+379 : Processo 4741084 swap in
+379 : Processo 4741084 HwPF - Pagefile0
+379 : Processo 4741084 HwPF - Pagefile1
+379 : Lista de pags livres menor que80%
+379 : Iniciando Swap
+379 : Processo 4740980 pronto outswapped
+380 : Processo 4741084 HwPF - Pagefile2
+380 : Processo 4741084 HwPF - Pagefile3
+380 : Processo 4741084 HwPF - Pagefile4
+380 : Processo 4741084 liberando pagefile alocado
+380 : Processo 4741084 Pronto -> Exec
+380 : Processo 4741084 Exec -> Pronto por tempo
+381 : Processo 4741189 swap in
+381 : Processo 4741189 HwPF - Pagefile0
+381 : Processo 4741189 HwPF - Pagefile1
+381 : Lista de pags livres menor que80%
+381 : Iniciando Swap
+381 : Processo 4741084 pronto outswapped
+382 : Processo 4741189 HwPF - Pagefile2
+382 : Processo 4741189 HwPF - Pagefile3
+382 : Processo 4741189 HwPF - Pagefile4
+382 : Processo 4741189 liberando pagefile alocado
+382 : Processo 4741189 Pronto -> Exec
+382 : Processo 4741189 Exec -> Pronto por tempo
+383 : Processo 4741295 Pronto -> Exec
+384 : Processo 4741295 Exec -> Pronto por tempo
+385 : Processo 4741402 Pronto -> Exec
+386 : Processo 4741402 Exec -> Pronto por tempo
+387 : Processo 4741506 Pronto -> Exec
+388 : Processo 4741506 Exec -> Pronto por tempo
+389 : Processo 4741612 swap in
+389 : Processo 4741612 HwPF - Pagefile0
+389 : Processo 4741612 HwPF - Pagefile1
+389 : Lista de pags livres menor que80%
+389 : Iniciando Swap
+389 : Processo 4741506 pronto outswapped
+390 : Processo 4741612 HwPF - Pagefile2
+390 : Processo 4741612 HwPF - Pagefile3
+390 : Processo 4741612 HwPF - Pagefile4
+390 : Processo 4741612 liberando pagefile alocado
+390 : Processo 4741612 Pronto -> Exec
+390 : Processo 4741612 Exec -> Pronto por tempo
+391 : Processo 4741718 swap in
+391 : Processo 4741718 HwPF - Pagefile0
+391 : Processo 4741718 HwPF - Pagefile1
+391 : Lista de pags livres menor que80%
+391 : Iniciando Swap
+391 : Processo 4741612 pronto outswapped
+391 : Processo 4741718 HwPF - Pagefile2
+391 : Processo 4741718 HwPF - Pagefile3
+391 : Processo 4741718 HwPF - Pagefile4
+392 : Processo 4741718 liberando pagefile alocado
+392 : Processo 4741718 Pronto -> Exec
+392 : Processo 4741718 Exec -> Pronto por tempo
+393 : Processo 4740877 swap in
+393 : Processo 4740877 HwPF - Pagefile0
+393 : Processo 4740877 HwPF - Pagefile1
+393 : Lista de pags livres menor que80%
+393 : Iniciando Swap
+393 : Processo 4741718 pronto outswapped
+394 : Processo 4740877 HwPF - Pagefile2
+394 : Processo 4740877 HwPF - Pagefile3
+394 : Processo 4740877 HwPF - Pagefile4
+394 : Processo 4740877 liberando pagefile alocado
+394 : Processo 4740877 Pronto -> Exec
+394 : Processo 4740877 Exec -> Pronto por tempo
+395 : Processo 4740980 swap in
+395 : Processo 4740980 HwPF - Pagefile0
+395 : Processo 4740980 HwPF - Pagefile1
+395 : Lista de pags livres menor que80%
+395 : Iniciando Swap
+395 : Processo 4740877 pronto outswapped
+395 : Processo 4740980 HwPF - Pagefile2
+395 : Processo 4740980 HwPF - Pagefile3
+395 : Processo 4740980 HwPF - Pagefile4
+395 : Processo 4740980 liberando pagefile alocado
+395 : Processo 4740980 Pronto -> Exec
+396 : Processo 4740980 Exec -> Pronto por tempo
+397 : Processo 4741084 swap in
+397 : Processo 4741084 HwPF - Pagefile0
+397 : Processo 4741084 HwPF - Pagefile1
+397 : Lista de pags livres menor que80%
+397 : Iniciando Swap
+397 : Processo 4740980 pronto outswapped
+398 : Processo 4741084 HwPF - Pagefile2
+398 : Processo 4741084 HwPF - Pagefile3
+398 : Processo 4741084 HwPF - Pagefile4
+398 : Processo 4741084 liberando pagefile alocado
+398 : Processo 4741084 Pronto -> Exec
+398 : Processo 4741084 Exec -> Pronto por tempo
+399 : Processo 4741189 Pronto -> Exec
+400 : Processo 4741189 Exec -> Pronto por tempo
+401 : Processo 4741295 Pronto -> Exec
+402 : Processo 4741295 Exec -> Pronto por tempo
+403 : Processo 4741402 Pronto -> Exec
+404 : Processo 4741402 Exec -> Pronto por tempo
+405 : Processo 4741506 swap in
+405 : Processo 4741506 HwPF - Pagefile0
+405 : Processo 4741506 HwPF - Pagefile1
+405 : Lista de pags livres menor que80%
+405 : Iniciando Swap
+405 : Processo 4741402 pronto outswapped
+405 : Processo 4741506 HwPF - Pagefile2
+406 : Processo 4741506 HwPF - Pagefile3
+406 : Processo 4741506 HwPF - Pagefile4
+406 : Processo 4741506 liberando pagefile alocado
+406 : Processo 4741506 Pronto -> Exec
+406 : Processo 4741506 Exec -> Pronto por tempo
+407 : Processo 4741612 swap in
+407 : Processo 4741612 HwPF - Pagefile0
+407 : Processo 4741612 HwPF - Pagefile1
+407 : Lista de pags livres menor que80%
+407 : Iniciando Swap
+407 : Processo 4741506 pronto outswapped
+408 : Processo 4741612 HwPF - Pagefile2
+408 : Processo 4741612 HwPF - Pagefile3
+408 : Processo 4741612 HwPF - Pagefile4
+408 : Processo 4741612 liberando pagefile alocado
+408 : Processo 4741612 Pronto -> Exec
+408 : Processo 4741612 Exec -> Pronto por tempo
+409 : Processo 4741718 swap in
+409 : Processo 4741718 HwPF - Pagefile0
+409 : Processo 4741718 HwPF - Pagefile1
+409 : Lista de pags livres menor que80%
+409 : Iniciando Swap
+409 : Processo 4741612 pronto outswapped
+410 : Processo 4741718 HwPF - Pagefile2
+410 : Processo 4741718 HwPF - Pagefile3
+410 : Processo 4741718 HwPF - Pagefile4
+410 : Processo 4741718 liberando pagefile alocado
+410 : Processo 4741718 Pronto -> Exec
+410 : Processo 4741718 Exec -> Pronto por tempo
+411 : Processo 4740877 swap in
+411 : Processo 4740877 HwPF - Pagefile0
+411 : Processo 4740877 HwPF - Pagefile1
+411 : Lista de pags livres menor que80%
+411 : Iniciando Swap
+411 : Processo 4741718 pronto outswapped
+412 : Processo 4740877 HwPF - Pagefile2
+412 : Processo 4740877 HwPF - Pagefile3
+412 : Processo 4740877 HwPF - Pagefile4
+412 : Processo 4740877 liberando pagefile alocado
+412 : Processo 4740877 Pronto -> Exec
+412 : Processo 4740877 Exec -> Pronto por tempo
+413 : Processo 4740980 swap in
+413 : Processo 4740980 HwPF - Pagefile0
+413 : Processo 4740980 HwPF - Pagefile1
+413 : Lista de pags livres menor que80%
+413 : Iniciando Swap
+413 : Processo 4740877 pronto outswapped
+414 : Processo 4740980 HwPF - Pagefile2
+414 : Processo 4740980 HwPF - Pagefile3
+414 : Processo 4740980 HwPF - Pagefile4
+414 : Processo 4740980 liberando pagefile alocado
+414 : Processo 4740980 Pronto -> Exec
+414 : Processo 4740980 Exec -> Pronto por tempo
+415 : Processo 4741084 Pronto -> Exec
+416 : Processo 4741084 Exec -> Pronto por tempo
+417 : Processo 4741189 Pronto -> Exec
+418 : Processo 4741189 Exec -> Pronto por tempo
+419 : Processo 4741295 Pronto -> Exec
+420 : Processo 4741295 Exec -> Pronto por tempo
+421 : Processo 4741402 swap in
+421 : Processo 4741402 HwPF - Pagefile0
+421 : Processo 4741402 HwPF - Pagefile1
+421 : Lista de pags livres menor que80%
+421 : Iniciando Swap
+421 : Processo 4741295 pronto outswapped
+421 : Processo 4741402 HwPF - Pagefile2
+421 : Processo 4741402 HwPF - Pagefile3
+422 : Processo 4741402 HwPF - Pagefile4
+422 : Processo 4741402 liberando pagefile alocado
+422 : Processo 4741402 Pronto -> Exec
+422 : Processo 4741402 Exec -> Pronto por tempo
+423 : Processo 4741506 swap in
+423 : Processo 4741506 HwPF - Pagefile0
+423 : Processo 4741506 HwPF - Pagefile1
+423 : Lista de pags livres menor que80%
+423 : Iniciando Swap
+423 : Processo 4741402 pronto outswapped
+424 : Processo 4741506 HwPF - Pagefile2
+424 : Processo 4741506 HwPF - Pagefile3
+424 : Processo 4741506 HwPF - Pagefile4
+424 : Processo 4741506 liberando pagefile alocado
+424 : Processo 4741506 Pronto -> Exec
+424 : Processo 4741506 Exec -> Pronto por tempo
+425 : Processo 4741612 swap in
+425 : Processo 4741612 HwPF - Pagefile0
+425 : Processo 4741612 HwPF - Pagefile1
+425 : Lista de pags livres menor que80%
+425 : Iniciando Swap
+425 : Processo 4741506 pronto outswapped
+425 : Processo 4741612 HwPF - Pagefile2
+425 : Processo 4741612 HwPF - Pagefile3
+425 : Processo 4741612 HwPF - Pagefile4
+425 : Processo 4741612 liberando pagefile alocado
+425 : Processo 4741612 Pronto -> Exec
+426 : Processo 4741612 Exec -> Pronto por tempo
+427 : Processo 4741718 swap in
+427 : Processo 4741718 HwPF - Pagefile0
+427 : Processo 4741718 HwPF - Pagefile1
+427 : Lista de pags livres menor que80%
+427 : Iniciando Swap
+427 : Processo 4741612 pronto outswapped
+427 : Processo 4741718 HwPF - Pagefile2
+427 : Processo 4741718 HwPF - Pagefile3
+427 : Processo 4741718 HwPF - Pagefile4
+427 : Processo 4741718 liberando pagefile alocado
+427 : Processo 4741718 Pronto -> Exec
+428 : Processo 4741718 Exec -> Pronto por tempo
+429 : Processo 4740877 swap in
+429 : Processo 4740877 HwPF - Pagefile0
+429 : Processo 4740877 HwPF - Pagefile1
+429 : Lista de pags livres menor que80%
+429 : Iniciando Swap
+429 : Processo 4741718 pronto outswapped
+429 : Processo 4740877 HwPF - Pagefile2
+429 : Processo 4740877 HwPF - Pagefile3
+429 : Processo 4740877 HwPF - Pagefile4
+429 : Processo 4740877 liberando pagefile alocado
+429 : Processo 4740877 Pronto -> Exec
+430 : Processo 4740877 Exec -> Pronto por tempo
+431 : Processo 4740980 Pronto -> Exec
+432 : Processo 4740980 Exec -> Pronto por tempo
+433 : Processo 4741084 Pronto -> Exec
+434 : Processo 4741084 Exec -> Pronto por tempo
+435 : Processo 4741189 Pronto -> Exec
+436 : Processo 4741189 Exec -> Pronto por tempo
+437 : Processo 4741295 swap in
+437 : Processo 4741295 HwPF - Pagefile0
+437 : Processo 4741295 HwPF - Pagefile1
+437 : Lista de pags livres menor que80%
+437 : Iniciando Swap
+437 : Processo 4741189 pronto outswapped
+437 : Processo 4741295 HwPF - Pagefile2
+437 : Processo 4741295 HwPF - Pagefile3
+437 : Processo 4741295 HwPF - Pagefile4
+437 : Processo 4741295 liberando pagefile alocado
+437 : Processo 4741295 Pronto -> Exec
+438 : Processo 4741295 Exec -> Pronto por tempo
+439 : Processo 4741402 swap in
+439 : Processo 4741402 HwPF - Pagefile0
+439 : Processo 4741402 HwPF - Pagefile1
+439 : Lista de pags livres menor que80%
+439 : Iniciando Swap
+439 : Processo 4741295 pronto outswapped
+439 : Processo 4741402 HwPF - Pagefile2
+439 : Processo 4741402 HwPF - Pagefile3
+439 : Processo 4741402 HwPF - Pagefile4
+439 : Processo 4741402 liberando pagefile alocado
+439 : Processo 4741402 Pronto -> Exec
+440 : Processo 4741402 Exec -> Pronto por tempo
+441 : Processo 4741506 swap in
+441 : Processo 4741506 HwPF - Pagefile0
+441 : Processo 4741506 HwPF - Pagefile1
+441 : Lista de pags livres menor que80%
+441 : Iniciando Swap
+441 : Processo 4741402 pronto outswapped
+441 : Processo 4741506 HwPF - Pagefile2
+441 : Processo 4741506 HwPF - Pagefile3
+441 : Processo 4741506 HwPF - Pagefile4
+441 : Processo 4741506 liberando pagefile alocado
+441 : Processo 4741506 Pronto -> Exec
+442 : Processo 4741506 Exec -> Pronto por tempo
+443 : Processo 4741612 swap in
+443 : Processo 4741612 HwPF - Pagefile0
+443 : Processo 4741612 HwPF - Pagefile1
+443 : Lista de pags livres menor que80%
+443 : Iniciando Swap
+443 : Processo 4741506 pronto outswapped
+443 : Processo 4741612 HwPF - Pagefile2
+443 : Processo 4741612 HwPF - Pagefile3
+443 : Processo 4741612 HwPF - Pagefile4
+443 : Processo 4741612 liberando pagefile alocado
+443 : Processo 4741612 Pronto -> Exec
+444 : Processo 4741612 Exec -> Pronto por tempo
+445 : Processo 4741718 swap in
+445 : Processo 4741718 HwPF - Pagefile0
+445 : Processo 4741718 HwPF - Pagefile1
+445 : Lista de pags livres menor que80%
+445 : Iniciando Swap
+445 : Processo 4741612 pronto outswapped
+445 : Processo 4741718 HwPF - Pagefile2
+445 : Processo 4741718 HwPF - Pagefile3
+445 : Processo 4741718 HwPF - Pagefile4
+445 : Processo 4741718 liberando pagefile alocado
+445 : Processo 4741718 Pronto -> Exec
+446 : Processo 4741718 Exec -> Pronto por tempo
+447 : Processo 4740877 Pronto -> Exec
+448 : Processo 4740877 Exec -> Pronto por tempo
+449 : Processo 4740980 Pronto -> Exec
+450 : Processo 4740980 Exec -> Pronto por tempo
+451 : Processo 4741084 Pronto -> Exec
+452 : Processo 4741084 Exec -> Pronto por tempo
+453 : Processo 4741189 swap in
+453 : Processo 4741189 HwPF - Pagefile0
+453 : Processo 4741189 HwPF - Pagefile1
+453 : Lista de pags livres menor que80%
+453 : Iniciando Swap
+453 : Processo 4741084 pronto outswapped
+453 : Processo 4741189 HwPF - Pagefile2
+453 : Processo 4741189 HwPF - Pagefile3
+453 : Processo 4741189 HwPF - Pagefile4
+453 : Processo 4741189 liberando pagefile alocado
+453 : Processo 4741189 Pronto -> Exec
+454 : Processo 4741189 Exec -> Pronto por tempo
+455 : Processo 4741295 swap in
+455 : Processo 4741295 HwPF - Pagefile0
+455 : Processo 4741295 HwPF - Pagefile1
+455 : Lista de pags livres menor que80%
+455 : Iniciando Swap
+455 : Processo 4741189 pronto outswapped
+455 : Processo 4741295 HwPF - Pagefile2
+455 : Processo 4741295 HwPF - Pagefile3
+455 : Processo 4741295 HwPF - Pagefile4
+455 : Processo 4741295 liberando pagefile alocado
+455 : Processo 4741295 Pronto -> Exec
+456 : Processo 4741295 Exec -> Pronto por tempo
+457 : Processo 4741402 swap in
+457 : Processo 4741402 HwPF - Pagefile0
+457 : Processo 4741402 HwPF - Pagefile1
+457 : Lista de pags livres menor que80%
+457 : Iniciando Swap
+457 : Processo 4741295 pronto outswapped
+457 : Processo 4741402 HwPF - Pagefile2
+457 : Processo 4741402 HwPF - Pagefile3
+457 : Processo 4741402 HwPF - Pagefile4
+457 : Processo 4741402 liberando pagefile alocado
+457 : Processo 4741402 Pronto -> Exec
+458 : Processo 4741402 Exec -> Pronto por tempo
+459 : Processo 4741506 swap in
+459 : Processo 4741506 HwPF - Pagefile0
+459 : Processo 4741506 HwPF - Pagefile1
+459 : Lista de pags livres menor que80%
+459 : Iniciando Swap
+459 : Processo 4741402 pronto outswapped
+459 : Processo 4741506 HwPF - Pagefile2
+459 : Processo 4741506 HwPF - Pagefile3
+459 : Processo 4741506 HwPF - Pagefile4
+459 : Processo 4741506 liberando pagefile alocado
+459 : Processo 4741506 Pronto -> Exec
+460 : Processo 4741506 Exec -> Pronto por tempo
+461 : Processo 4741612 swap in
+461 : Processo 4741612 HwPF - Pagefile0
+461 : Processo 4741612 HwPF - Pagefile1
+461 : Lista de pags livres menor que80%
+461 : Iniciando Swap
+461 : Processo 4741506 pronto outswapped
+461 : Processo 4741612 HwPF - Pagefile2
+461 : Processo 4741612 HwPF - Pagefile3
+461 : Processo 4741612 HwPF - Pagefile4
+461 : Processo 4741612 liberando pagefile alocado
+461 : Processo 4741612 Pronto -> Exec
+462 : Processo 4741612 Exec -> Pronto por tempo
+463 : Processo 4741718 Pronto -> Exec
+464 : Processo 4741718 Exec -> Pronto por tempo
+465 : Processo 4740877 Pronto -> Exec
+466 : Processo 4740877 Exec -> Pronto por tempo
+467 : Processo 4740980 Pronto -> Exec
+468 : Processo 4740980 Exec -> Pronto por tempo
+469 : Processo 4741084 swap in
+469 : Processo 4741084 HwPF - Pagefile0
+469 : Processo 4741084 HwPF - Pagefile1
+469 : Lista de pags livres menor que80%
+469 : Iniciando Swap
+469 : Processo 4740980 pronto outswapped
+469 : Processo 4741084 HwPF - Pagefile2
+469 : Processo 4741084 HwPF - Pagefile3
+469 : Processo 4741084 HwPF - Pagefile4
+469 : Processo 4741084 liberando pagefile alocado
+469 : Processo 4741084 Pronto -> Exec
+470 : Processo 4741084 Exec -> Pronto por tempo
+471 : Processo 4741189 swap in
+471 : Processo 4741189 HwPF - Pagefile0
+471 : Processo 4741189 HwPF - Pagefile1
+471 : Lista de pags livres menor que80%
+471 : Iniciando Swap
+471 : Processo 4741084 pronto outswapped
+471 : Processo 4741189 HwPF - Pagefile2
+471 : Processo 4741189 HwPF - Pagefile3
+471 : Processo 4741189 HwPF - Pagefile4
+471 : Processo 4741189 liberando pagefile alocado
+471 : Processo 4741189 Pronto -> Exec
+472 : Processo 4741189 Exec -> Pronto por tempo
+473 : Processo 4741295 swap in
+473 : Processo 4741295 HwPF - Pagefile0
+473 : Processo 4741295 HwPF - Pagefile1
+473 : Lista de pags livres menor que80%
+473 : Iniciando Swap
+473 : Processo 4741189 pronto outswapped
+473 : Processo 4741295 HwPF - Pagefile2
+473 : Processo 4741295 HwPF - Pagefile3
+473 : Processo 4741295 HwPF - Pagefile4
+473 : Processo 4741295 liberando pagefile alocado
+473 : Processo 4741295 Pronto -> Exec
+474 : Processo 4741295 Exec -> Pronto por tempo
+475 : Processo 4741402 swap in
+475 : Processo 4741402 HwPF - Pagefile0
+475 : Processo 4741402 HwPF - Pagefile1
+475 : Lista de pags livres menor que80%
+475 : Iniciando Swap
+475 : Processo 4741295 pronto outswapped
+475 : Processo 4741402 HwPF - Pagefile2
+475 : Processo 4741402 HwPF - Pagefile3
+475 : Processo 4741402 HwPF - Pagefile4
+475 : Processo 4741402 liberando pagefile alocado
+475 : Processo 4741402 Pronto -> Exec
+476 : Processo 4741402 Exec -> Pronto por tempo
+477 : Processo 4741506 swap in
+477 : Processo 4741506 HwPF - Pagefile0
+477 : Processo 4741506 HwPF - Pagefile1
+477 : Lista de pags livres menor que80%
+477 : Iniciando Swap
+477 : Processo 4741402 pronto outswapped
+477 : Processo 4741506 HwPF - Pagefile2
+477 : Processo 4741506 HwPF - Pagefile3
+477 : Processo 4741506 HwPF - Pagefile4
+477 : Processo 4741506 liberando pagefile alocado
+477 : Processo 4741506 Pronto -> Exec
+478 : Processo 4741506 Exec -> Pronto por tempo
+479 : Processo 4741612 Pronto -> Exec
+480 : Processo 4741612 Exec -> Pronto por tempo
+481 : Processo 4741718 Pronto -> Exec
+482 : Processo 4741718 Exec -> Pronto por tempo
+483 : Processo 4740877 Pronto -> Exec
+484 : Processo 4740877 Exec -> Pronto por tempo
+485 : Processo 4740980 swap in
+485 : Processo 4740980 HwPF - Pagefile0
+485 : Processo 4740980 HwPF - Pagefile1
+485 : Lista de pags livres menor que80%
+485 : Iniciando Swap
+485 : Processo 4740877 pronto outswapped
+485 : Processo 4740980 HwPF - Pagefile2
+485 : Processo 4740980 HwPF - Pagefile3
+485 : Processo 4740980 HwPF - Pagefile4
+485 : Processo 4740980 liberando pagefile alocado
+485 : Processo 4740980 Pronto -> Exec
+486 : Processo 4740980 Exec -> Pronto por tempo
+487 : Processo 4741084 swap in
+487 : Processo 4741084 HwPF - Pagefile0
+487 : Processo 4741084 HwPF - Pagefile1
+487 : Lista de pags livres menor que80%
+487 : Iniciando Swap
+487 : Processo 4740980 pronto outswapped
+487 : Processo 4741084 HwPF - Pagefile2
+487 : Processo 4741084 HwPF - Pagefile3
+487 : Processo 4741084 HwPF - Pagefile4
+487 : Processo 4741084 liberando pagefile alocado
+487 : Processo 4741084 Pronto -> Exec
+488 : Processo 4741084 Exec -> Pronto por tempo
+489 : Processo 4741189 swap in
+489 : Processo 4741189 HwPF - Pagefile0
+489 : Processo 4741189 HwPF - Pagefile1
+489 : Lista de pags livres menor que80%
+489 : Iniciando Swap
+489 : Processo 4741084 pronto outswapped
+489 : Processo 4741189 HwPF - Pagefile2
+489 : Processo 4741189 HwPF - Pagefile3
+489 : Processo 4741189 HwPF - Pagefile4
+489 : Processo 4741189 liberando pagefile alocado
+489 : Processo 4741189 Pronto -> Exec
+490 : Processo 4741189 Exec -> Pronto por tempo
+491 : Processo 4741295 swap in
+491 : Processo 4741295 HwPF - Pagefile0
+491 : Processo 4741295 HwPF - Pagefile1
+491 : Lista de pags livres menor que80%
+491 : Iniciando Swap
+491 : Processo 4741189 pronto outswapped
+491 : Processo 4741295 HwPF - Pagefile2
+491 : Processo 4741295 HwPF - Pagefile3
+491 : Processo 4741295 HwPF - Pagefile4
+491 : Processo 4741295 liberando pagefile alocado
+491 : Processo 4741295 Pronto -> Exec
+492 : Processo 4741295 Exec -> Pronto por tempo
+493 : Processo 4741402 swap in
+493 : Processo 4741402 HwPF - Pagefile0
+493 : Processo 4741402 HwPF - Pagefile1
+493 : Lista de pags livres menor que80%
+493 : Iniciando Swap
+493 : Processo 4741295 pronto outswapped
+493 : Processo 4741402 HwPF - Pagefile2
+493 : Processo 4741402 HwPF - Pagefile3
+493 : Processo 4741402 HwPF - Pagefile4
+493 : Processo 4741402 liberando pagefile alocado
+493 : Processo 4741402 Pronto -> Exec
+494 : Processo 4741402 Exec -> Pronto por tempo
+495 : Processo 4741506 Pronto -> Exec
+496 : Processo 4741506 Exec -> Pronto por tempo
+497 : Processo 4741612 Pronto -> Exec
+498 : Processo 4741612 Exec -> Pronto por tempo
+499 : Processo 4741718 Pronto -> Exec
+500 : Processo 4741718 Exec -> Pronto por tempo
+501 : Processo 4740877 swap in
+501 : Processo 4740877 HwPF - Pagefile0
+501 : Processo 4740877 HwPF - Pagefile1
+501 : Lista de pags livres menor que80%
+501 : Iniciando Swap
+501 : Processo 4741718 pronto outswapped
+501 : Processo 4740877 HwPF - Pagefile2
+501 : Processo 4740877 HwPF - Pagefile3
+501 : Processo 4740877 HwPF - Pagefile4
+501 : Processo 4740877 liberando pagefile alocado
+501 : Processo 4740877 Pronto -> Exec
+502 : Processo 4740877 Exec -> Pronto por tempo
+503 : Processo 4740980 swap in
+503 : Processo 4740980 HwPF - Pagefile0
+503 : Processo 4740980 HwPF - Pagefile1
+503 : Lista de pags livres menor que80%
+503 : Iniciando Swap
+503 : Processo 4740877 pronto outswapped
+503 : Processo 4740980 HwPF - Pagefile2
+503 : Processo 4740980 HwPF - Pagefile3
+503 : Processo 4740980 HwPF - Pagefile4
+503 : Processo 4740980 liberando pagefile alocado
+503 : Processo 4740980 Pronto -> Exec
+504 : Processo 4740980 Exec -> Pronto por tempo
+505 : Processo 4741084 swap in
+505 : Processo 4741084 HwPF - Pagefile0
+505 : Processo 4741084 HwPF - Pagefile1
+505 : Lista de pags livres menor que80%
+505 : Iniciando Swap
+505 : Processo 4740980 pronto outswapped
+505 : Processo 4741084 HwPF - Pagefile2
+505 : Processo 4741084 HwPF - Pagefile3
+505 : Processo 4741084 HwPF - Pagefile4
+505 : Processo 4741084 liberando pagefile alocado
+505 : Processo 4741084 Pronto -> Exec
+506 : Processo 4741084 Exec -> Pronto por tempo
+507 : Processo 4740877 swap in
+507 : Processo 4740877 HwPF - Pagefile0
+507 : Processo 4740877 HwPF - Pagefile1
+507 : Lista de pags livres menor que80%
+507 : Iniciando Swap
+507 : Processo 4741084 pronto outswapped
+507 : Processo 4740877 HwPF - Pagefile2
+507 : Processo 4740877 HwPF - Pagefile3
+507 : Processo 4740877 HwPF - Pagefile4
+507 : Processo 4740877 liberando pagefile alocado
+507 : Processo 4740877 Pronto -> Exec
+508 : Processo 4740877 Exec -> Pronto por tempo
+509 : Processo 4740877 Pronto -> Exec
+510 : Processo 4740877 Exec -> Pronto por tempo
+511 : Processo 4740877 Pronto -> Exec
+512 : Processo 4740877 Exec -> Pronto por tempo
+513 : Processo 4740877 Pronto -> Exec
+514 : Processo 4740877 Exec -> Pronto por tempo
+515 : Processo 4740877 Pronto -> Exec
+516 : Processo 4740877 Exec -> Pronto por tempo
+517 : Processo 4740877 Pronto -> Exec
+518 : Processo 4740877 Exec -> Pronto por tempo
+519 : Processo 4740877 Pronto -> Exec
+520 : Processo 4740877 Exec -> Pronto por tempo
+521 : Processo 4740877 Pronto -> Exec
+522 : Processo 4740877 Exec -> Pronto por tempo
+523 : Processo 4740877 Pronto -> Exec
+524 : Processo 4740877 Exec -> Pronto por tempo
+525 : Processo 4740877 Pronto -> Exec
+526 : Processo 4740877 Exec -> Pronto por tempo
+527 : Processo 4740877 Pronto -> Exec
+528 : Processo 4740877 Exec -> Pronto por tempo
+529 : Processo 4740877 Pronto -> Exec
+530 : Processo 4740877 Exec -> Pronto por tempo
+531 : Processo 4740877 Pronto -> Exec
+532 : Processo 4740877 Exec -> Pronto por tempo
+533 : Processo 4740877 Pronto -> Exec
+534 : Processo 4740877 Exec -> Pronto por tempo
+535 : Processo 4740877 Pronto -> Exec
+536 : Processo 4740877 Exec -> Pronto por tempo
+537 : Processo 4740877 Pronto -> Exec
+538 : Processo 4740877 Exec -> Pronto por tempo
+539 : Processo 4740877 Pronto -> Exec
+540 : Processo 4740877 Exec -> Pronto por tempo
+541 : Processo 4740877 Pronto -> Exec
+542 : Processo 4740877 Exec -> Pronto por tempo
+543 : Processo 4740877 Pronto -> Exec
+544 : Processo 4740877 Exec -> Pronto por tempo
+545 : Processo 4740877 Pronto -> Exec
+546 : Processo 4740877 Exec -> Pronto por tempo
+547 : Processo 4740877 Pronto -> Exec
+548 : Processo 4740877 Exec -> Pronto por tempo
+549 : Processo 4740877 Pronto -> Exec
+550 : Processo 4740877 Exec -> Pronto por tempo
+551 : Processo 4740877 Pronto -> Exec
+552 : Processo 4740877 Exec -> Pronto por tempo
+553 : Processo 4740877 Pronto -> Exec
+554 : Processo 4740877 Exec -> Pronto por tempo
+555 : Processo 4740877 Pronto -> Exec
+556 : Processo 4740877 Exec -> Pronto por tempo
+557 : Processo 4740877 Pronto -> Exec
+558 : Processo 4740877 Exec -> Pronto por tempo
+559 : Processo 4740877 Pronto -> Exec
+560 : Processo 4740877 Exec -> Pronto por tempo
+561 : Processo 4740877 Pronto -> Exec
+562 : Processo 4740877 Exec -> Pronto por tempo
+563 : Processo 4740877 Pronto -> Exec
+564 : Processo 4740877 Exec -> Pronto por tempo
+565 : Processo 4740877 Pronto -> Exec
+566 : Processo 4740877 Exec -> Pronto por tempo
+567 : Processo 4740877 Pronto -> Exec
+568 : Processo 4740877 Exec -> Pronto por tempo
+569 : Processo 4740877 Pronto -> Exec
+570 : Processo 4740877 Exec -> Pronto por tempo
+571 : Processo 4740877 Pronto -> Exec
+572 : Processo 4740877 Exec -> Pronto por tempo
+573 : Processo 4740877 Pronto -> Exec
+574 : Processo 4740877 Exec -> Pronto por tempo
+575 : Processo 4740877 Pronto -> Exec
+576 : Processo 4740877 Exec -> Pronto por tempo
+577 : Processo 4740877 Pronto -> Exec
+578 : Processo 4740877 Exec -> Pronto por tempo
+579 : Processo 4740877 Pronto -> Exec
+580 : Processo 4740877 Exec -> Pronto por tempo
+581 : Processo 4741189 swap in
+581 : Processo 4741189 HwPF - Pagefile0
+581 : Processo 4741189 HwPF - Pagefile1
+581 : Lista de pags livres menor que80%
+581 : Iniciando Swap
+581 : Processo 4740877 pronto outswapped
+581 : Processo 4741189 HwPF - Pagefile2
+581 : Processo 4741189 HwPF - Pagefile3
+581 : Processo 4741189 HwPF - Pagefile4
+581 : Processo 4741189 liberando pagefile alocado
+581 : Processo 4741189 Pronto -> Exec
+582 : Processo 4741189 Exec -> Pronto por tempo
+583 : Processo 4741295 swap in
+583 : Processo 4741295 HwPF - Pagefile0
+583 : Processo 4741295 HwPF - Pagefile1
+583 : Lista de pags livres menor que80%
+583 : Iniciando Swap
+583 : Processo 4741189 pronto outswapped
+583 : Processo 4741295 HwPF - Pagefile2
+583 : Processo 4741295 HwPF - Pagefile3
+583 : Processo 4741295 HwPF - Pagefile4
+583 : Processo 4741295 liberando pagefile alocado
+583 : Processo 4741295 Pronto -> Exec
+584 : Processo 4741295 Exec -> Pronto por tempo
+585 : Processo 4741402 Pronto -> Exec
+586 : Processo 4741402 Exec -> Pronto por tempo
+587 : Processo 4741506 Pronto -> Exec
+588 : Processo 4741506 Exec -> Pronto por tempo
+589 : Processo 4741612 Pronto -> Exec
+590 : Processo 4741612 Exec -> Pronto por tempo
+591 : Processo 4741718 swap in
+591 : Processo 4741718 HwPF - Pagefile0
+591 : Processo 4741718 HwPF - Pagefile1
+591 : Lista de pags livres menor que80%
+591 : Iniciando Swap
+591 : Processo 4741612 pronto outswapped
+591 : Processo 4741718 HwPF - Pagefile2
+591 : Processo 4741718 HwPF - Pagefile3
+591 : Processo 4741718 HwPF - Pagefile4
+591 : Processo 4741718 liberando pagefile alocado
+591 : Processo 4741718 Pronto -> Exec
+592 : Processo 4741718 Exec -> Pronto por tempo
+593 : Processo 4740980 swap in
+593 : Processo 4740980 HwPF - Pagefile0
+593 : Processo 4740980 HwPF - Pagefile1
+593 : Lista de pags livres menor que80%
+593 : Iniciando Swap
+593 : Processo 4741718 pronto outswapped
+593 : Processo 4740980 HwPF - Pagefile2
+593 : Processo 4740980 HwPF - Pagefile3
+593 : Processo 4740980 HwPF - Pagefile4
+593 : Processo 4740980 liberando pagefile alocado
+593 : Processo 4740980 Pronto -> Exec
+594 : Processo 4740980 Exec -> Pronto por tempo
+595 : Processo 4741084 swap in
+595 : Processo 4741084 HwPF - Pagefile0
+595 : Processo 4741084 HwPF - Pagefile1
+595 : Lista de pags livres menor que80%
+595 : Iniciando Swap
+595 : Processo 4740980 pronto outswapped
+595 : Processo 4741084 HwPF - Pagefile2
+595 : Processo 4741084 HwPF - Pagefile3
+595 : Processo 4741084 HwPF - Pagefile4
+595 : Processo 4741084 liberando pagefile alocado
+595 : Processo 4741084 Pronto -> Exec
+596 : Processo 4741084 Exec -> Pronto por tempo
+597 : Processo 4740877 swap in
+597 : Processo 4740877 HwPF - Pagefile0
+597 : Processo 4740877 HwPF - Pagefile1
+597 : Lista de pags livres menor que80%
+597 : Iniciando Swap
+597 : Processo 4741084 pronto outswapped
+597 : Processo 4740877 HwPF - Pagefile2
+597 : Processo 4740877 HwPF - Pagefile3
+597 : Processo 4740877 HwPF - Pagefile4
+597 : Processo 4740877 liberando pagefile alocado
+597 : Processo 4740877 Pronto -> Exec
+598 : Processo 4740877 Exec -> Pronto por tempo
+599 : Processo 4741189 swap in
+599 : Processo 4741189 HwPF - Pagefile0
+599 : Processo 4741189 HwPF - Pagefile1
+599 : Lista de pags livres menor que80%
+599 : Iniciando Swap
+599 : Processo 4740877 pronto outswapped
+599 : Processo 4741189 HwPF - Pagefile2
+599 : Processo 4741189 HwPF - Pagefile3
+599 : Processo 4741189 HwPF - Pagefile4
+599 : Processo 4741189 liberando pagefile alocado
+599 : Processo 4741189 Pronto -> Exec
+600 : Processo 4741189 Exec -> Pronto por tempo
+601 : Processo 4741295 Pronto -> Exec
+602 : Processo 4741295 Exec -> Pronto por tempo
+603 : Processo 4741402 Pronto -> Exec
+604 : Processo 4741402 Exec -> Pronto por tempo
+605 : Processo 4741506 Pronto -> Exec
+606 : Processo 4741506 Exec -> Pronto por tempo
+607 : Processo 4741612 swap in
+607 : Processo 4741612 HwPF - Pagefile0
+607 : Processo 4741612 HwPF - Pagefile1
+607 : Lista de pags livres menor que80%
+607 : Iniciando Swap
+607 : Processo 4741506 pronto outswapped
+607 : Processo 4741612 HwPF - Pagefile2
+607 : Processo 4741612 HwPF - Pagefile3
+607 : Processo 4741612 HwPF - Pagefile4
+607 : Processo 4741612 liberando pagefile alocado
+607 : Processo 4741612 Pronto -> Exec
+608 : Processo 4741612 Exec -> Pronto por tempo
+609 : Processo 4741718 swap in
+609 : Processo 4741718 HwPF - Pagefile0
+609 : Processo 4741718 HwPF - Pagefile1
+609 : Lista de pags livres menor que80%
+609 : Iniciando Swap
+609 : Processo 4741612 pronto outswapped
+609 : Processo 4741718 HwPF - Pagefile2
+609 : Processo 4741718 HwPF - Pagefile3
+609 : Processo 4741718 HwPF - Pagefile4
+609 : Processo 4741718 liberando pagefile alocado
+609 : Processo 4741718 Pronto -> Exec
+610 : Processo 4741718 Exec -> Pronto por tempo
+611 : Processo 4740980 swap in
+611 : Processo 4740980 HwPF - Pagefile0
+611 : Processo 4740980 HwPF - Pagefile1
+611 : Lista de pags livres menor que80%
+611 : Iniciando Swap
+611 : Processo 4741718 pronto outswapped
+611 : Processo 4740980 HwPF - Pagefile2
+611 : Processo 4740980 HwPF - Pagefile3
+611 : Processo 4740980 HwPF - Pagefile4
+611 : Processo 4740980 liberando pagefile alocado
+611 : Processo 4740980 Pronto -> Exec
+612 : Processo 4740980 Exec -> Pronto por tempo
+613 : Processo 4741084 swap in
+613 : Processo 4741084 HwPF - Pagefile0
+613 : Processo 4741084 HwPF - Pagefile1
+613 : Lista de pags livres menor que80%
+613 : Iniciando Swap
+613 : Processo 4740980 pronto outswapped
+613 : Processo 4741084 HwPF - Pagefile2
+613 : Processo 4741084 HwPF - Pagefile3
+613 : Processo 4741084 HwPF - Pagefile4
+613 : Processo 4741084 liberando pagefile alocado
+613 : Processo 4741084 Pronto -> Exec
+614 : Processo 4741084 Exec -> Pronto por tempo
+615 : Processo 4740877 swap in
+615 : Processo 4740877 HwPF - Pagefile0
+615 : Processo 4740877 HwPF - Pagefile1
+615 : Lista de pags livres menor que80%
+615 : Iniciando Swap
+615 : Processo 4741084 pronto outswapped
+615 : Processo 4740877 HwPF - Pagefile2
+615 : Processo 4740877 HwPF - Pagefile3
+615 : Processo 4740877 HwPF - Pagefile4
+615 : Processo 4740877 liberando pagefile alocado
+615 : Processo 4740877 Pronto -> Exec
+616 : Processo 4740877 Exec -> Pronto por tempo
+617 : Processo 4741189 Pronto -> Exec
+618 : Processo 4741189 Exec -> Pronto por tempo
+619 : Processo 4741295 Pronto -> Exec
+620 : Processo 4741295 Exec -> Pronto por tempo
+621 : Processo 4741402 Pronto -> Exec
+622 : Processo 4741402 Exec -> Pronto por tempo
+623 : Processo 4741506 swap in
+623 : Processo 4741506 HwPF - Pagefile0
+623 : Processo 4741506 HwPF - Pagefile1
+623 : Lista de pags livres menor que80%
+623 : Iniciando Swap
+623 : Processo 4741402 pronto outswapped
+623 : Processo 4741506 HwPF - Pagefile2
+623 : Processo 4741506 HwPF - Pagefile3
+623 : Processo 4741506 HwPF - Pagefile4
+623 : Processo 4741506 liberando pagefile alocado
+623 : Processo 4741506 Pronto -> Exec
+624 : Processo 4741506 Exec -> Pronto por tempo
+625 : Processo 4741612 swap in
+625 : Processo 4741612 HwPF - Pagefile0
+625 : Processo 4741612 HwPF - Pagefile1
+625 : Lista de pags livres menor que80%
+625 : Iniciando Swap
+625 : Processo 4741506 pronto outswapped
+625 : Processo 4741612 HwPF - Pagefile2
+625 : Processo 4741612 HwPF - Pagefile3
+625 : Processo 4741612 HwPF - Pagefile4
+625 : Processo 4741612 liberando pagefile alocado
+625 : Processo 4741612 Pronto -> Exec
+626 : Processo 4741612 Exec -> Pronto por tempo
+627 : Processo 4741718 swap in
+627 : Processo 4741718 HwPF - Pagefile0
+627 : Processo 4741718 HwPF - Pagefile1
+627 : Lista de pags livres menor que80%
+627 : Iniciando Swap
+627 : Processo 4741612 pronto outswapped
+627 : Processo 4741718 HwPF - Pagefile2
+627 : Processo 4741718 HwPF - Pagefile3
+627 : Processo 4741718 HwPF - Pagefile4
+627 : Processo 4741718 liberando pagefile alocado
+627 : Processo 4741718 Pronto -> Exec
+628 : Processo 4741718 Exec -> Pronto por tempo
+629 : Processo 4740980 swap in
+629 : Processo 4740980 HwPF - Pagefile0
+629 : Processo 4740980 HwPF - Pagefile1
+629 : Lista de pags livres menor que80%
+629 : Iniciando Swap
+629 : Processo 4741718 pronto outswapped
+629 : Processo 4740980 HwPF - Pagefile2
+629 : Processo 4740980 HwPF - Pagefile3
+629 : Processo 4740980 HwPF - Pagefile4
+629 : Processo 4740980 liberando pagefile alocado
+629 : Processo 4740980 Pronto -> Exec
+630 : Processo 4740980 Exec -> Pronto por tempo
+631 : Processo 4741084 swap in
+631 : Processo 4741084 HwPF - Pagefile0
+631 : Processo 4741084 HwPF - Pagefile1
+631 : Lista de pags livres menor que80%
+631 : Iniciando Swap
+631 : Processo 4740980 pronto outswapped
+631 : Processo 4741084 HwPF - Pagefile2
+631 : Processo 4741084 HwPF - Pagefile3
+631 : Processo 4741084 HwPF - Pagefile4
+631 : Processo 4741084 liberando pagefile alocado
+631 : Processo 4741084 Pronto -> Exec
+632 : Processo 4741084 Exec -> Pronto por tempo
+633 : Processo 4740877 Pronto -> Exec
+634 : Processo 4740877 Exec -> Pronto por tempo
+635 : Processo 4741189 Pronto -> Exec
+636 : Processo 4741189 Exec -> Pronto por tempo
+637 : Processo 4741295 Pronto -> Exec
+638 : Processo 4741295 Exec -> Pronto por tempo
+639 : Processo 4741402 swap in
+639 : Processo 4741402 HwPF - Pagefile0
+639 : Processo 4741402 HwPF - Pagefile1
+639 : Lista de pags livres menor que80%
+639 : Iniciando Swap
+639 : Processo 4741295 pronto outswapped
+639 : Processo 4741402 HwPF - Pagefile2
+639 : Processo 4741402 HwPF - Pagefile3
+639 : Processo 4741402 HwPF - Pagefile4
+639 : Processo 4741402 liberando pagefile alocado
+639 : Processo 4741402 Pronto -> Exec
+640 : Processo 4741402 Exec -> Pronto por tempo
+641 : Processo 4741506 swap in
+641 : Processo 4741506 HwPF - Pagefile0
+641 : Processo 4741506 HwPF - Pagefile1
+641 : Lista de pags livres menor que80%
+641 : Iniciando Swap
+641 : Processo 4741402 pronto outswapped
+641 : Processo 4741506 HwPF - Pagefile2
+641 : Processo 4741506 HwPF - Pagefile3
+641 : Processo 4741506 HwPF - Pagefile4
+641 : Processo 4741506 liberando pagefile alocado
+641 : Processo 4741506 Pronto -> Exec
+642 : Processo 4741506 Exec -> Pronto por tempo
+643 : Processo 4741612 swap in
+643 : Processo 4741612 HwPF - Pagefile0
+643 : Processo 4741612 HwPF - Pagefile1
+643 : Lista de pags livres menor que80%
+643 : Iniciando Swap
+643 : Processo 4741506 pronto outswapped
+643 : Processo 4741612 HwPF - Pagefile2
+643 : Processo 4741612 HwPF - Pagefile3
+643 : Processo 4741612 HwPF - Pagefile4
+643 : Processo 4741612 liberando pagefile alocado
+643 : Processo 4741612 Pronto -> Exec
+644 : Processo 4741612 Exec -> Pronto por tempo
+645 : Processo 4741718 swap in
+645 : Processo 4741718 HwPF - Pagefile0
+645 : Processo 4741718 HwPF - Pagefile1
+645 : Lista de pags livres menor que80%
+645 : Iniciando Swap
+645 : Processo 4741612 pronto outswapped
+645 : Processo 4741718 HwPF - Pagefile2
+645 : Processo 4741718 HwPF - Pagefile3
+645 : Processo 4741718 HwPF - Pagefile4
+645 : Processo 4741718 liberando pagefile alocado
+645 : Processo 4741718 Pronto -> Exec
+646 : Processo 4741718 Exec -> Pronto por tempo
+647 : Processo 4740980 swap in
+647 : Processo 4740980 HwPF - Pagefile0
+647 : Processo 4740980 HwPF - Pagefile1
+647 : Lista de pags livres menor que80%
+647 : Iniciando Swap
+647 : Processo 4741718 pronto outswapped
+647 : Processo 4740980 HwPF - Pagefile2
+647 : Processo 4740980 HwPF - Pagefile3
+647 : Processo 4740980 HwPF - Pagefile4
+647 : Processo 4740980 liberando pagefile alocado
+647 : Processo 4740980 Pronto -> Exec
+648 : Processo 4740980 Exec -> Pronto por tempo
+649 : Processo 4741084 Pronto -> Exec
+650 : Processo 4741084 Exec -> Pronto por tempo
+651 : Processo 4740877 Pronto -> Exec
+652 : Processo 4740877 Exec -> Pronto por tempo
+653 : Processo 4741189 Pronto -> Exec
+654 : Processo 4741189 Exec -> Pronto por tempo
+655 : Processo 4741295 swap in
+655 : Processo 4741295 HwPF - Pagefile0
+655 : Processo 4741295 HwPF - Pagefile1
+655 : Lista de pags livres menor que80%
+655 : Iniciando Swap
+655 : Processo 4741189 pronto outswapped
+655 : Processo 4741295 HwPF - Pagefile2
+655 : Processo 4741295 HwPF - Pagefile3
+655 : Processo 4741295 HwPF - Pagefile4
+655 : Processo 4741295 liberando pagefile alocado
+655 : Processo 4741295 Pronto -> Exec
+656 : Processo 4741295 Exec -> Pronto por tempo
+657 : Processo 4741402 swap in
+657 : Processo 4741402 HwPF - Pagefile0
+657 : Processo 4741402 HwPF - Pagefile1
+657 : Lista de pags livres menor que80%
+657 : Iniciando Swap
+657 : Processo 4741295 pronto outswapped
+657 : Processo 4741402 HwPF - Pagefile2
+657 : Processo 4741402 HwPF - Pagefile3
+657 : Processo 4741402 HwPF - Pagefile4
+657 : Processo 4741402 liberando pagefile alocado
+657 : Processo 4741402 Pronto -> Exec
+658 : Processo 4741402 Exec -> Pronto por tempo
+659 : Processo 4741506 swap in
+659 : Processo 4741506 HwPF - Pagefile0
+659 : Processo 4741506 HwPF - Pagefile1
+659 : Lista de pags livres menor que80%
+659 : Iniciando Swap
+659 : Processo 4741402 pronto outswapped
+659 : Processo 4741506 HwPF - Pagefile2
+659 : Processo 4741506 HwPF - Pagefile3
+659 : Processo 4741506 HwPF - Pagefile4
+659 : Processo 4741506 liberando pagefile alocado
+659 : Processo 4741506 Pronto -> Exec
+660 : Processo 4741506 Exec -> Pronto por tempo
+661 : Processo 4741612 swap in
+661 : Processo 4741612 HwPF - Pagefile0
+661 : Processo 4741612 HwPF - Pagefile1
+661 : Lista de pags livres menor que80%
+661 : Iniciando Swap
+661 : Processo 4741506 pronto outswapped
+661 : Processo 4741612 HwPF - Pagefile2
+661 : Processo 4741612 HwPF - Pagefile3
+661 : Processo 4741612 HwPF - Pagefile4
+661 : Processo 4741612 liberando pagefile alocado
+661 : Processo 4741612 Pronto -> Exec
+662 : Processo 4741612 Exec -> Pronto por tempo
+663 : Processo 4741718 swap in
+663 : Processo 4741718 HwPF - Pagefile0
+663 : Processo 4741718 HwPF - Pagefile1
+663 : Lista de pags livres menor que80%
+663 : Iniciando Swap
+663 : Processo 4741612 pronto outswapped
+663 : Processo 4741718 HwPF - Pagefile2
+663 : Processo 4741718 HwPF - Pagefile3
+663 : Processo 4741718 HwPF - Pagefile4
+663 : Processo 4741718 liberando pagefile alocado
+663 : Processo 4741718 Pronto -> Exec
+664 : Processo 4741718 Exec -> Pronto por tempo
+665 : Processo 4740980 Pronto -> Exec
+666 : Processo 4740980 Exec -> Pronto por tempo
+667 : Processo 4741084 Pronto -> Exec
+668 : Processo 4741084 Exec -> Pronto por tempo
+669 : Processo 4740877 Pronto -> Exec
+670 : Processo 4740877 Exec -> Pronto por tempo
+671 : Processo 4741189 swap in
+671 : Processo 4741189 HwPF - Pagefile0
+671 : Processo 4741189 HwPF - Pagefile1
+671 : Lista de pags livres menor que80%
+671 : Iniciando Swap
+671 : Processo 4740877 pronto outswapped
+671 : Processo 4741189 HwPF - Pagefile2
+671 : Processo 4741189 HwPF - Pagefile3
+671 : Processo 4741189 HwPF - Pagefile4
+671 : Processo 4741189 liberando pagefile alocado
+671 : Processo 4741189 Pronto -> Exec
+672 : Processo 4741189 Exec -> Pronto por tempo
+673 : Processo 4741295 swap in
+673 : Processo 4741295 HwPF - Pagefile0
+673 : Processo 4741295 HwPF - Pagefile1
+673 : Lista de pags livres menor que80%
+673 : Iniciando Swap
+673 : Processo 4741189 pronto outswapped
+673 : Processo 4741295 HwPF - Pagefile2
+673 : Processo 4741295 HwPF - Pagefile3
+673 : Processo 4741295 HwPF - Pagefile4
+673 : Processo 4741295 liberando pagefile alocado
+673 : Processo 4741295 Pronto -> Exec
+674 : Processo 4741295 Exec -> Pronto por tempo
+675 : Processo 4741402 swap in
+675 : Processo 4741402 HwPF - Pagefile0
+675 : Processo 4741402 HwPF - Pagefile1
+675 : Lista de pags livres menor que80%
+675 : Iniciando Swap
+675 : Processo 4741295 pronto outswapped
+675 : Processo 4741402 HwPF - Pagefile2
+675 : Processo 4741402 HwPF - Pagefile3
+675 : Processo 4741402 HwPF - Pagefile4
+675 : Processo 4741402 liberando pagefile alocado
+675 : Processo 4741402 Pronto -> Exec
+676 : Processo 4741402 Exec -> Pronto por tempo
+677 : Processo 4741506 swap in
+677 : Processo 4741506 HwPF - Pagefile0
+677 : Processo 4741506 HwPF - Pagefile1
+677 : Lista de pags livres menor que80%
+677 : Iniciando Swap
+677 : Processo 4741402 pronto outswapped
+677 : Processo 4741506 HwPF - Pagefile2
+677 : Processo 4741506 HwPF - Pagefile3
+677 : Processo 4741506 HwPF - Pagefile4
+677 : Processo 4741506 liberando pagefile alocado
+677 : Processo 4741506 Pronto -> Exec
+678 : Processo 4741506 Exec -> Pronto por tempo
+679 : Processo 4741612 swap in
+679 : Processo 4741612 HwPF - Pagefile0
+679 : Processo 4741612 HwPF - Pagefile1
+679 : Lista de pags livres menor que80%
+679 : Iniciando Swap
+679 : Processo 4741506 pronto outswapped
+679 : Processo 4741612 HwPF - Pagefile2
+679 : Processo 4741612 HwPF - Pagefile3
+679 : Processo 4741612 HwPF - Pagefile4
+679 : Processo 4741612 liberando pagefile alocado
+679 : Processo 4741612 Pronto -> Exec
+680 : Processo 4741612 Exec -> Pronto por tempo
+681 : Processo 4741718 Pronto -> Exec
+682 : Processo 4741718 Exec -> Pronto por tempo
+683 : Processo 4740980 Pronto -> Exec
+684 : Processo 4740980 Exec -> Pronto por tempo
+685 : Processo 4741084 Pronto -> Exec
+686 : Processo 4741084 Exec -> Pronto por tempo
+687 : Processo 4740877 swap in
+687 : Processo 4740877 HwPF - Pagefile0
+687 : Processo 4740877 HwPF - Pagefile1
+687 : Lista de pags livres menor que80%
+687 : Iniciando Swap
+687 : Processo 4741084 pronto outswapped
+687 : Processo 4740877 HwPF - Pagefile2
+687 : Processo 4740877 HwPF - Pagefile3
+687 : Processo 4740877 HwPF - Pagefile4
+687 : Processo 4740877 liberando pagefile alocado
+687 : Processo 4740877 Pronto -> Exec
+688 : Processo 4740877 Exec -> Pronto por tempo
+689 : Processo 4741189 swap in
+689 : Processo 4741189 HwPF - Pagefile0
+689 : Processo 4741189 HwPF - Pagefile1
+689 : Lista de pags livres menor que80%
+689 : Iniciando Swap
+689 : Processo 4740877 pronto outswapped
+689 : Processo 4741189 HwPF - Pagefile2
+689 : Processo 4741189 HwPF - Pagefile3
+689 : Processo 4741189 HwPF - Pagefile4
+689 : Processo 4741189 liberando pagefile alocado
+689 : Processo 4741189 Pronto -> Exec
+690 : Processo 4741189 Exec -> Pronto por tempo
+691 : Processo 4741295 swap in
+691 : Processo 4741295 HwPF - Pagefile0
+691 : Processo 4741295 HwPF - Pagefile1
+691 : Lista de pags livres menor que80%
+691 : Iniciando Swap
+691 : Processo 4741189 pronto outswapped
+691 : Processo 4741295 HwPF - Pagefile2
+691 : Processo 4741295 HwPF - Pagefile3
+691 : Processo 4741295 HwPF - Pagefile4
+691 : Processo 4741295 liberando pagefile alocado
+691 : Processo 4741295 Pronto -> Exec
+692 : Processo 4741295 Exec -> Pronto por tempo
+693 : Processo 4741402 swap in
+693 : Processo 4741402 HwPF - Pagefile0
+693 : Processo 4741402 HwPF - Pagefile1
+693 : Lista de pags livres menor que80%
+693 : Iniciando Swap
+693 : Processo 4741295 pronto outswapped
+693 : Processo 4741402 HwPF - Pagefile2
+693 : Processo 4741402 HwPF - Pagefile3
+693 : Processo 4741402 HwPF - Pagefile4
+693 : Processo 4741402 liberando pagefile alocado
+693 : Processo 4741402 Pronto -> Exec
+694 : Processo 4741402 Exec -> Pronto por tempo
+695 : Processo 4741506 swap in
+695 : Processo 4741506 HwPF - Pagefile0
+695 : Processo 4741506 HwPF - Pagefile1
+695 : Lista de pags livres menor que80%
+695 : Iniciando Swap
+695 : Processo 4741402 pronto outswapped
+695 : Processo 4741506 HwPF - Pagefile2
+695 : Processo 4741506 HwPF - Pagefile3
+695 : Processo 4741506 HwPF - Pagefile4
+695 : Processo 4741506 liberando pagefile alocado
+695 : Processo 4741506 Pronto -> Exec
+696 : Processo 4741506 Exec -> Pronto por tempo
+697 : Processo 4741612 Pronto -> Exec
+698 : Processo 4741612 Exec -> Pronto por tempo
+699 : Processo 4741718 Pronto -> Exec
+700 : Processo 4741718 Exec -> Pronto por tempo
+701 : Processo 4740980 Pronto -> Exec
+702 : Processo 4740980 Exec -> Pronto por tempo
+703 : Processo 4741084 swap in
+703 : Processo 4741084 HwPF - Pagefile0
+703 : Processo 4741084 HwPF - Pagefile1
+703 : Lista de pags livres menor que80%
+703 : Iniciando Swap
+703 : Processo 4740980 pronto outswapped
+703 : Processo 4741084 HwPF - Pagefile2
+703 : Processo 4741084 HwPF - Pagefile3
+703 : Processo 4741084 HwPF - Pagefile4
+703 : Processo 4741084 liberando pagefile alocado
+703 : Processo 4741084 Pronto -> Exec
+704 : Processo 4741084 Exec -> Pronto por tempo
+705 : Processo 4740877 swap in
+705 : Processo 4740877 HwPF - Pagefile0
+705 : Processo 4740877 HwPF - Pagefile1
+705 : Lista de pags livres menor que80%
+705 : Iniciando Swap
+705 : Processo 4741084 pronto outswapped
+705 : Processo 4740877 HwPF - Pagefile2
+705 : Processo 4740877 HwPF - Pagefile3
+705 : Processo 4740877 HwPF - Pagefile4
+705 : Processo 4740877 liberando pagefile alocado
+705 : Processo 4740877 Pronto -> Exec
+706 : Processo 4740877 Exec -> Pronto por tempo
+707 : Processo 4741189 swap in
+707 : Processo 4741189 HwPF - Pagefile0
+707 : Processo 4741189 HwPF - Pagefile1
+707 : Lista de pags livres menor que80%
+707 : Iniciando Swap
+707 : Processo 4740877 pronto outswapped
+707 : Processo 4741189 HwPF - Pagefile2
+707 : Processo 4741189 HwPF - Pagefile3
+707 : Processo 4741189 HwPF - Pagefile4
+707 : Processo 4741189 liberando pagefile alocado
+707 : Processo 4741189 Pronto -> Exec
+708 : Processo 4741189 Exec -> Pronto por tempo
+709 : Processo 4741295 swap in
+709 : Processo 4741295 HwPF - Pagefile0
+709 : Processo 4741295 HwPF - Pagefile1
+709 : Lista de pags livres menor que80%
+709 : Iniciando Swap
+709 : Processo 4741189 pronto outswapped
+709 : Processo 4741295 HwPF - Pagefile2
+709 : Processo 4741295 HwPF - Pagefile3
+709 : Processo 4741295 HwPF - Pagefile4
+709 : Processo 4741295 liberando pagefile alocado
+709 : Processo 4741295 Pronto -> Exec
+710 : Processo 4741295 Exec -> Pronto por tempo
+711 : Processo 4741402 swap in
+711 : Processo 4741402 HwPF - Pagefile0
+711 : Processo 4741402 HwPF - Pagefile1
+711 : Lista de pags livres menor que80%
+711 : Iniciando Swap
+711 : Processo 4741295 pronto outswapped
+711 : Processo 4741402 HwPF - Pagefile2
+711 : Processo 4741402 HwPF - Pagefile3
+711 : Processo 4741402 HwPF - Pagefile4
+711 : Processo 4741402 liberando pagefile alocado
+711 : Processo 4741402 Pronto -> Exec
+712 : Processo 4741402 Exec -> Pronto por tempo
+713 : Processo 4741506 Pronto -> Exec
+714 : Processo 4741506 Exec -> Pronto por tempo
+715 : Processo 4741612 Pronto -> Exec
+716 : Processo 4741612 Exec -> Pronto por tempo
+717 : Processo 4741718 Pronto -> Exec
+718 : Processo 4741718 Exec -> Pronto por tempo
+719 : Processo 4740980 swap in
+719 : Processo 4740980 HwPF - Pagefile0
+719 : Processo 4740980 HwPF - Pagefile1
+719 : Lista de pags livres menor que80%
+719 : Iniciando Swap
+719 : Processo 4741718 pronto outswapped
+719 : Processo 4740980 HwPF - Pagefile2
+719 : Processo 4740980 HwPF - Pagefile3
+719 : Processo 4740980 HwPF - Pagefile4
+719 : Processo 4740980 liberando pagefile alocado
+719 : Processo 4740980 Pronto -> Exec
+720 : Processo 4740980 Exec -> Pronto por tempo
+721 : Processo 4741084 swap in
+721 : Processo 4741084 HwPF - Pagefile0
+721 : Processo 4741084 HwPF - Pagefile1
+721 : Lista de pags livres menor que80%
+721 : Iniciando Swap
+721 : Processo 4740980 pronto outswapped
+721 : Processo 4741084 HwPF - Pagefile2
+721 : Processo 4741084 HwPF - Pagefile3
+721 : Processo 4741084 HwPF - Pagefile4
+721 : Processo 4741084 liberando pagefile alocado
+721 : Processo 4741084 Pronto -> Exec
+722 : Processo 4741084 Exec -> Pronto por tempo
+723 : Processo 4740877 swap in
+723 : Processo 4740877 HwPF - Pagefile0
+723 : Processo 4740877 HwPF - Pagefile1
+723 : Lista de pags livres menor que80%
+723 : Iniciando Swap
+723 : Processo 4741084 pronto outswapped
+723 : Processo 4740877 HwPF - Pagefile2
+723 : Processo 4740877 HwPF - Pagefile3
+723 : Processo 4740877 HwPF - Pagefile4
+723 : Processo 4740877 liberando pagefile alocado
+723 : Processo 4740877 Pronto -> Exec
+724 : Processo 4740877 Exec -> Pronto por tempo
+725 : Processo 4741189 swap in
+725 : Processo 4741189 HwPF - Pagefile0
+725 : Processo 4741189 HwPF - Pagefile1
+725 : Lista de pags livres menor que80%
+725 : Iniciando Swap
+725 : Processo 4740877 pronto outswapped
+725 : Processo 4741189 HwPF - Pagefile2
+725 : Processo 4741189 HwPF - Pagefile3
+725 : Processo 4741189 HwPF - Pagefile4
+725 : Processo 4741189 liberando pagefile alocado
+725 : Processo 4741189 Pronto -> Exec
+726 : Processo 4741189 Exec -> Pronto por tempo
+727 : Processo 4741295 swap in
+727 : Processo 4741295 HwPF - Pagefile0
+727 : Processo 4741295 HwPF - Pagefile1
+727 : Lista de pags livres menor que80%
+727 : Iniciando Swap
+727 : Processo 4741189 pronto outswapped
+727 : Processo 4741295 HwPF - Pagefile2
+727 : Processo 4741295 HwPF - Pagefile3
+727 : Processo 4741295 HwPF - Pagefile4
+727 : Processo 4741295 liberando pagefile alocado
+727 : Processo 4741295 Pronto -> Exec
+728 : Processo 4741295 Exec -> Pronto por tempo
+729 : Processo 4741402 Pronto -> Exec
+730 : Processo 4741402 Exec -> Pronto por tempo
+731 : Processo 4741506 Pronto -> Exec
+732 : Processo 4741506 Exec -> Pronto por tempo
+733 : Processo 4741612 Pronto -> Exec
+734 : Processo 4741612 Exec -> Pronto por tempo
+735 : Processo 4741718 swap in
+735 : Processo 4741718 HwPF - Pagefile0
+735 : Processo 4741718 HwPF - Pagefile1
+735 : Lista de pags livres menor que80%
+735 : Iniciando Swap
+735 : Processo 4741612 pronto outswapped
+735 : Processo 4741718 HwPF - Pagefile2
+735 : Processo 4741718 HwPF - Pagefile3
+735 : Processo 4741718 HwPF - Pagefile4
+735 : Processo 4741718 liberando pagefile alocado
+735 : Processo 4741718 Pronto -> Exec
+736 : Processo 4741718 Exec -> Pronto por tempo
+737 : Processo 4740980 swap in
+737 : Processo 4740980 HwPF - Pagefile0
+737 : Processo 4740980 HwPF - Pagefile1
+737 : Lista de pags livres menor que80%
+737 : Iniciando Swap
+737 : Processo 4741718 pronto outswapped
+737 : Processo 4740980 HwPF - Pagefile2
+737 : Processo 4740980 HwPF - Pagefile3
+737 : Processo 4740980 HwPF - Pagefile4
+737 : Processo 4740980 liberando pagefile alocado
+737 : Processo 4740980 Pronto -> Exec
+738 : Processo 4740980 Exec -> Pronto por tempo
+739 : Processo 4741084 swap in
+739 : Processo 4741084 HwPF - Pagefile0
+739 : Processo 4741084 HwPF - Pagefile1
+739 : Lista de pags livres menor que80%
+739 : Iniciando Swap
+739 : Processo 4740980 pronto outswapped
+739 : Processo 4741084 HwPF - Pagefile2
+739 : Processo 4741084 HwPF - Pagefile3
+739 : Processo 4741084 HwPF - Pagefile4
+739 : Processo 4741084 liberando pagefile alocado
+739 : Processo 4741084 Pronto -> Exec
+740 : Processo 4741084 Exec -> Pronto por tempo
+741 : Processo 4740877 swap in
+741 : Processo 4740877 HwPF - Pagefile0
+741 : Processo 4740877 HwPF - Pagefile1
+741 : Lista de pags livres menor que80%
+741 : Iniciando Swap
+741 : Processo 4741084 pronto outswapped
+741 : Processo 4740877 HwPF - Pagefile2
+741 : Processo 4740877 HwPF - Pagefile3
+741 : Processo 4740877 HwPF - Pagefile4
+741 : Processo 4740877 liberando pagefile alocado
+741 : Processo 4740877 Pronto -> Exec
+742 : Processo 4740877 Exec -> Pronto por tempo
+743 : Processo 4741189 swap in
+743 : Processo 4741189 HwPF - Pagefile0
+743 : Processo 4741189 HwPF - Pagefile1
+743 : Lista de pags livres menor que80%
+743 : Iniciando Swap
+743 : Processo 4740877 pronto outswapped
+743 : Processo 4741189 HwPF - Pagefile2
+743 : Processo 4741189 HwPF - Pagefile3
+743 : Processo 4741189 HwPF - Pagefile4
+743 : Processo 4741189 liberando pagefile alocado
+743 : Processo 4741189 Pronto -> Exec
+744 : Processo 4741189 Exec -> Pronto por tempo
+745 : Processo 4741295 Pronto -> Exec
+745 : Processo 5431903 alocacao de blocos no pagefile
+745 : Processo 5431903 HwPF - Executável0
+745 : Processo 5431903 criado
+746 : Processo 4741295 Exec -> Pronto por tempo
+747 : Processo 4741402 Pronto -> Exec
+748 : Processo 4741402 Exec -> Pronto por tempo
+749 : Processo 4741506 Pronto -> Exec
+750 : Processo 4741506 Exec -> Pronto por tempo
+751 : Processo 4741612 swap in
+751 : Processo 4741612 HwPF - Pagefile0
+751 : Lista de pags livres menor que80%
+751 : Iniciando Swap
+751 : Processo 4741506 pronto outswapped
+751 : Processo 4741612 HwPF - Pagefile1
+751 : Processo 4741612 HwPF - Pagefile2
+751 : Processo 4741612 HwPF - Pagefile3
+751 : Processo 4741612 HwPF - Pagefile4
+751 : Processo 4741612 liberando pagefile alocado
+751 : Processo 4741612 Pronto -> Exec
+752 : Processo 4741612 Exec -> Pronto por tempo
+753 : Processo 4741718 swap in
+753 : Processo 4741718 HwPF - Pagefile0
+753 : Lista de pags livres menor que80%
+753 : Iniciando Swap
+753 : Processo 4741612 pronto outswapped
+753 : Processo 4741718 HwPF - Pagefile1
+753 : Processo 4741718 HwPF - Pagefile2
+753 : Processo 4741718 HwPF - Pagefile3
+753 : Processo 4741718 HwPF - Pagefile4
+753 : Processo 4741718 liberando pagefile alocado
+753 : Processo 4741718 Pronto -> Exec
+754 : Processo 4741718 Exec -> Pronto por tempo
+755 : Processo 4740980 swap in
+755 : Processo 4740980 HwPF - Pagefile0
+755 : Lista de pags livres menor que80%
+755 : Iniciando Swap
+755 : Processo 4741718 pronto outswapped
+755 : Processo 4740980 HwPF - Pagefile1
+755 : Processo 4740980 HwPF - Pagefile2
+755 : Processo 4740980 HwPF - Pagefile3
+755 : Processo 4740980 HwPF - Pagefile4
+755 : Processo 4740980 liberando pagefile alocado
+755 : Processo 4740980 Pronto -> Exec
+756 : Processo 4740980 Exec -> Pronto por tempo
+757 : Processo 4741084 swap in
+757 : Processo 4741084 HwPF - Pagefile0
+757 : Lista de pags livres menor que80%
+757 : Iniciando Swap
+757 : Processo 4740980 pronto outswapped
+757 : Processo 4741084 HwPF - Pagefile1
+757 : Processo 4741084 HwPF - Pagefile2
+757 : Processo 4741084 HwPF - Pagefile3
+757 : Processo 4741084 HwPF - Pagefile4
+757 : Processo 4741084 liberando pagefile alocado
+757 : Processo 4741084 Pronto -> Exec
+758 : Processo 4741084 Exec -> Pronto por tempo
+759 : Processo 4740877 swap in
+759 : Processo 4740877 HwPF - Pagefile0
+759 : Lista de pags livres menor que80%
+759 : Iniciando Swap
+759 : Processo 4741084 pronto outswapped
+759 : Processo 4740877 HwPF - Pagefile1
+759 : Processo 4740877 HwPF - Pagefile2
+759 : Processo 4740877 HwPF - Pagefile3
+759 : Processo 4740877 HwPF - Pagefile4
+759 : Processo 4740877 liberando pagefile alocado
+759 : Processo 4740877 Pronto -> Exec
+760 : Processo 4740877 Exec -> Pronto por tempo
+761 : Processo 4741189 Pronto -> Exec
+762 : Processo 4741189 Exec -> Pronto por tempo
+763 : Processo 5431903 Pronto -> Exec
+763 : Processo 5431903 Exec -> I/O
+764 : Processo 4741295 Pronto -> Exec
+765 : Processo 4741295 Exec -> Pronto por tempo
+766 : Processo 4741402 Pronto -> Exec
+767 : Processo 4741402 Exec -> Pronto por tempo
+768 : Processo 4741506 swap in
+768 : Processo 4741506 HwPF - Pagefile0
+768 : Lista de pags livres menor que80%
+768 : Iniciando Swap
+768 : Processo 5431903 IO outswapped
+768 : Processo 4741506 HwPF - Pagefile1
+768 : Lista de pags livres menor que80%
+768 : Iniciando Swap
+768 : Processo 4741402 pronto outswapped
+768 : Processo 4741506 HwPF - Pagefile2
+768 : Processo 4741506 HwPF - Pagefile3
+768 : Processo 4741506 HwPF - Pagefile4
+768 : Processo 4741506 liberando pagefile alocado
+768 : Processo 4741506 Pronto -> Exec
+769 : Processo 4741506 Exec -> Pronto por tempo
+770 : Processo 4741612 swap in
+770 : Processo 4741612 HwPF - Pagefile0
+770 : Processo 4741612 HwPF - Pagefile1
+770 : Lista de pags livres menor que80%
+770 : Iniciando Swap
+770 : Processo 4741506 pronto outswapped
+770 : Processo 4741612 HwPF - Pagefile2
+770 : Processo 4741612 HwPF - Pagefile3
+770 : Processo 4741612 HwPF - Pagefile4
+770 : Processo 4741612 liberando pagefile alocado
+770 : Processo 4741612 Pronto -> Exec
+771 : Processo 4741612 Exec -> Pronto por tempo
+772 : Processo 4741718 swap in
+772 : Processo 4741718 HwPF - Pagefile0
+772 : Processo 4741718 HwPF - Pagefile1
+772 : Lista de pags livres menor que80%
+772 : Iniciando Swap
+772 : Processo 4741612 pronto outswapped
+772 : Processo 4741718 HwPF - Pagefile2
+772 : Processo 4741718 HwPF - Pagefile3
+772 : Processo 4741718 HwPF - Pagefile4
+772 : Processo 4741718 liberando pagefile alocado
+772 : Processo 4741718 Pronto -> Exec
+773 : Processo 4741718 Exec -> Pronto por tempo
+774 : Processo 4740980 swap in
+774 : Processo 4740980 HwPF - Pagefile0
+774 : Processo 4740980 HwPF - Pagefile1
+774 : Lista de pags livres menor que80%
+774 : Iniciando Swap
+774 : Processo 4741718 pronto outswapped
+774 : Processo 4740980 HwPF - Pagefile2
+774 : Processo 4740980 HwPF - Pagefile3
+774 : Processo 4740980 HwPF - Pagefile4
+774 : Processo 4740980 liberando pagefile alocado
+774 : Processo 4740980 Pronto -> Exec
+775 : Processo 4740980 Exec -> Pronto por tempo
+776 : Processo 4741084 swap in
+776 : Processo 4741084 HwPF - Pagefile0
+776 : Processo 4741084 HwPF - Pagefile1
+776 : Lista de pags livres menor que80%
+776 : Iniciando Swap
+776 : Processo 4740980 pronto outswapped
+776 : Processo 4741084 HwPF - Pagefile2
+776 : Processo 4741084 HwPF - Pagefile3
+776 : Processo 4741084 HwPF - Pagefile4
+776 : Processo 4741084 liberando pagefile alocado
+776 : Processo 4741084 Pronto -> Exec
+777 : Processo 4741084 Exec -> Pronto por tempo
+777 : Processo 5431903 Aumento de prioridade +1
+778 : Processo 5431903 swap in
+778 : Processo 5431903 HwPF - Pagefile0
+778 : Processo 5431903 liberando pagefile alocado
+778 : Processo 5431903 Pronto -> Exec
+779 : Processo 5431903 Exec -> Pronto por tempo
+780 : Processo 4740877 Pronto -> Exec
+781 : Processo 4740877 Exec -> Pronto por tempo
+782 : Processo 4741189 Pronto -> Exec
+783 : Processo 4741189 Exec -> Pronto por tempo
+784 : Processo 4741295 Pronto -> Exec
+785 : Processo 4741295 Exec -> Pronto por tempo
+786 : Processo 4741402 swap in
+786 : Processo 4741402 HwPF - Pagefile0
+786 : Lista de pags livres menor que80%
+786 : Iniciando Swap
+786 : Processo 4741295 pronto outswapped
+786 : Processo 4741402 HwPF - Pagefile1
+786 : Processo 4741402 HwPF - Pagefile2
+786 : Processo 4741402 HwPF - Pagefile3
+786 : Processo 4741402 HwPF - Pagefile4
+786 : Processo 4741402 liberando pagefile alocado
+786 : Processo 4741402 Pronto -> Exec
+787 : Processo 4741402 Exec -> Pronto por tempo
+788 : Processo 4741506 swap in
+788 : Processo 4741506 HwPF - Pagefile0
+788 : Lista de pags livres menor que80%
+788 : Iniciando Swap
+788 : Processo 4741402 pronto outswapped
+788 : Processo 4741506 HwPF - Pagefile1
+788 : Processo 4741506 HwPF - Pagefile2
+788 : Processo 4741506 HwPF - Pagefile3
+788 : Processo 4741506 HwPF - Pagefile4
+788 : Processo 4741506 liberando pagefile alocado
+788 : Processo 4741506 Pronto -> Exec
+789 : Processo 4741506 Exec -> Pronto por tempo
+790 : Processo 4741612 swap in
+790 : Processo 4741612 HwPF - Pagefile0
+790 : Lista de pags livres menor que80%
+790 : Iniciando Swap
+790 : Processo 4741506 pronto outswapped
+790 : Processo 4741612 HwPF - Pagefile1
+790 : Processo 4741612 HwPF - Pagefile2
+790 : Processo 4741612 HwPF - Pagefile3
+790 : Processo 4741612 HwPF - Pagefile4
+790 : Processo 4741612 liberando pagefile alocado
+790 : Processo 4741612 Pronto -> Exec
+791 : Processo 4741612 Exec -> Pronto por tempo
+792 : Processo 4741718 swap in
+792 : Processo 4741718 HwPF - Pagefile0
+792 : Lista de pags livres menor que80%
+792 : Iniciando Swap
+792 : Processo 4741612 pronto outswapped
+792 : Processo 4741718 HwPF - Pagefile1
+792 : Processo 4741718 HwPF - Pagefile2
+792 : Processo 4741718 HwPF - Pagefile3
+792 : Processo 4741718 HwPF - Pagefile4
+792 : Processo 4741718 liberando pagefile alocado
+792 : Processo 4741718 Pronto -> Exec
+793 : Processo 4741718 Exec -> Pronto por tempo
+794 : Processo 4740980 swap in
+794 : Processo 4740980 HwPF - Pagefile0
+794 : Lista de pags livres menor que80%
+794 : Iniciando Swap
+794 : Processo 4741718 pronto outswapped
+794 : Processo 4740980 HwPF - Pagefile1
+794 : Processo 4740980 HwPF - Pagefile2
+794 : Processo 4740980 HwPF - Pagefile3
+794 : Processo 4740980 HwPF - Pagefile4
+794 : Processo 4740980 liberando pagefile alocado
+794 : Processo 4740980 Pronto -> Exec
+795 : Processo 4740980 Exec -> Pronto por tempo
+796 : Processo 4741084 Pronto -> Exec
+797 : Processo 4741084 Exec -> Pronto por tempo
+798 : Processo 5431903 Pronto -> Exec
+798 : Processo 5431903 Exec -> I/O
+799 : Processo 4740877 Pronto -> Exec
+800 : Processo 4740877 Exec -> Pronto por tempo
+801 : Processo 4741189 Pronto -> Exec
+802 : Processo 4741189 Exec -> Pronto por tempo
+803 : Processo 4741295 swap in
+803 : Processo 4741295 HwPF - Pagefile0
+803 : Lista de pags livres menor que80%
+803 : Iniciando Swap
+803 : Processo 5431903 IO outswapped
+803 : Processo 4741295 HwPF - Pagefile1
+803 : Lista de pags livres menor que80%
+803 : Iniciando Swap
+803 : Processo 4741189 pronto outswapped
+803 : Processo 4741295 HwPF - Pagefile2
+803 : Processo 4741295 HwPF - Pagefile3
+803 : Processo 4741295 HwPF - Pagefile4
+803 : Processo 4741295 liberando pagefile alocado
+803 : Processo 4741295 Pronto -> Exec
+804 : Processo 4741295 Exec -> Pronto por tempo
+805 : Processo 4741402 swap in
+805 : Processo 4741402 HwPF - Pagefile0
+805 : Processo 4741402 HwPF - Pagefile1
+805 : Lista de pags livres menor que80%
+805 : Iniciando Swap
+805 : Processo 4741295 pronto outswapped
+805 : Processo 4741402 HwPF - Pagefile2
+805 : Processo 4741402 HwPF - Pagefile3
+805 : Processo 4741402 HwPF - Pagefile4
+805 : Processo 4741402 liberando pagefile alocado
+805 : Processo 4741402 Pronto -> Exec
+806 : Processo 4741402 Exec -> Pronto por tempo
+807 : Processo 4741506 swap in
+807 : Processo 4741506 HwPF - Pagefile0
+807 : Processo 4741506 HwPF - Pagefile1
+807 : Lista de pags livres menor que80%
+807 : Iniciando Swap
+807 : Processo 4741402 pronto outswapped
+807 : Processo 4741506 HwPF - Pagefile2
+807 : Processo 4741506 HwPF - Pagefile3
+807 : Processo 4741506 HwPF - Pagefile4
+807 : Processo 4741506 liberando pagefile alocado
+807 : Processo 4741506 Pronto -> Exec
+808 : Processo 4741506 Exec -> Pronto por tempo
+809 : Processo 4741612 swap in
+809 : Processo 4741612 HwPF - Pagefile0
+809 : Processo 4741612 HwPF - Pagefile1
+809 : Lista de pags livres menor que80%
+809 : Iniciando Swap
+809 : Processo 4741506 pronto outswapped
+809 : Processo 4741612 HwPF - Pagefile2
+809 : Processo 4741612 HwPF - Pagefile3
+809 : Processo 4741612 HwPF - Pagefile4
+809 : Processo 4741612 liberando pagefile alocado
+809 : Processo 4741612 Pronto -> Exec
+810 : Processo 4741612 Exec -> Pronto por tempo
+811 : Processo 4741718 swap in
+811 : Processo 4741718 HwPF - Pagefile0
+811 : Processo 4741718 HwPF - Pagefile1
+811 : Lista de pags livres menor que80%
+811 : Iniciando Swap
+811 : Processo 4741612 pronto outswapped
+811 : Processo 4741718 HwPF - Pagefile2
+811 : Processo 4741718 HwPF - Pagefile3
+811 : Processo 4741718 HwPF - Pagefile4
+811 : Processo 4741718 liberando pagefile alocado
+811 : Processo 4741718 Pronto -> Exec
+812 : Processo 4741718 Exec -> Pronto por tempo
+812 : Processo 5431903 Aumento de prioridade +1
+813 : Processo 5431903 swap in
+813 : Processo 5431903 HwPF - Pagefile0
+813 : Processo 5431903 liberando pagefile alocado
+813 : Processo 5431903 Pronto -> Exec
+814 : Processo 5431903 Exec -> Pronto por tempo
+815 : Processo 4740980 Pronto -> Exec
+816 : Processo 4740980 Exec -> Pronto por tempo
+817 : Processo 4741084 Pronto -> Exec
+818 : Processo 4741084 Exec -> Pronto por tempo
+819 : Processo 4740877 Pronto -> Exec
+820 : Processo 4740877 Exec -> Pronto por tempo
+821 : Processo 4741189 swap in
+821 : Processo 4741189 HwPF - Pagefile0
+821 : Lista de pags livres menor que80%
+821 : Iniciando Swap
+821 : Processo 4740877 pronto outswapped
+821 : Processo 4741189 HwPF - Pagefile1
+821 : Processo 4741189 HwPF - Pagefile2
+821 : Processo 4741189 HwPF - Pagefile3
+821 : Processo 4741189 HwPF - Pagefile4
+821 : Processo 4741189 liberando pagefile alocado
+821 : Processo 4741189 Pronto -> Exec
+822 : Processo 4741189 Exec -> Pronto por tempo
+823 : Processo 4741295 swap in
+823 : Processo 4741295 HwPF - Pagefile0
+823 : Lista de pags livres menor que80%
+823 : Iniciando Swap
+823 : Processo 4741189 pronto outswapped
+823 : Processo 4741295 HwPF - Pagefile1
+823 : Processo 4741295 HwPF - Pagefile2
+823 : Processo 4741295 HwPF - Pagefile3
+823 : Processo 4741295 HwPF - Pagefile4
+823 : Processo 4741295 liberando pagefile alocado
+823 : Processo 4741295 Pronto -> Exec
+824 : Processo 4741295 Exec -> Pronto por tempo
+825 : Processo 4741402 swap in
+825 : Processo 4741402 HwPF - Pagefile0
+825 : Lista de pags livres menor que80%
+825 : Iniciando Swap
+825 : Processo 4741295 pronto outswapped
+825 : Processo 4741402 HwPF - Pagefile1
+825 : Processo 4741402 HwPF - Pagefile2
+825 : Processo 4741402 HwPF - Pagefile3
+825 : Processo 4741402 HwPF - Pagefile4
+825 : Processo 4741402 liberando pagefile alocado
+825 : Processo 4741402 Pronto -> Exec
+826 : Processo 4741402 Exec -> Pronto por tempo
+827 : Processo 4741506 swap in
+827 : Processo 4741506 HwPF - Pagefile0
+827 : Lista de pags livres menor que80%
+827 : Iniciando Swap
+827 : Processo 4741402 pronto outswapped
+827 : Processo 4741506 HwPF - Pagefile1
+827 : Processo 4741506 HwPF - Pagefile2
+827 : Processo 4741506 HwPF - Pagefile3
+827 : Processo 4741506 HwPF - Pagefile4
+827 : Processo 4741506 liberando pagefile alocado
+827 : Processo 4741506 Pronto -> Exec
+828 : Processo 4741506 Exec -> Pronto por tempo
+829 : Processo 4741612 swap in
+829 : Processo 4741612 HwPF - Pagefile0
+829 : Lista de pags livres menor que80%
+829 : Iniciando Swap
+829 : Processo 4741506 pronto outswapped
+829 : Processo 4741612 HwPF - Pagefile1
+829 : Processo 4741612 HwPF - Pagefile2
+829 : Processo 4741612 HwPF - Pagefile3
+829 : Processo 4741612 HwPF - Pagefile4
+829 : Processo 4741612 liberando pagefile alocado
+829 : Processo 4741612 Pronto -> Exec
+830 : Processo 4741612 Exec -> Pronto por tempo
+831 : Processo 4741718 Pronto -> Exec
+832 : Processo 4741718 Exec -> Pronto por tempo
+833 : Processo 5431903 Pronto -> Exec
+833 : Processo 5431903 Exec -> I/O
+834 : Processo 4740980 Pronto -> Exec
+835 : Processo 4740980 Exec -> Pronto por tempo
+836 : Processo 4741084 Pronto -> Exec
+837 : Processo 4741084 Exec -> Pronto por tempo
+838 : Processo 4740877 swap in
+838 : Processo 4740877 HwPF - Pagefile0
+838 : Lista de pags livres menor que80%
+838 : Iniciando Swap
+838 : Processo 5431903 IO outswapped
+838 : Processo 4740877 HwPF - Pagefile1
+838 : Lista de pags livres menor que80%
+838 : Iniciando Swap
+838 : Processo 4741084 pronto outswapped
+838 : Processo 4740877 HwPF - Pagefile2
+838 : Processo 4740877 HwPF - Pagefile3
+838 : Processo 4740877 HwPF - Pagefile4
+838 : Processo 4740877 liberando pagefile alocado
+838 : Processo 4740877 Pronto -> Exec
+839 : Processo 4740877 Exec -> Pronto por tempo
+840 : Processo 4741189 swap in
+840 : Processo 4741189 HwPF - Pagefile0
+840 : Processo 4741189 HwPF - Pagefile1
+840 : Lista de pags livres menor que80%
+840 : Iniciando Swap
+840 : Processo 4740877 pronto outswapped
+840 : Processo 4741189 HwPF - Pagefile2
+840 : Processo 4741189 HwPF - Pagefile3
+840 : Processo 4741189 HwPF - Pagefile4
+840 : Processo 4741189 liberando pagefile alocado
+840 : Processo 4741189 Pronto -> Exec
+841 : Processo 4741189 Exec -> Pronto por tempo
+842 : Processo 4741295 swap in
+842 : Processo 4741295 HwPF - Pagefile0
+842 : Processo 4741295 HwPF - Pagefile1
+842 : Lista de pags livres menor que80%
+842 : Iniciando Swap
+842 : Processo 4741189 pronto outswapped
+842 : Processo 4741295 HwPF - Pagefile2
+842 : Processo 4741295 HwPF - Pagefile3
+842 : Processo 4741295 HwPF - Pagefile4
+842 : Processo 4741295 liberando pagefile alocado
+842 : Processo 4741295 Pronto -> Exec
+843 : Processo 4741295 Exec -> Pronto por tempo
+844 : Processo 4741402 swap in
+844 : Processo 4741402 HwPF - Pagefile0
+844 : Processo 4741402 HwPF - Pagefile1
+844 : Lista de pags livres menor que80%
+844 : Iniciando Swap
+844 : Processo 4741295 pronto outswapped
+844 : Processo 4741402 HwPF - Pagefile2
+844 : Processo 4741402 HwPF - Pagefile3
+844 : Processo 4741402 HwPF - Pagefile4
+844 : Processo 4741402 liberando pagefile alocado
+844 : Processo 4741402 Pronto -> Exec
+845 : Processo 4741402 Exec -> Pronto por tempo
+846 : Processo 4741506 swap in
+846 : Processo 4741506 HwPF - Pagefile0
+846 : Processo 4741506 HwPF - Pagefile1
+846 : Lista de pags livres menor que80%
+846 : Iniciando Swap
+846 : Processo 4741402 pronto outswapped
+846 : Processo 4741506 HwPF - Pagefile2
+846 : Processo 4741506 HwPF - Pagefile3
+846 : Processo 4741506 HwPF - Pagefile4
+846 : Processo 4741506 liberando pagefile alocado
+846 : Processo 4741506 Pronto -> Exec
+847 : Processo 4741506 Exec -> Pronto por tempo
+847 : Processo 5431903 Aumento de prioridade +1
+848 : Processo 5431903 swap in
+848 : Processo 5431903 HwPF - Pagefile0
+848 : Processo 5431903 liberando pagefile alocado
+848 : Processo 5431903 Pronto -> Exec
+849 : Processo 5431903 Exec -> Pronto por tempo
+850 : Processo 4741612 Pronto -> Exec
+851 : Processo 4741612 Exec -> Pronto por tempo
+852 : Processo 4741718 Pronto -> Exec
+853 : Processo 4741718 Exec -> Pronto por tempo
+854 : Processo 4740980 Pronto -> Exec
+855 : Processo 4740980 Exec -> Pronto por tempo
+856 : Processo 4741084 swap in
+856 : Processo 4741084 HwPF - Pagefile0
+856 : Lista de pags livres menor que80%
+856 : Iniciando Swap
+856 : Processo 4740980 pronto outswapped
+856 : Processo 4741084 HwPF - Pagefile1
+856 : Processo 4741084 HwPF - Pagefile2
+856 : Processo 4741084 HwPF - Pagefile3
+856 : Processo 4741084 HwPF - Pagefile4
+856 : Processo 4741084 liberando pagefile alocado
+856 : Processo 4741084 Pronto -> Exec
+857 : Processo 4741084 Exec -> Pronto por tempo
+858 : Processo 4740877 swap in
+858 : Processo 4740877 HwPF - Pagefile0
+858 : Lista de pags livres menor que80%
+858 : Iniciando Swap
+858 : Processo 4741084 pronto outswapped
+858 : Processo 4740877 HwPF - Pagefile1
+858 : Processo 4740877 HwPF - Pagefile2
+858 : Processo 4740877 HwPF - Pagefile3
+858 : Processo 4740877 HwPF - Pagefile4
+858 : Processo 4740877 liberando pagefile alocado
+858 : Processo 4740877 Pronto -> Exec
+859 : Processo 4740877 Exec -> Pronto por tempo
+860 : Processo 4741189 swap in
+860 : Processo 4741189 HwPF - Pagefile0
+860 : Lista de pags livres menor que80%
+860 : Iniciando Swap
+860 : Processo 4740877 pronto outswapped
+860 : Processo 4741189 HwPF - Pagefile1
+860 : Processo 4741189 HwPF - Pagefile2
+860 : Processo 4741189 HwPF - Pagefile3
+860 : Processo 4741189 HwPF - Pagefile4
+860 : Processo 4741189 liberando pagefile alocado
+860 : Processo 4741189 Pronto -> Exec
+861 : Processo 4741189 Exec -> Pronto por tempo
+862 : Processo 4741295 swap in
+862 : Processo 4741295 HwPF - Pagefile0
+862 : Lista de pags livres menor que80%
+862 : Iniciando Swap
+862 : Processo 4741189 pronto outswapped
+862 : Processo 4741295 HwPF - Pagefile1
+862 : Processo 4741295 HwPF - Pagefile2
+862 : Processo 4741295 HwPF - Pagefile3
+862 : Processo 4741295 HwPF - Pagefile4
+862 : Processo 4741295 liberando pagefile alocado
+862 : Processo 4741295 Pronto -> Exec
+863 : Processo 4741295 Exec -> Pronto por tempo
+864 : Processo 4741402 swap in
+864 : Processo 4741402 HwPF - Pagefile0
+864 : Lista de pags livres menor que80%
+864 : Iniciando Swap
+864 : Processo 4741295 pronto outswapped
+864 : Processo 4741402 HwPF - Pagefile1
+864 : Processo 4741402 HwPF - Pagefile2
+864 : Processo 4741402 HwPF - Pagefile3
+864 : Processo 4741402 HwPF - Pagefile4
+864 : Processo 4741402 liberando pagefile alocado
+864 : Processo 4741402 Pronto -> Exec
+865 : Processo 4741402 Exec -> Pronto por tempo
+866 : Processo 4741506 Pronto -> Exec
+867 : Processo 4741506 Exec -> Pronto por tempo
+868 : Processo 5431903 Pronto -> Exec
+868 : Processo 5431903 Exec -> I/O
+869 : Processo 4741612 Pronto -> Exec
+870 : Processo 4741612 Exec -> Pronto por tempo
+871 : Processo 4741718 Pronto -> Exec
+872 : Processo 4741718 Exec -> Pronto por tempo
+873 : Processo 4740980 swap in
+873 : Processo 4740980 HwPF - Pagefile0
+873 : Lista de pags livres menor que80%
+873 : Iniciando Swap
+873 : Processo 5431903 IO outswapped
+873 : Processo 4740980 HwPF - Pagefile1
+873 : Lista de pags livres menor que80%
+873 : Iniciando Swap
+873 : Processo 4741718 pronto outswapped
+873 : Processo 4740980 HwPF - Pagefile2
+873 : Processo 4740980 HwPF - Pagefile3
+873 : Processo 4740980 HwPF - Pagefile4
+873 : Processo 4740980 liberando pagefile alocado
+873 : Processo 4740980 Pronto -> Exec
+874 : Processo 4740980 Exec -> Pronto por tempo
+875 : Processo 4741084 swap in
+875 : Processo 4741084 HwPF - Pagefile0
+875 : Processo 4741084 HwPF - Pagefile1
+875 : Lista de pags livres menor que80%
+875 : Iniciando Swap
+875 : Processo 4740980 pronto outswapped
+875 : Processo 4741084 HwPF - Pagefile2
+875 : Processo 4741084 HwPF - Pagefile3
+875 : Processo 4741084 HwPF - Pagefile4
+875 : Processo 4741084 liberando pagefile alocado
+875 : Processo 4741084 Pronto -> Exec
+876 : Processo 4741084 Exec -> Pronto por tempo
+877 : Processo 4740877 swap in
+877 : Processo 4740877 HwPF - Pagefile0
+877 : Processo 4740877 HwPF - Pagefile1
+877 : Lista de pags livres menor que80%
+877 : Iniciando Swap
+877 : Processo 4741084 pronto outswapped
+877 : Processo 4740877 HwPF - Pagefile2
+877 : Processo 4740877 HwPF - Pagefile3
+877 : Processo 4740877 HwPF - Pagefile4
+877 : Processo 4740877 liberando pagefile alocado
+877 : Processo 4740877 Pronto -> Exec
+878 : Processo 4740877 Exec -> Pronto por tempo
+879 : Processo 4741189 swap in
+879 : Processo 4741189 HwPF - Pagefile0
+879 : Processo 4741189 HwPF - Pagefile1
+879 : Lista de pags livres menor que80%
+879 : Iniciando Swap
+879 : Processo 4740877 pronto outswapped
+879 : Processo 4741189 HwPF - Pagefile2
+879 : Processo 4741189 HwPF - Pagefile3
+879 : Processo 4741189 HwPF - Pagefile4
+879 : Processo 4741189 liberando pagefile alocado
+879 : Processo 4741189 Pronto -> Exec
+880 : Processo 4741189 Exec -> Pronto por tempo
+881 : Processo 4741295 swap in
+881 : Processo 4741295 HwPF - Pagefile0
+881 : Processo 4741295 HwPF - Pagefile1
+881 : Lista de pags livres menor que80%
+881 : Iniciando Swap
+881 : Processo 4741189 pronto outswapped
+881 : Processo 4741295 HwPF - Pagefile2
+881 : Processo 4741295 HwPF - Pagefile3
+881 : Processo 4741295 HwPF - Pagefile4
+881 : Processo 4741295 liberando pagefile alocado
+881 : Processo 4741295 Pronto -> Exec
+882 : Processo 4741295 Exec -> Pronto por tempo
+882 : Processo 5431903 Aumento de prioridade +1
+883 : Processo 5431903 swap in
+883 : Processo 5431903 HwPF - Pagefile0
+883 : Processo 5431903 liberando pagefile alocado
+883 : Processo 5431903 Pronto -> Exec
+884 : Processo 5431903 Exec -> Pronto por tempo
+885 : Processo 4741402 Pronto -> Exec
+886 : Processo 4741402 Exec -> Pronto por tempo
+887 : Processo 4741506 Pronto -> Exec
+888 : Processo 4741506 Exec -> Pronto por tempo
+889 : Processo 4741612 Pronto -> Exec
+890 : Processo 4741612 Exec -> Pronto por tempo
+891 : Processo 4741718 swap in
+891 : Processo 4741718 HwPF - Pagefile0
+891 : Lista de pags livres menor que80%
+891 : Iniciando Swap
+891 : Processo 4741612 pronto outswapped
+891 : Processo 4741718 HwPF - Pagefile1
+891 : Processo 4741718 HwPF - Pagefile2
+891 : Processo 4741718 HwPF - Pagefile3
+891 : Processo 4741718 HwPF - Pagefile4
+891 : Processo 4741718 liberando pagefile alocado
+891 : Processo 4741718 Pronto -> Exec
+892 : Processo 4741718 Exec -> Pronto por tempo
+893 : Processo 4740980 swap in
+893 : Processo 4740980 HwPF - Pagefile0
+893 : Lista de pags livres menor que80%
+893 : Iniciando Swap
+893 : Processo 4741718 pronto outswapped
+893 : Processo 4740980 HwPF - Pagefile1
+893 : Processo 4740980 HwPF - Pagefile2
+893 : Processo 4740980 HwPF - Pagefile3
+893 : Processo 4740980 HwPF - Pagefile4
+893 : Processo 4740980 liberando pagefile alocado
+893 : Processo 4740980 Pronto -> Exec
+894 : Processo 4740980 Exec -> Pronto por tempo
+895 : Processo 4741084 swap in
+895 : Processo 4741084 HwPF - Pagefile0
+895 : Lista de pags livres menor que80%
+895 : Iniciando Swap
+895 : Processo 4740980 pronto outswapped
+895 : Processo 4741084 HwPF - Pagefile1
+895 : Processo 4741084 HwPF - Pagefile2
+895 : Processo 4741084 HwPF - Pagefile3
+895 : Processo 4741084 HwPF - Pagefile4
+895 : Processo 4741084 liberando pagefile alocado
+895 : Processo 4741084 Pronto -> Exec
+896 : Processo 4741084 Exec -> Pronto por tempo
+897 : Processo 4740877 swap in
+897 : Processo 4740877 HwPF - Pagefile0
+897 : Lista de pags livres menor que80%
+897 : Iniciando Swap
+897 : Processo 4741084 pronto outswapped
+897 : Processo 4740877 HwPF - Pagefile1
+897 : Processo 4740877 HwPF - Pagefile2
+897 : Processo 4740877 HwPF - Pagefile3
+897 : Processo 4740877 HwPF - Pagefile4
+897 : Processo 4740877 liberando pagefile alocado
+897 : Processo 4740877 Pronto -> Exec
+898 : Processo 4740877 Exec -> Pronto por tempo
+899 : Processo 4741189 swap in
+899 : Processo 4741189 HwPF - Pagefile0
+899 : Lista de pags livres menor que80%
+899 : Iniciando Swap
+899 : Processo 4740877 pronto outswapped
+899 : Processo 4741189 HwPF - Pagefile1
+899 : Processo 4741189 HwPF - Pagefile2
+899 : Processo 4741189 HwPF - Pagefile3
+899 : Processo 4741189 HwPF - Pagefile4
+899 : Processo 4741189 liberando pagefile alocado
+899 : Processo 4741189 Pronto -> Exec
+900 : Processo 4741189 Exec -> Pronto por tempo
+901 : Processo 4741295 Pronto -> Exec
+902 : Processo 4741295 Exec -> Pronto por tempo
+903 : Processo 5431903 Pronto -> Exec
+904 : Processo 5431903 Exec -> Page Fault1
+905 : Processo 4741402 Pronto -> Exec
+906 : Processo 4741402 Exec -> Pronto por tempo
+907 : Processo 4741506 Pronto -> Exec
+908 : Processo 4741506 Exec -> Pronto por tempo
+909 : Processo 4741612 swap in
+909 : Processo 4741612 HwPF - Pagefile0
+909 : Lista de pags livres menor que80%
+909 : Iniciando Swap
+909 : Processo 5431903 page fault outswapped
+909 : Processo 4741612 HwPF - Pagefile1
+909 : Lista de pags livres menor que80%
+909 : Iniciando Swap
+909 : Processo 4741506 pronto outswapped
+909 : Processo 4741612 HwPF - Pagefile2
+909 : Processo 4741612 HwPF - Pagefile3
+909 : Processo 4741612 HwPF - Pagefile4
+909 : Processo 4741612 liberando pagefile alocado
+909 : Processo 4741612 Pronto -> Exec
+910 : Processo 4741612 Exec -> Pronto por tempo
+911 : Processo 4741718 swap in
+911 : Processo 4741718 HwPF - Pagefile0
+911 : Processo 4741718 HwPF - Pagefile1
+911 : Lista de pags livres menor que80%
+911 : Iniciando Swap
+911 : Processo 4741612 pronto outswapped
+911 : Processo 4741718 HwPF - Pagefile2
+911 : Processo 4741718 HwPF - Pagefile3
+911 : Processo 4741718 HwPF - Pagefile4
+911 : Processo 4741718 liberando pagefile alocado
+911 : Processo 4741718 Pronto -> Exec
+912 : Processo 4741718 Exec -> Pronto por tempo
+913 : Processo 4740980 swap in
+913 : Processo 4740980 HwPF - Pagefile0
+913 : Processo 4740980 HwPF - Pagefile1
+913 : Lista de pags livres menor que80%
+913 : Iniciando Swap
+913 : Processo 4741718 pronto outswapped
+913 : Processo 4740980 HwPF - Pagefile2
+913 : Processo 4740980 HwPF - Pagefile3
+913 : Processo 4740980 HwPF - Pagefile4
+913 : Processo 4740980 liberando pagefile alocado
+913 : Processo 4740980 Pronto -> Exec
+914 : Processo 4740980 Exec -> Pronto por tempo
+915 : Processo 4741084 swap in
+915 : Processo 4741084 HwPF - Pagefile0
+915 : Processo 4741084 HwPF - Pagefile1
+915 : Lista de pags livres menor que80%
+915 : Iniciando Swap
+915 : Processo 4740980 pronto outswapped
+915 : Processo 4741084 HwPF - Pagefile2
+915 : Processo 4741084 HwPF - Pagefile3
+915 : Processo 4741084 HwPF - Pagefile4
+915 : Processo 4741084 liberando pagefile alocado
+915 : Processo 4741084 Pronto -> Exec
+916 : Processo 4741084 Exec -> Pronto por tempo
+917 : Processo 4740877 swap in
+917 : Processo 4740877 HwPF - Pagefile0
+917 : Processo 4740877 HwPF - Pagefile1
+917 : Lista de pags livres menor que80%
+917 : Iniciando Swap
+917 : Processo 4741084 pronto outswapped
+917 : Processo 4740877 HwPF - Pagefile2
+917 : Processo 4740877 HwPF - Pagefile3
+917 : Processo 4740877 HwPF - Pagefile4
+917 : Processo 4740877 liberando pagefile alocado
+917 : Processo 4740877 Pronto -> Exec
+918 : Processo 4740877 Exec -> Pronto por tempo
+919 : Processo 4741189 Pronto -> Exec
+920 : Processo 4741189 Exec -> Pronto por tempo
+921 : Processo 4741295 Pronto -> Exec
+922 : Processo 4741295 Exec -> Pronto por tempo
+923 : Processo 4741402 Pronto -> Exec
+924 : Processo 4741402 Exec -> Pronto por tempo
+925 : Processo 4741506 swap in
+925 : Processo 4741506 HwPF - Pagefile0
+925 : Processo 4741506 HwPF - Pagefile1
+925 : Lista de pags livres menor que80%
+925 : Iniciando Swap
+925 : Processo 4741402 pronto outswapped
+925 : Processo 4741506 HwPF - Pagefile2
+925 : Processo 4741506 HwPF - Pagefile3
+925 : Processo 4741506 HwPF - Pagefile4
+925 : Processo 4741506 liberando pagefile alocado
+925 : Processo 4741506 Pronto -> Exec
+926 : Processo 4741506 Exec -> Pronto por tempo
+927 : Processo 4741612 swap in
+927 : Processo 4741612 HwPF - Pagefile0
+927 : Processo 4741612 HwPF - Pagefile1
+927 : Lista de pags livres menor que80%
+927 : Iniciando Swap
+927 : Processo 4741506 pronto outswapped
+927 : Processo 4741612 HwPF - Pagefile2
+927 : Processo 4741612 HwPF - Pagefile3
+927 : Processo 4741612 HwPF - Pagefile4
+927 : Processo 4741612 liberando pagefile alocado
+927 : Processo 4741612 Pronto -> Exec
+928 : Processo 4741612 Exec -> Pronto por tempo
+929 : Processo 4741718 swap in
+929 : Processo 4741718 HwPF - Pagefile0
+929 : Processo 4741718 HwPF - Pagefile1
+929 : Lista de pags livres menor que80%
+929 : Iniciando Swap
+929 : Processo 4741612 pronto outswapped
+930 : Processo 4741718 HwPF - Pagefile2
+930 : Processo 4741718 HwPF - Pagefile3
+930 : Processo 4741718 HwPF - Pagefile4
+930 : Processo 4741718 liberando pagefile alocado
+930 : Processo 4741718 Pronto -> Exec
+930 : Processo 4741718 Exec -> Pronto por tempo
+931 : Processo 4740980 swap in
+931 : Processo 4740980 HwPF - Pagefile0
+931 : Processo 4740980 HwPF - Pagefile1
+931 : Lista de pags livres menor que80%
+931 : Iniciando Swap
+931 : Processo 4741718 pronto outswapped
+932 : Processo 4740980 HwPF - Pagefile2
+932 : Processo 4740980 HwPF - Pagefile3
+932 : Processo 4740980 HwPF - Pagefile4
+932 : Processo 4740980 liberando pagefile alocado
+932 : Processo 4740980 Pronto -> Exec
+932 : Processo 4740980 Exec -> Pronto por tempo
+933 : Processo 4741084 swap in
+933 : Processo 4741084 HwPF - Pagefile0
+933 : Processo 4741084 HwPF - Pagefile1
+933 : Lista de pags livres menor que80%
+933 : Iniciando Swap
+933 : Processo 4740980 pronto outswapped
+934 : Processo 4741084 HwPF - Pagefile2
+934 : Processo 4741084 HwPF - Pagefile3
+934 : Processo 4741084 HwPF - Pagefile4
+934 : Processo 4741084 liberando pagefile alocado
+934 : Processo 4741084 Pronto -> Exec
+934 : Processo 4741084 Exec -> Pronto por tempo
+935 : Processo 5431903 swap in
+935 : Processo 5431903 HwPF - Pagefile0
+935 : Processo 5431903 liberando pagefile alocado
+935 : Processo 5431903 Pronto -> Exec
+936 : Processo 5431903 Exec -> Page Fault1
+937 : Processo 4740877 Pronto -> Exec
+938 : Processo 4740877 Exec -> Pronto por tempo
+939 : Processo 4741189 Pronto -> Exec
+940 : Processo 4741189 Exec -> Pronto por tempo
+941 : Processo 4741295 Pronto -> Exec
+942 : Processo 4741295 Exec -> Pronto por tempo
+943 : Processo 4741402 swap in
+943 : Processo 4741402 HwPF - Pagefile0
+943 : Lista de pags livres menor que80%
+943 : Iniciando Swap
+943 : Processo 5431903 page fault outswapped
+943 : Processo 4741402 HwPF - Pagefile1
+943 : Lista de pags livres menor que80%
+943 : Iniciando Swap
+943 : Processo 4741295 pronto outswapped
+944 : Processo 4741402 HwPF - Pagefile2
+944 : Processo 4741402 HwPF - Pagefile3
+944 : Processo 4741402 HwPF - Pagefile4
+944 : Processo 4741402 liberando pagefile alocado
+944 : Processo 4741402 Pronto -> Exec
+944 : Processo 4741402 Exec -> Pronto por tempo
+945 : Processo 4741506 swap in
+945 : Processo 4741506 HwPF - Pagefile0
+945 : Processo 4741506 HwPF - Pagefile1
+945 : Lista de pags livres menor que80%
+945 : Iniciando Swap
+945 : Processo 4741402 pronto outswapped
+946 : Processo 4741506 HwPF - Pagefile2
+946 : Processo 4741506 HwPF - Pagefile3
+946 : Processo 4741506 HwPF - Pagefile4
+946 : Processo 4741506 liberando pagefile alocado
+946 : Processo 4741506 Pronto -> Exec
+946 : Processo 4741506 Exec -> Pronto por tempo
+947 : Processo 4741612 swap in
+947 : Processo 4741612 HwPF - Pagefile0
+947 : Processo 4741612 HwPF - Pagefile1
+947 : Lista de pags livres menor que80%
+947 : Iniciando Swap
+947 : Processo 4741506 pronto outswapped
+947 : Processo 4741612 HwPF - Pagefile2
+948 : Processo 4741612 HwPF - Pagefile3
+948 : Processo 4741612 HwPF - Pagefile4
+948 : Processo 4741612 liberando pagefile alocado
+948 : Processo 4741612 Pronto -> Exec
+948 : Processo 4741612 Exec -> Pronto por tempo
+949 : Processo 4741718 swap in
+949 : Processo 4741718 HwPF - Pagefile0
+949 : Processo 4741718 HwPF - Pagefile1
+949 : Lista de pags livres menor que80%
+949 : Iniciando Swap
+949 : Processo 4741612 pronto outswapped
+950 : Processo 4741718 HwPF - Pagefile2
+950 : Processo 4741718 HwPF - Pagefile3
+950 : Processo 4741718 HwPF - Pagefile4
+950 : Processo 4741718 liberando pagefile alocado
+950 : Processo 4741718 Pronto -> Exec
+950 : Processo 4741718 Exec -> Pronto por tempo
+951 : Processo 4740980 swap in
+951 : Processo 4740980 HwPF - Pagefile0
+951 : Processo 4740980 HwPF - Pagefile1
+951 : Lista de pags livres menor que80%
+951 : Iniciando Swap
+951 : Processo 4741718 pronto outswapped
+952 : Processo 4740980 HwPF - Pagefile2
+952 : Processo 4740980 HwPF - Pagefile3
+952 : Processo 4740980 HwPF - Pagefile4
+952 : Processo 4740980 liberando pagefile alocado
+952 : Processo 4740980 Pronto -> Exec
+952 : Processo 4740980 Exec -> Pronto por tempo
+953 : Processo 4741084 Pronto -> Exec
+954 : Processo 4741084 Exec -> Pronto por tempo
+955 : Processo 4740877 Pronto -> Exec
+956 : Processo 4740877 Exec -> Pronto por tempo
+957 : Processo 4741189 Pronto -> Exec
+958 : Processo 4741189 Exec -> Pronto por tempo
+959 : Processo 4741295 swap in
+959 : Processo 4741295 HwPF - Pagefile0
+959 : Processo 4741295 HwPF - Pagefile1
+959 : Lista de pags livres menor que80%
+959 : Iniciando Swap
+959 : Processo 4741189 pronto outswapped
+960 : Processo 4741295 HwPF - Pagefile2
+960 : Processo 4741295 HwPF - Pagefile3
+960 : Processo 4741295 HwPF - Pagefile4
+960 : Processo 4741295 liberando pagefile alocado
+960 : Processo 4741295 Pronto -> Exec
+960 : Processo 4741295 Exec -> Pronto por tempo
+961 : Processo 4741402 swap in
+961 : Processo 4741402 HwPF - Pagefile0
+961 : Processo 4741402 HwPF - Pagefile1
+961 : Lista de pags livres menor que80%
+961 : Iniciando Swap
+961 : Processo 4741295 pronto outswapped
+961 : Processo 4741402 HwPF - Pagefile2
+961 : Processo 4741402 HwPF - Pagefile3
+961 : Processo 4741402 HwPF - Pagefile4
+961 : Processo 4741402 liberando pagefile alocado
+961 : Processo 4741402 Pronto -> Exec
+962 : Processo 4741402 Exec -> Pronto por tempo
+963 : Processo 5431903 swap in
+963 : Processo 5431903 HwPF - Pagefile0
+963 : Processo 5431903 liberando pagefile alocado
+963 : Processo 5431903 Pronto -> Exec
+964 : Processo 5431903 Exec -> Page Fault1
+965 : Processo 4741506 swap in
+965 : Processo 4741506 HwPF - Pagefile0
+965 : Lista de pags livres menor que80%
+965 : Iniciando Swap
+965 : Processo 5431903 page fault outswapped
+965 : Processo 4741506 HwPF - Pagefile1
+965 : Lista de pags livres menor que80%
+965 : Iniciando Swap
+965 : Processo 4741402 pronto outswapped
+966 : Processo 4741506 HwPF - Pagefile2
+966 : Processo 4741506 HwPF - Pagefile3
+966 : Processo 4741506 HwPF - Pagefile4
+966 : Processo 4741506 liberando pagefile alocado
+966 : Processo 4741506 Pronto -> Exec
+966 : Processo 4741506 Exec -> Pronto por tempo
+967 : Processo 4741612 swap in
+967 : Processo 4741612 HwPF - Pagefile0
+967 : Processo 4741612 HwPF - Pagefile1
+967 : Lista de pags livres menor que80%
+967 : Iniciando Swap
+967 : Processo 4741506 pronto outswapped
+968 : Processo 4741612 HwPF - Pagefile2
+968 : Processo 4741612 HwPF - Pagefile3
+968 : Processo 4741612 HwPF - Pagefile4
+968 : Processo 4741612 liberando pagefile alocado
+968 : Processo 4741612 Pronto -> Exec
+968 : Processo 4741612 Exec -> Pronto por tempo
+969 : Processo 4741718 swap in
+969 : Processo 4741718 HwPF - Pagefile0
+969 : Processo 4741718 HwPF - Pagefile1
+969 : Lista de pags livres menor que80%
+969 : Iniciando Swap
+969 : Processo 4741612 pronto outswapped
+970 : Processo 4741718 HwPF - Pagefile2
+970 : Processo 4741718 HwPF - Pagefile3
+970 : Processo 4741718 HwPF - Pagefile4
+970 : Processo 4741718 liberando pagefile alocado
+970 : Processo 4741718 Pronto -> Exec
+970 : Processo 4741718 Exec -> Pronto por tempo
+971 : Processo 4740980 Pronto -> Exec
+972 : Processo 4740980 Exec -> Pronto por tempo
+973 : Processo 4741084 Pronto -> Exec
+974 : Processo 4741084 Exec -> Pronto por tempo
+975 : Processo 4740877 Pronto -> Exec
+976 : Processo 4740877 Exec -> Pronto por tempo
+977 : Processo 4741189 swap in
+977 : Processo 4741189 HwPF - Pagefile0
+977 : Processo 4741189 HwPF - Pagefile1
+977 : Lista de pags livres menor que80%
+977 : Iniciando Swap
+977 : Processo 4740877 pronto outswapped
+978 : Processo 4741189 HwPF - Pagefile2
+978 : Processo 4741189 HwPF - Pagefile3
+978 : Processo 4741189 HwPF - Pagefile4
+978 : Processo 4741189 liberando pagefile alocado
+978 : Processo 4741189 Pronto -> Exec
+978 : Processo 4741189 Exec -> Pronto por tempo
+979 : Processo 4741295 swap in
+979 : Processo 4741295 HwPF - Pagefile0
+979 : Processo 4741295 HwPF - Pagefile1
+979 : Lista de pags livres menor que80%
+979 : Iniciando Swap
+979 : Processo 4741189 pronto outswapped
+980 : Processo 4741295 HwPF - Pagefile2
+980 : Processo 4741295 HwPF - Pagefile3
+980 : Processo 4741295 HwPF - Pagefile4
+980 : Processo 4741295 liberando pagefile alocado
+980 : Processo 4741295 Pronto -> Exec
+980 : Processo 4741295 Exec -> Pronto por tempo
+981 : Processo 4741402 swap in
+981 : Processo 4741402 HwPF - Pagefile0
+981 : Processo 4741402 HwPF - Pagefile1
+981 : Lista de pags livres menor que80%
+981 : Iniciando Swap
+981 : Processo 4741295 pronto outswapped
+981 : Processo 4741402 HwPF - Pagefile2
+982 : Processo 4741402 HwPF - Pagefile3
+982 : Processo 4741402 HwPF - Pagefile4
+982 : Processo 4741402 liberando pagefile alocado
+982 : Processo 4741402 Pronto -> Exec
+982 : Processo 4741402 Exec -> Pronto por tempo
+983 : Processo 4741506 swap in
+983 : Processo 4741506 HwPF - Pagefile0
+983 : Processo 4741506 HwPF - Pagefile1
+983 : Lista de pags livres menor que80%
+983 : Iniciando Swap
+983 : Processo 4741402 pronto outswapped
+983 : Processo 4741506 HwPF - Pagefile2
+984 : Processo 4741506 HwPF - Pagefile3
+984 : Processo 4741506 HwPF - Pagefile4
+984 : Processo 4741506 liberando pagefile alocado
+984 : Processo 4741506 Pronto -> Exec
+984 : Processo 4741506 Exec -> Pronto por tempo
+985 : Processo 4741612 swap in
+985 : Processo 4741612 HwPF - Pagefile0
+985 : Processo 4741612 HwPF - Pagefile1
+985 : Lista de pags livres menor que80%
+985 : Iniciando Swap
+985 : Processo 4741506 pronto outswapped
+986 : Processo 4741612 HwPF - Pagefile2
+986 : Processo 4741612 HwPF - Pagefile3
+986 : Processo 4741612 HwPF - Pagefile4
+986 : Processo 4741612 liberando pagefile alocado
+986 : Processo 4741612 Pronto -> Exec
+986 : Processo 4741612 Exec -> Pronto por tempo
+987 : Processo 4741718 Pronto -> Exec
+988 : Processo 4741718 Exec -> Pronto por tempo
+989 : Processo 4740980 Pronto -> Exec
+990 : Processo 4740980 Exec -> Pronto por tempo
+991 : Processo 4741084 Pronto -> Exec
+992 : Processo 4741084 Exec -> Pronto por tempo
+993 : Processo 5431903 swap in
+993 : Processo 5431903 HwPF - Pagefile0
+993 : Processo 5431903 liberando pagefile alocado
+993 : Processo 5431903 Pronto -> Exec
+994 : Processo 5431903 Exec -> Page Fault1
+995 : Processo 4740877 swap in
+995 : Processo 4740877 HwPF - Pagefile0
+995 : Lista de pags livres menor que80%
+995 : Iniciando Swap
+995 : Processo 5431903 page fault outswapped
+995 : Processo 4740877 HwPF - Pagefile1
+995 : Lista de pags livres menor que80%
+995 : Iniciando Swap
+995 : Processo 4741084 pronto outswapped
+995 : Processo 4740877 HwPF - Pagefile2
+995 : Processo 4740877 HwPF - Pagefile3
+995 : Processo 4740877 HwPF - Pagefile4
+995 : Processo 4740877 liberando pagefile alocado
+995 : Processo 4740877 Pronto -> Exec
+996 : Processo 4740877 Exec -> Pronto por tempo
+997 : Processo 4741189 swap in
+997 : Processo 4741189 HwPF - Pagefile0
+997 : Processo 4741189 HwPF - Pagefile1
+997 : Lista de pags livres menor que80%
+997 : Iniciando Swap
+997 : Processo 4740877 pronto outswapped
+998 : Processo 4741189 HwPF - Pagefile2
+998 : Processo 4741189 HwPF - Pagefile3
+998 : Processo 4741189 HwPF - Pagefile4
+998 : Processo 4741189 liberando pagefile alocado
+998 : Processo 4741189 Pronto -> Exec
+998 : Processo 4741189 Exec -> Pronto por tempo
+999 : Processo 4741295 swap in
+999 : Processo 4741295 HwPF - Pagefile0
+999 : Processo 4741295 HwPF - Pagefile1
+999 : Lista de pags livres menor que80%
+999 : Iniciando Swap
+999 : Processo 4741189 pronto outswapped
+999 : Processo 4741295 HwPF - Pagefile2
+999 : Processo 4741295 HwPF - Pagefile3
+999 : Processo 4741295 HwPF - Pagefile4
+999 : Processo 4741295 liberando pagefile alocado
+999 : Processo 4741295 Pronto -> Exec
+1000 : Processo 4741295 Exec -> Pronto por tempo
+1001 : Processo 4741402 swap in
+1001 : Processo 4741402 HwPF - Pagefile0
+1001 : Processo 4741402 HwPF - Pagefile1
+1001 : Lista de pags livres menor que80%
+1001 : Iniciando Swap
+1001 : Processo 4741295 pronto outswapped
+1002 : Processo 4741402 HwPF - Pagefile2
+1002 : Processo 4741402 HwPF - Pagefile3
+1002 : Processo 4741402 HwPF - Pagefile4
+1002 : Processo 4741402 liberando pagefile alocado
+1002 : Processo 4741402 Pronto -> Exec
+1002 : Processo 4741402 Exec -> Pronto por tempo
+1003 : Processo 4741506 swap in
+1003 : Processo 4741506 HwPF - Pagefile0
+1003 : Processo 4741506 HwPF - Pagefile1
+1003 : Lista de pags livres menor que80%
+1003 : Iniciando Swap
+1003 : Processo 4741402 pronto outswapped
+1004 : Processo 4741506 HwPF - Pagefile2
+1004 : Processo 4741506 HwPF - Pagefile3
+1004 : Processo 4741506 HwPF - Pagefile4
+1004 : Processo 4741506 liberando pagefile alocado
+1004 : Processo 4741506 Pronto -> Exec
+1004 : Processo 4741506 Exec -> Pronto por tempo
+1005 : Processo 4741612 Pronto -> Exec
+1006 : Processo 4741612 Exec -> Pronto por tempo
+1007 : Processo 4741718 Pronto -> Exec
+1008 : Processo 4741718 Exec -> Pronto por tempo
+1009 : Processo 4740980 Pronto -> Exec
+1010 : Processo 4740980 Exec -> Pronto por tempo
+1011 : Processo 4741084 swap in
+1011 : Processo 4741084 HwPF - Pagefile0
+1011 : Processo 4741084 HwPF - Pagefile1
+1011 : Lista de pags livres menor que80%
+1011 : Iniciando Swap
+1011 : Processo 4740980 pronto outswapped
+1012 : Processo 4741084 HwPF - Pagefile2
+1012 : Processo 4741084 HwPF - Pagefile3
+1012 : Processo 4741084 HwPF - Pagefile4
+1012 : Processo 4741084 liberando pagefile alocado
+1012 : Processo 4741084 Pronto -> Exec
+1012 : Processo 4741084 Exec -> Pronto por tempo
+1013 : Processo 4740877 swap in
+1013 : Processo 4740877 HwPF - Pagefile0
+1013 : Processo 4740877 HwPF - Pagefile1
+1013 : Lista de pags livres menor que80%
+1013 : Iniciando Swap
+1013 : Processo 4741084 pronto outswapped
+1013 : Processo 4740877 HwPF - Pagefile2
+1013 : Processo 4740877 HwPF - Pagefile3
+1013 : Processo 4740877 HwPF - Pagefile4
+1013 : Processo 4740877 liberando pagefile alocado
+1013 : Processo 4740877 Pronto -> Exec
+1014 : Processo 4740877 Exec -> Pronto por tempo
+1015 : Processo 4741189 swap in
+1015 : Processo 4741189 HwPF - Pagefile0
+1015 : Processo 4741189 HwPF - Pagefile1
+1015 : Lista de pags livres menor que80%
+1015 : Iniciando Swap
+1015 : Processo 4740877 pronto outswapped
+1016 : Processo 4741189 HwPF - Pagefile2
+1016 : Processo 4741189 HwPF - Pagefile3
+1016 : Processo 4741189 HwPF - Pagefile4
+1016 : Processo 4741189 liberando pagefile alocado
+1016 : Processo 4741189 Pronto -> Exec
+1016 : Processo 4741189 Exec -> Pronto por tempo
+1017 : Processo 4741295 swap in
+1017 : Processo 4741295 HwPF - Pagefile0
+1017 : Processo 4741295 HwPF - Pagefile1
+1017 : Lista de pags livres menor que80%
+1017 : Iniciando Swap
+1017 : Processo 4741189 pronto outswapped
+1017 : Processo 4741295 HwPF - Pagefile2
+1017 : Processo 4741295 HwPF - Pagefile3
+1017 : Processo 4741295 HwPF - Pagefile4
+1017 : Processo 4741295 liberando pagefile alocado
+1017 : Processo 4741295 Pronto -> Exec
+1018 : Processo 4741295 Exec -> Pronto por tempo
+1019 : Processo 4741402 swap in
+1019 : Processo 4741402 HwPF - Pagefile0
+1019 : Processo 4741402 HwPF - Pagefile1
+1019 : Lista de pags livres menor que80%
+1019 : Iniciando Swap
+1019 : Processo 4741295 pronto outswapped
+1020 : Processo 4741402 HwPF - Pagefile2
+1020 : Processo 4741402 HwPF - Pagefile3
+1020 : Processo 4741402 HwPF - Pagefile4
+1020 : Processo 4741402 liberando pagefile alocado
+1020 : Processo 4741402 Pronto -> Exec
+1021 : Processo 4741402 Exec -> Pronto por tempo
+1022 : Processo 5431903 swap in
+1022 : Processo 5431903 HwPF - Pagefile0
+1022 : Processo 5431903 liberando pagefile alocado
+1022 : Processo 5431903 Pronto -> Exec
+1023 : Processo 5431903 Exec -> Page Fault1
+1024 : Processo 4741506 Pronto -> Exec
+1025 : Processo 4741506 Exec -> Pronto por tempo
+1026 : Processo 4741612 Pronto -> Exec
+1027 : Processo 4741612 Exec -> Pronto por tempo
+1028 : Processo 4741718 Pronto -> Exec
+1029 : Processo 4741718 Exec -> Pronto por tempo
+1030 : Processo 4740980 swap in
+1030 : Processo 4740980 HwPF - Pagefile0
+1030 : Lista de pags livres menor que80%
+1030 : Iniciando Swap
+1030 : Processo 5431903 page fault outswapped
+1030 : Processo 4740980 HwPF - Pagefile1
+1030 : Lista de pags livres menor que80%
+1030 : Iniciando Swap
+1030 : Processo 4741718 pronto outswapped
+1030 : Processo 4740980 HwPF - Pagefile2
+1030 : Processo 4740980 HwPF - Pagefile3
+1030 : Processo 4740980 HwPF - Pagefile4
+1030 : Processo 4740980 liberando pagefile alocado
+1030 : Processo 4740980 Pronto -> Exec
+1031 : Processo 4740980 Exec -> Pronto por tempo
+1032 : Processo 4741084 swap in
+1032 : Processo 4741084 HwPF - Pagefile0
+1032 : Processo 4741084 HwPF - Pagefile1
+1032 : Lista de pags livres menor que80%
+1032 : Iniciando Swap
+1032 : Processo 4740980 pronto outswapped
+1032 : Processo 4741084 HwPF - Pagefile2
+1032 : Processo 4741084 HwPF - Pagefile3
+1033 : Processo 4741084 HwPF - Pagefile4
+1033 : Processo 4741084 liberando pagefile alocado
+1033 : Processo 4741084 Pronto -> Exec
+1033 : Processo 4741084 Exec -> Pronto por tempo
+1034 : Processo 4740877 swap in
+1034 : Processo 4740877 HwPF - Pagefile0
+1034 : Processo 4740877 HwPF - Pagefile1
+1034 : Lista de pags livres menor que80%
+1034 : Iniciando Swap
+1034 : Processo 4741084 pronto outswapped
+1034 : Processo 4740877 HwPF - Pagefile2
+1034 : Processo 4740877 HwPF - Pagefile3
+1034 : Processo 4740877 HwPF - Pagefile4
+1034 : Processo 4740877 liberando pagefile alocado
+1034 : Processo 4740877 Pronto -> Exec
+1035 : Processo 4740877 Exec -> Pronto por tempo
+1036 : Processo 4741189 swap in
+1036 : Processo 4741189 HwPF - Pagefile0
+1036 : Processo 4741189 HwPF - Pagefile1
+1036 : Lista de pags livres menor que80%
+1036 : Iniciando Swap
+1036 : Processo 4740877 pronto outswapped
+1037 : Processo 4741189 HwPF - Pagefile2
+1037 : Processo 4741189 HwPF - Pagefile3
+1037 : Processo 4741189 HwPF - Pagefile4
+1037 : Processo 4741189 liberando pagefile alocado
+1037 : Processo 4741189 Pronto -> Exec
+1037 : Processo 4741189 Exec -> Pronto por tempo
+1038 : Processo 4741295 swap in
+1038 : Processo 4741295 HwPF - Pagefile0
+1038 : Processo 4741295 HwPF - Pagefile1
+1038 : Lista de pags livres menor que80%
+1038 : Iniciando Swap
+1038 : Processo 4741189 pronto outswapped
+1038 : Processo 4741295 HwPF - Pagefile2
+1038 : Processo 4741295 HwPF - Pagefile3
+1039 : Processo 4741295 HwPF - Pagefile4
+1039 : Processo 4741295 liberando pagefile alocado
+1039 : Processo 4741295 Pronto -> Exec
+1039 : Processo 4741295 Exec -> Pronto por tempo
+1040 : Processo 4741402 Pronto -> Exec
+1041 : Processo 4741402 Exec -> Pronto por tempo
+1042 : Processo 4741506 Pronto -> Exec
+1043 : Processo 4741506 Exec -> Pronto por tempo
+1044 : Processo 4741612 Pronto -> Exec
+1045 : Processo 4741612 Exec -> Pronto por tempo
+1046 : Processo 4741718 swap in
+1046 : Processo 4741718 HwPF - Pagefile0
+1046 : Processo 4741718 HwPF - Pagefile1
+1046 : Lista de pags livres menor que80%
+1046 : Iniciando Swap
+1046 : Processo 4741612 pronto outswapped
+1047 : Processo 4741718 HwPF - Pagefile2
+1047 : Processo 4741718 HwPF - Pagefile3
+1047 : Processo 4741718 HwPF - Pagefile4
+1047 : Processo 4741718 liberando pagefile alocado
+1047 : Processo 4741718 Pronto -> Exec
+1047 : Processo 4741718 Exec -> Pronto por tempo
+1048 : Processo 4740980 swap in
+1048 : Processo 4740980 HwPF - Pagefile0
+1048 : Processo 4740980 HwPF - Pagefile1
+1048 : Lista de pags livres menor que80%
+1048 : Iniciando Swap
+1048 : Processo 4741718 pronto outswapped
+1048 : Processo 4740980 HwPF - Pagefile2
+1048 : Processo 4740980 HwPF - Pagefile3
+1049 : Processo 4740980 HwPF - Pagefile4
+1049 : Processo 4740980 liberando pagefile alocado
+1049 : Processo 4740980 Pronto -> Exec
+1049 : Processo 4740980 Exec -> Pronto por tempo
+1050 : Processo 5431903 swap in
+1050 : Processo 5431903 HwPF - Pagefile0
+1050 : Processo 5431903 liberando pagefile alocado
+1050 : Processo 5431903 Pronto -> Exec
+1051 : Processo 5431903 Exec -> Page Fault1
+1052 : Processo 4741084 swap in
+1052 : Processo 4741084 HwPF - Pagefile0
+1052 : Lista de pags livres menor que80%
+1052 : Iniciando Swap
+1052 : Processo 5431903 page fault outswapped
+1052 : Processo 4741084 HwPF - Pagefile1
+1052 : Lista de pags livres menor que80%
+1052 : Iniciando Swap
+1052 : Processo 4740980 pronto outswapped
+1053 : Processo 4741084 HwPF - Pagefile2
+1053 : Processo 4741084 HwPF - Pagefile3
+1054 : Processo 4741084 HwPF - Pagefile4
+1054 : Processo 4741084 liberando pagefile alocado
+1054 : Processo 4741084 Pronto -> Exec
+1054 : Processo 4741084 Exec -> Pronto por tempo
+1055 : Processo 4740877 swap in
+1055 : Processo 4740877 HwPF - Pagefile0
+1055 : Processo 4740877 HwPF - Pagefile1
+1055 : Lista de pags livres menor que80%
+1055 : Iniciando Swap
+1055 : Processo 4741084 pronto outswapped
+1056 : Processo 4740877 HwPF - Pagefile2
+1056 : Processo 4740877 HwPF - Pagefile3
+1056 : Processo 4740877 HwPF - Pagefile4
+1056 : Processo 4740877 liberando pagefile alocado
+1056 : Processo 4740877 Pronto -> Exec
+1056 : Processo 4740877 Exec -> Pronto por tempo
+1057 : Processo 4741189 swap in
+1057 : Processo 4741189 HwPF - Pagefile0
+1057 : Processo 4741189 HwPF - Pagefile1
+1057 : Lista de pags livres menor que80%
+1057 : Iniciando Swap
+1057 : Processo 4740877 pronto outswapped
+1057 : Processo 4741189 HwPF - Pagefile2
+1057 : Processo 4741189 HwPF - Pagefile3
+1057 : Processo 4741189 HwPF - Pagefile4
+1057 : Processo 4741189 liberando pagefile alocado
+1057 : Processo 4741189 Pronto -> Exec
+1058 : Processo 4741189 Exec -> Pronto por tempo
+1059 : Processo 4741295 Pronto -> Exec
+1060 : Processo 4741295 Exec -> Pronto por tempo
+1061 : Processo 4741402 Pronto -> Exec
+1062 : Processo 4741402 Exec -> Pronto por tempo
+1063 : Processo 4741506 Pronto -> Exec
+1064 : Processo 4741506 Exec -> Pronto por tempo
+1065 : Processo 4741612 swap in
+1065 : Processo 4741612 HwPF - Pagefile0
+1065 : Processo 4741612 HwPF - Pagefile1
+1065 : Lista de pags livres menor que80%
+1065 : Iniciando Swap
+1065 : Processo 4741506 pronto outswapped
+1066 : Processo 4741612 HwPF - Pagefile2
+1066 : Processo 4741612 HwPF - Pagefile3
+1066 : Processo 4741612 HwPF - Pagefile4
+1066 : Processo 4741612 liberando pagefile alocado
+1066 : Processo 4741612 Pronto -> Exec
+1066 : Processo 4741612 Exec -> Pronto por tempo
+1067 : Processo 4741718 swap in
+1067 : Processo 4741718 HwPF - Pagefile0
+1067 : Processo 4741718 HwPF - Pagefile1
+1067 : Lista de pags livres menor que80%
+1067 : Iniciando Swap
+1067 : Processo 4741612 pronto outswapped
+1068 : Processo 4741718 HwPF - Pagefile2
+1068 : Processo 4741718 HwPF - Pagefile3
+1068 : Processo 4741718 HwPF - Pagefile4
+1068 : Processo 4741718 liberando pagefile alocado
+1068 : Processo 4741718 Pronto -> Exec
+1068 : Processo 4741718 Exec -> Pronto por tempo
+1069 : Processo 4740980 swap in
+1069 : Processo 4740980 HwPF - Pagefile0
+1069 : Processo 4740980 HwPF - Pagefile1
+1069 : Lista de pags livres menor que80%
+1069 : Iniciando Swap
+1069 : Processo 4741718 pronto outswapped
+1069 : Processo 4740980 HwPF - Pagefile2
+1070 : Processo 4740980 HwPF - Pagefile3
+1070 : Processo 4740980 HwPF - Pagefile4
+1070 : Processo 4740980 liberando pagefile alocado
+1070 : Processo 4740980 Pronto -> Exec
+1070 : Processo 4740980 Exec -> Pronto por tempo
+1071 : Processo 4741084 swap in
+1071 : Processo 4741084 HwPF - Pagefile0
+1071 : Processo 4741084 HwPF - Pagefile1
+1071 : Lista de pags livres menor que80%
+1071 : Iniciando Swap
+1071 : Processo 4740980 pronto outswapped
+1071 : Processo 4741084 HwPF - Pagefile2
+1072 : Processo 4741084 HwPF - Pagefile3
+1072 : Processo 4741084 HwPF - Pagefile4
+1072 : Processo 4741084 liberando pagefile alocado
+1072 : Processo 4741084 Pronto -> Exec
+1072 : Processo 4741084 Exec -> Pronto por tempo
+1073 : Processo 4740877 swap in
+1073 : Processo 4740877 HwPF - Pagefile0
+1073 : Processo 4740877 HwPF - Pagefile1
+1073 : Lista de pags livres menor que80%
+1073 : Iniciando Swap
+1073 : Processo 4741084 pronto outswapped
+1074 : Processo 4740877 HwPF - Pagefile2
+1074 : Processo 4740877 HwPF - Pagefile3
+1074 : Processo 4740877 HwPF - Pagefile4
+1074 : Processo 4740877 liberando pagefile alocado
+1074 : Processo 4740877 Pronto -> Exec
+1074 : Processo 4740877 Exec -> Pronto por tempo
+1075 : Processo 4741189 Pronto -> Exec
+1076 : Processo 4741189 Exec -> Pronto por tempo
+1077 : Processo 4741295 Pronto -> Exec
+1078 : Processo 4741295 Exec -> Pronto por tempo
+1079 : Processo 5431903 swap in
+1079 : Processo 5431903 HwPF - Pagefile0
+1079 : Processo 5431903 liberando pagefile alocado
+1079 : Processo 5431903 Pronto -> Exec
+1080 : Processo 5431903 Exec -> Page Fault1
+1081 : Processo 4741402 Pronto -> Exec
+1082 : Processo 4741402 Exec -> Pronto por tempo
+1083 : Processo 4741506 swap in
+1083 : Processo 4741506 HwPF - Pagefile0
+1083 : Lista de pags livres menor que80%
+1083 : Iniciando Swap
+1083 : Processo 5431903 page fault outswapped
+1083 : Processo 4741506 HwPF - Pagefile1
+1083 : Lista de pags livres menor que80%
+1083 : Iniciando Swap
+1083 : Processo 4741402 pronto outswapped
+1084 : Processo 4741506 HwPF - Pagefile2
+1084 : Processo 4741506 HwPF - Pagefile3
+1084 : Processo 4741506 HwPF - Pagefile4
+1084 : Processo 4741506 liberando pagefile alocado
+1084 : Processo 4741506 Pronto -> Exec
+1084 : Processo 4741506 Exec -> Pronto por tempo
+1085 : Processo 4741612 swap in
+1085 : Processo 4741612 HwPF - Pagefile0
+1085 : Processo 4741612 HwPF - Pagefile1
+1085 : Lista de pags livres menor que80%
+1085 : Iniciando Swap
+1085 : Processo 4741506 pronto outswapped
+1086 : Processo 4741612 HwPF - Pagefile2
+1086 : Processo 4741612 HwPF - Pagefile3
+1086 : Processo 4741612 HwPF - Pagefile4
+1086 : Processo 4741612 liberando pagefile alocado
+1086 : Processo 4741612 Pronto -> Exec
+1086 : Processo 4741612 Exec -> Pronto por tempo
+1087 : Processo 4741718 swap in
+1087 : Processo 4741718 HwPF - Pagefile0
+1087 : Processo 4741718 HwPF - Pagefile1
+1087 : Lista de pags livres menor que80%
+1087 : Iniciando Swap
+1087 : Processo 4741612 pronto outswapped
+1088 : Processo 4741718 HwPF - Pagefile2
+1088 : Processo 4741718 HwPF - Pagefile3
+1088 : Processo 4741718 HwPF - Pagefile4
+1088 : Processo 4741718 liberando pagefile alocado
+1088 : Processo 4741718 Pronto -> Exec
+1088 : Processo 4741718 Exec -> Pronto por tempo
+1089 : Processo 4740980 swap in
+1089 : Processo 4740980 HwPF - Pagefile0
+1089 : Processo 4740980 HwPF - Pagefile1
+1089 : Lista de pags livres menor que80%
+1089 : Iniciando Swap
+1089 : Processo 4741718 pronto outswapped
+1090 : Processo 4740980 HwPF - Pagefile2
+1090 : Processo 4740980 HwPF - Pagefile3
+1090 : Processo 4740980 HwPF - Pagefile4
+1090 : Processo 4740980 liberando pagefile alocado
+1090 : Processo 4740980 Pronto -> Exec
+1090 : Processo 4740980 Exec -> Pronto por tempo
+1091 : Processo 5431903 swap in
+1091 : Processo 5431903 HwPF - Pagefile0
+1091 : Processo 5431903 liberando pagefile alocado
+1091 : Processo 5431903 Pronto -> Exec
+1092 : Processo 5431903 Exec -> Page Fault1
+1093 : Processo 4741084 swap in
+1093 : Processo 4741084 HwPF - Pagefile0
+1093 : Lista de pags livres menor que80%
+1093 : Iniciando Swap
+1093 : Processo 5431903 page fault outswapped
+1093 : Processo 4741084 HwPF - Pagefile1
+1093 : Lista de pags livres menor que80%
+1093 : Iniciando Swap
+1093 : Processo 4740980 pronto outswapped
+1094 : Processo 4741084 HwPF - Pagefile2
+1094 : Processo 4741084 HwPF - Pagefile3
+1094 : Processo 4741084 HwPF - Pagefile4
+1094 : Processo 4741084 liberando pagefile alocado
+1094 : Processo 4741084 Pronto -> Exec
+1094 : Processo 4741084 Exec -> Pronto por tempo
+1095 : Processo 4740877 Pronto -> Exec
+1096 : Processo 4740877 Exec -> Pronto por tempo
+1097 : Processo 4741189 Pronto -> Exec
+1098 : Processo 4741189 Exec -> Pronto por tempo
+1099 : Processo 4741295 Pronto -> Exec
+1100 : Processo 4741295 Exec -> Pronto por tempo
+1101 : Processo 4741402 swap in
+1101 : Processo 4741402 HwPF - Pagefile0
+1101 : Processo 4741402 HwPF - Pagefile1
+1101 : Lista de pags livres menor que80%
+1101 : Iniciando Swap
+1101 : Processo 4741295 pronto outswapped
+1102 : Processo 4741402 HwPF - Pagefile2
+1102 : Processo 4741402 HwPF - Pagefile3
+1102 : Processo 4741402 HwPF - Pagefile4
+1102 : Processo 4741402 liberando pagefile alocado
+1102 : Processo 4741402 Pronto -> Exec
+1102 : Processo 4741402 Exec -> Pronto por tempo
+1103 : Processo 5431903 swap in
+1103 : Processo 5431903 HwPF - Pagefile0
+1103 : Processo 5431903 liberando pagefile alocado
+1103 : Processo 5431903 Pronto -> Exec
+1104 : Processo 5431903 Exec -> Page Fault1
+1105 : Processo 4741506 swap in
+1105 : Processo 4741506 HwPF - Pagefile0
+1105 : Lista de pags livres menor que80%
+1105 : Iniciando Swap
+1105 : Processo 5431903 page fault outswapped
+1105 : Processo 4741506 HwPF - Pagefile1
+1105 : Lista de pags livres menor que80%
+1105 : Iniciando Swap
+1105 : Processo 4741402 pronto outswapped
+1106 : Processo 4741506 HwPF - Pagefile2
+1106 : Processo 4741506 HwPF - Pagefile3
+1106 : Processo 4741506 HwPF - Pagefile4
+1106 : Processo 4741506 liberando pagefile alocado
+1106 : Processo 4741506 Pronto -> Exec
+1106 : Processo 4741506 Exec -> Pronto por tempo
+1107 : Processo 4741612 swap in
+1107 : Processo 4741612 HwPF - Pagefile0
+1107 : Processo 4741612 HwPF - Pagefile1
+1107 : Lista de pags livres menor que80%
+1107 : Iniciando Swap
+1107 : Processo 4741506 pronto outswapped
+1108 : Processo 4741612 HwPF - Pagefile2
+1108 : Processo 4741612 HwPF - Pagefile3
+1108 : Processo 4741612 HwPF - Pagefile4
+1108 : Processo 4741612 liberando pagefile alocado
+1108 : Processo 4741612 Pronto -> Exec
+1108 : Processo 4741612 Exec -> Pronto por tempo
+1109 : Processo 4741718 swap in
+1109 : Processo 4741718 HwPF - Pagefile0
+1109 : Processo 4741718 HwPF - Pagefile1
+1109 : Lista de pags livres menor que80%
+1109 : Iniciando Swap
+1109 : Processo 4741612 pronto outswapped
+1109 : Processo 4741718 HwPF - Pagefile2
+1110 : Processo 4741718 HwPF - Pagefile3
+1110 : Processo 4741718 HwPF - Pagefile4
+1110 : Processo 4741718 liberando pagefile alocado
+1110 : Processo 4741718 Pronto -> Exec
+1110 : Processo 4741718 Exec -> Pronto por tempo
+1111 : Processo 4740980 swap in
+1111 : Processo 4740980 HwPF - Pagefile0
+1111 : Processo 4740980 HwPF - Pagefile1
+1111 : Lista de pags livres menor que80%
+1111 : Iniciando Swap
+1111 : Processo 4741718 pronto outswapped
+1111 : Processo 4740980 HwPF - Pagefile2
+1111 : Processo 4740980 HwPF - Pagefile3
+1111 : Processo 4740980 HwPF - Pagefile4
+1112 : Processo 4740980 liberando pagefile alocado
+1112 : Processo 4740980 Pronto -> Exec
+1112 : Processo 4740980 Exec -> Pronto por tempo
+1113 : Processo 4741084 Pronto -> Exec
+1114 : Processo 4741084 Exec -> Pronto por tempo
+1115 : Processo 5431903 swap in
+1115 : Processo 5431903 HwPF - Pagefile0
+1115 : Processo 5431903 liberando pagefile alocado
+1115 : Processo 5431903 Pronto -> Exec
+1116 : Processo 5431903 Exec -> Page Fault1
+1117 : Processo 4740877 Pronto -> Exec
+1118 : Processo 4740877 Exec -> Pronto por tempo
+1119 : Processo 4741189 Pronto -> Exec
+1120 : Processo 4741189 Exec -> Pronto por tempo
+1121 : Processo 4741295 swap in
+1121 : Processo 4741295 HwPF - Pagefile0
+1121 : Lista de pags livres menor que80%
+1121 : Iniciando Swap
+1121 : Processo 5431903 page fault outswapped
+1121 : Processo 4741295 HwPF - Pagefile1
+1121 : Lista de pags livres menor que80%
+1121 : Iniciando Swap
+1121 : Processo 4741189 pronto outswapped
+1122 : Processo 4741295 HwPF - Pagefile2
+1122 : Processo 4741295 HwPF - Pagefile3
+1122 : Processo 4741295 HwPF - Pagefile4
+1122 : Processo 4741295 liberando pagefile alocado
+1122 : Processo 4741295 Pronto -> Exec
+1122 : Processo 4741295 Exec -> Pronto por tempo
+1123 : Processo 4741402 swap in
+1123 : Processo 4741402 HwPF - Pagefile0
+1123 : Processo 4741402 HwPF - Pagefile1
+1123 : Lista de pags livres menor que80%
+1123 : Iniciando Swap
+1123 : Processo 4741295 pronto outswapped
+1124 : Processo 4741402 HwPF - Pagefile2
+1124 : Processo 4741402 HwPF - Pagefile3
+1124 : Processo 4741402 HwPF - Pagefile4
+1124 : Processo 4741402 liberando pagefile alocado
+1124 : Processo 4741402 Pronto -> Exec
+1124 : Processo 4741402 Exec -> Pronto por tempo
+1125 : Processo 4741506 swap in
+1125 : Processo 4741506 HwPF - Pagefile0
+1125 : Processo 4741506 HwPF - Pagefile1
+1125 : Lista de pags livres menor que80%
+1125 : Iniciando Swap
+1125 : Processo 4741402 pronto outswapped
+1126 : Processo 4741506 HwPF - Pagefile2
+1126 : Processo 4741506 HwPF - Pagefile3
+1126 : Processo 4741506 HwPF - Pagefile4
+1126 : Processo 4741506 liberando pagefile alocado
+1126 : Processo 4741506 Pronto -> Exec
+1126 : Processo 4741506 Exec -> Pronto por tempo
+1127 : Processo 5431903 swap in
+1127 : Processo 5431903 HwPF - Pagefile0
+1127 : Processo 5431903 liberando pagefile alocado
+1127 : Processo 5431903 Pronto -> Exec
+1128 : Processo 5431903 Exec -> Page Fault1
+1129 : Processo 4741612 swap in
+1129 : Processo 4741612 HwPF - Pagefile0
+1129 : Lista de pags livres menor que80%
+1129 : Iniciando Swap
+1129 : Processo 5431903 page fault outswapped
+1129 : Processo 4741612 HwPF - Pagefile1
+1129 : Lista de pags livres menor que80%
+1129 : Iniciando Swap
+1129 : Processo 4741506 pronto outswapped
+1130 : Processo 4741612 HwPF - Pagefile2
+1130 : Processo 4741612 HwPF - Pagefile3
+1130 : Processo 4741612 HwPF - Pagefile4
+1130 : Processo 4741612 liberando pagefile alocado
+1130 : Processo 4741612 Pronto -> Exec
+1130 : Processo 4741612 Exec -> Pronto por tempo
+1131 : Processo 4741718 swap in
+1131 : Processo 4741718 HwPF - Pagefile0
+1131 : Processo 4741718 HwPF - Pagefile1
+1131 : Lista de pags livres menor que80%
+1131 : Iniciando Swap
+1131 : Processo 4741612 pronto outswapped
+1131 : Processo 4741718 HwPF - Pagefile2
+1131 : Processo 4741718 HwPF - Pagefile3
+1131 : Processo 4741718 HwPF - Pagefile4
+1131 : Processo 4741718 liberando pagefile alocado
+1131 : Processo 4741718 Pronto -> Exec
+1132 : Processo 4741718 Exec -> Pronto por tempo
+1133 : Processo 4740980 Pronto -> Exec
+1134 : Processo 4740980 Exec -> Pronto por tempo
+1135 : Processo 4741084 Pronto -> Exec
+1136 : Processo 4741084 Exec -> Pronto por tempo
+1137 : Processo 4740877 Pronto -> Exec
+1138 : Processo 4740877 Exec -> Pronto por tempo
+1139 : Processo 5431903 swap in
+1139 : Processo 5431903 HwPF - Pagefile0
+1139 : Processo 5431903 liberando pagefile alocado
+1139 : Processo 5431903 Pronto -> Exec
+1140 : Processo 5431903 Exec -> Page Fault1
+1141 : Processo 4741189 swap in
+1141 : Processo 4741189 HwPF - Pagefile0
+1141 : Lista de pags livres menor que80%
+1141 : Iniciando Swap
+1141 : Processo 5431903 page fault outswapped
+1141 : Processo 4741189 HwPF - Pagefile1
+1141 : Lista de pags livres menor que80%
+1141 : Iniciando Swap
+1141 : Processo 4740877 pronto outswapped
+1142 : Processo 4741189 HwPF - Pagefile2
+1142 : Processo 4741189 HwPF - Pagefile3
+1142 : Processo 4741189 HwPF - Pagefile4
+1142 : Processo 4741189 liberando pagefile alocado
+1142 : Processo 4741189 Pronto -> Exec
+1142 : Processo 4741189 Exec -> Pronto por tempo
+1143 : Processo 4741295 swap in
+1143 : Processo 4741295 HwPF - Pagefile0
+1143 : Processo 4741295 HwPF - Pagefile1
+1143 : Lista de pags livres menor que80%
+1143 : Iniciando Swap
+1143 : Processo 4741189 pronto outswapped
+1144 : Processo 4741295 HwPF - Pagefile2
+1144 : Processo 4741295 HwPF - Pagefile3
+1144 : Processo 4741295 HwPF - Pagefile4
+1144 : Processo 4741295 liberando pagefile alocado
+1144 : Processo 4741295 Pronto -> Exec
+1144 : Processo 4741295 Exec -> Pronto por tempo
+1145 : Processo 4741402 swap in
+1145 : Processo 4741402 HwPF - Pagefile0
+1145 : Processo 4741402 HwPF - Pagefile1
+1145 : Lista de pags livres menor que80%
+1145 : Iniciando Swap
+1145 : Processo 4741295 pronto outswapped
+1146 : Processo 4741402 HwPF - Pagefile2
+1146 : Processo 4741402 HwPF - Pagefile3
+1146 : Processo 4741402 HwPF - Pagefile4
+1147 : Processo 4741402 liberando pagefile alocado
+1147 : Processo 4741402 Pronto -> Exec
+1147 : Processo 4741402 Exec -> Pronto por tempo
+1148 : Processo 4741506 swap in
+1148 : Processo 4741506 HwPF - Pagefile0
+1148 : Processo 4741506 HwPF - Pagefile1
+1148 : Lista de pags livres menor que80%
+1148 : Iniciando Swap
+1148 : Processo 4741402 pronto outswapped
+1149 : Processo 4741506 HwPF - Pagefile2
+1149 : Processo 4741506 HwPF - Pagefile3
+1149 : Processo 4741506 HwPF - Pagefile4
+1149 : Processo 4741506 liberando pagefile alocado
+1149 : Processo 4741506 Pronto -> Exec
+1149 : Processo 4741506 Exec -> Pronto por tempo
+1150 : Processo 4741612 swap in
+1150 : Processo 4741612 HwPF - Pagefile0
+1150 : Processo 4741612 HwPF - Pagefile1
+1150 : Lista de pags livres menor que80%
+1150 : Iniciando Swap
+1150 : Processo 4741506 pronto outswapped
+1151 : Processo 4741612 HwPF - Pagefile2
+1151 : Processo 4741612 HwPF - Pagefile3
+1151 : Processo 4741612 HwPF - Pagefile4
+1151 : Processo 4741612 liberando pagefile alocado
+1151 : Processo 4741612 Pronto -> Exec
+1151 : Processo 4741612 Exec -> Pronto por tempo
+1152 : Processo 5431903 swap in
+1152 : Processo 5431903 HwPF - Pagefile0
+1152 : Processo 5431903 liberando pagefile alocado
+1152 : Processo 5431903 Pronto -> Exec
+1153 : Processo 5431903 Exec -> Page Fault1
+1154 : Processo 4741718 Pronto -> Exec
+1155 : Processo 4741718 Exec -> Pronto por tempo
+1156 : Processo 4740980 Pronto -> Exec
+1157 : Processo 4740980 Exec -> Pronto por tempo
+1158 : Processo 4741084 Pronto -> Exec
+1159 : Processo 4741084 Exec -> Pronto por tempo
+1160 : Processo 4740877 swap in
+1160 : Processo 4740877 HwPF - Pagefile0
+1160 : Lista de pags livres menor que80%
+1160 : Iniciando Swap
+1160 : Processo 5431903 page fault outswapped
+1160 : Processo 4740877 HwPF - Pagefile1
+1160 : Lista de pags livres menor que80%
+1160 : Iniciando Swap
+1160 : Processo 4741084 pronto outswapped
+1161 : Processo 4740877 HwPF - Pagefile2
+1161 : Processo 4740877 HwPF - Pagefile3
+1161 : Processo 4740877 HwPF - Pagefile4
+1161 : Processo 4740877 liberando pagefile alocado
+1161 : Processo 4740877 Pronto -> Exec
+1161 : Processo 4740877 Exec -> Pronto por tempo
+1162 : Processo 4741189 swap in
+1162 : Processo 4741189 HwPF - Pagefile0
+1162 : Processo 4741189 HwPF - Pagefile1
+1162 : Lista de pags livres menor que80%
+1162 : Iniciando Swap
+1162 : Processo 4740877 pronto outswapped
+1162 : Processo 4741189 HwPF - Pagefile2
+1162 : Processo 4741189 HwPF - Pagefile3
+1162 : Processo 4741189 HwPF - Pagefile4
+1162 : Processo 4741189 liberando pagefile alocado
+1162 : Processo 4741189 Pronto -> Exec
+1163 : Processo 4741189 Exec -> Pronto por tempo
+1164 : Processo 5431903 swap in
+1164 : Processo 5431903 HwPF - Pagefile0
+1164 : Processo 5431903 liberando pagefile alocado
+1164 : Processo 5431903 Pronto -> Exec
+1165 : Processo 5431903 Exec -> Page Fault1
+1166 : Processo 4741295 swap in
+1166 : Processo 4741295 HwPF - Pagefile0
+1166 : Lista de pags livres menor que80%
+1166 : Iniciando Swap
+1166 : Processo 5431903 page fault outswapped
+1166 : Processo 4741295 HwPF - Pagefile1
+1166 : Lista de pags livres menor que80%
+1166 : Iniciando Swap
+1166 : Processo 4741189 pronto outswapped
+1167 : Processo 4741295 HwPF - Pagefile2
+1167 : Processo 4741295 HwPF - Pagefile3
+1167 : Processo 4741295 HwPF - Pagefile4
+1167 : Processo 4741295 liberando pagefile alocado
+1167 : Processo 4741295 Pronto -> Exec
+1167 : Processo 4741295 Exec -> Pronto por tempo
+1168 : Processo 4741402 swap in
+1168 : Processo 4741402 HwPF - Pagefile0
+1168 : Processo 4741402 HwPF - Pagefile1
+1168 : Lista de pags livres menor que80%
+1168 : Iniciando Swap
+1168 : Processo 4741295 pronto outswapped
+1168 : Processo 4741402 HwPF - Pagefile2
+1169 : Processo 4741402 HwPF - Pagefile3
+1169 : Processo 4741402 HwPF - Pagefile4
+1169 : Processo 4741402 liberando pagefile alocado
+1169 : Processo 4741402 Pronto -> Exec
+1169 : Processo 4741402 Exec -> Pronto por tempo
+1170 : Processo 4741506 swap in
+1170 : Processo 4741506 HwPF - Pagefile0
+1170 : Processo 4741506 HwPF - Pagefile1
+1170 : Lista de pags livres menor que80%
+1170 : Iniciando Swap
+1170 : Processo 4741402 pronto outswapped
+1171 : Processo 4741506 HwPF - Pagefile2
+1171 : Processo 4741506 HwPF - Pagefile3
+1171 : Processo 4741506 HwPF - Pagefile4
+1171 : Processo 4741506 liberando pagefile alocado
+1171 : Processo 4741506 Pronto -> Exec
+1171 : Processo 4741506 Exec -> Pronto por tempo
+1172 : Processo 4741612 Pronto -> Exec
+1173 : Processo 4741612 Exec -> Pronto por tempo
+1174 : Processo 4741718 Pronto -> Exec
+1175 : Processo 4741718 Exec -> Pronto por tempo
+1176 : Processo 5431903 swap in
+1176 : Processo 5431903 HwPF - Pagefile0
+1176 : Processo 5431903 liberando pagefile alocado
+1176 : Processo 5431903 Pronto -> Exec
+1177 : Processo 5431903 Exec -> Page Fault1
+1178 : Processo 4740980 Pronto -> Exec
+1179 : Processo 4740980 Exec -> Pronto por tempo
+1180 : Processo 4741084 swap in
+1180 : Processo 4741084 HwPF - Pagefile0
+1180 : Lista de pags livres menor que80%
+1180 : Iniciando Swap
+1180 : Processo 5431903 page fault outswapped
+1180 : Processo 4741084 HwPF - Pagefile1
+1180 : Lista de pags livres menor que80%
+1180 : Iniciando Swap
+1180 : Processo 4740980 pronto outswapped
+1181 : Processo 4741084 HwPF - Pagefile2
+1181 : Processo 4741084 HwPF - Pagefile3
+1181 : Processo 4741084 HwPF - Pagefile4
+1181 : Processo 4741084 liberando pagefile alocado
+1181 : Processo 4741084 Pronto -> Exec
+1181 : Processo 4741084 Exec -> Pronto por tempo
+1182 : Processo 4740877 swap in
+1182 : Processo 4740877 HwPF - Pagefile0
+1182 : Processo 4740877 HwPF - Pagefile1
+1182 : Lista de pags livres menor que80%
+1182 : Iniciando Swap
+1182 : Processo 4741084 pronto outswapped
+1183 : Processo 4740877 HwPF - Pagefile2
+1183 : Processo 4740877 HwPF - Pagefile3
+1183 : Processo 4740877 HwPF - Pagefile4
+1183 : Processo 4740877 liberando pagefile alocado
+1183 : Processo 4740877 Pronto -> Exec
+1183 : Processo 4740877 Exec -> Pronto por tempo
+1184 : Processo 4741189 swap in
+1184 : Processo 4741189 HwPF - Pagefile0
+1184 : Processo 4741189 HwPF - Pagefile1
+1184 : Lista de pags livres menor que80%
+1184 : Iniciando Swap
+1184 : Processo 4740877 pronto outswapped
+1184 : Processo 4741189 HwPF - Pagefile2
+1184 : Processo 4741189 HwPF - Pagefile3
+1185 : Processo 4741189 HwPF - Pagefile4
+1185 : Processo 4741189 liberando pagefile alocado
+1185 : Processo 4741189 Pronto -> Exec
+1185 : Processo 4741189 Exec -> Pronto por tempo
+1186 : Processo 4741295 swap in
+1186 : Processo 4741295 HwPF - Pagefile0
+1186 : Processo 4741295 HwPF - Pagefile1
+1186 : Lista de pags livres menor que80%
+1186 : Iniciando Swap
+1186 : Processo 4741189 pronto outswapped
+1186 : Processo 4741295 HwPF - Pagefile2
+1187 : Processo 4741295 HwPF - Pagefile3
+1187 : Processo 4741295 HwPF - Pagefile4
+1187 : Processo 4741295 liberando pagefile alocado
+1187 : Processo 4741295 Pronto -> Exec
+1187 : Processo 4741295 Exec -> Pronto por tempo
+1188 : Processo 5431903 swap in
+1188 : Processo 5431903 HwPF - Pagefile0
+1188 : Processo 5431903 liberando pagefile alocado
+1188 : Processo 5431903 Pronto -> Exec
+1189 : Processo 5431903 Exec -> Page Fault1
+1190 : Processo 4741402 swap in
+1190 : Processo 4741402 HwPF - Pagefile0
+1190 : Lista de pags livres menor que80%
+1190 : Iniciando Swap
+1190 : Processo 5431903 page fault outswapped
+1190 : Processo 4741402 HwPF - Pagefile1
+1190 : Lista de pags livres menor que80%
+1190 : Iniciando Swap
+1190 : Processo 4741295 pronto outswapped
+1191 : Processo 4741402 HwPF - Pagefile2
+1191 : Processo 4741402 HwPF - Pagefile3
+1191 : Processo 4741402 HwPF - Pagefile4
+1191 : Processo 4741402 liberando pagefile alocado
+1191 : Processo 4741402 Pronto -> Exec
+1191 : Processo 4741402 Exec -> Pronto por tempo
+1192 : Processo 4741506 Pronto -> Exec
+1193 : Processo 4741506 Exec -> Pronto por tempo
+1194 : Processo 4741612 Pronto -> Exec
+1195 : Processo 4741612 Exec -> Pronto por tempo
+1196 : Processo 4741718 Pronto -> Exec
+1197 : Processo 4741718 Exec -> Pronto por tempo
+1198 : Processo 4740980 swap in
+1198 : Processo 4740980 HwPF - Pagefile0
+1198 : Processo 4740980 HwPF - Pagefile1
+1198 : Lista de pags livres menor que80%
+1198 : Iniciando Swap
+1198 : Processo 4741718 pronto outswapped
+1199 : Processo 4740980 HwPF - Pagefile2
+1199 : Processo 4740980 HwPF - Pagefile3
+1199 : Processo 4740980 HwPF - Pagefile4
+1199 : Processo 4740980 liberando pagefile alocado
+1199 : Processo 4740980 Pronto -> Exec
+1199 : Processo 4740980 Exec -> Pronto por tempo
+1200 : Processo 5431903 swap in
+1200 : Processo 5431903 HwPF - Pagefile0
+1200 : Processo 5431903 liberando pagefile alocado
+1200 : Processo 5431903 Pronto -> Exec
+1201 : Processo 5431903 Exec -> Page Fault1
+1202 : Processo 4741084 swap in
+1202 : Processo 4741084 HwPF - Pagefile0
+1202 : Lista de pags livres menor que80%
+1202 : Iniciando Swap
+1202 : Processo 5431903 page fault outswapped
+1202 : Processo 4741084 HwPF - Pagefile1
+1202 : Lista de pags livres menor que80%
+1202 : Iniciando Swap
+1202 : Processo 4740980 pronto outswapped
+1203 : Processo 4741084 HwPF - Pagefile2
+1203 : Processo 4741084 HwPF - Pagefile3
+1203 : Processo 4741084 HwPF - Pagefile4
+1203 : Processo 4741084 liberando pagefile alocado
+1203 : Processo 4741084 Pronto -> Exec
+1203 : Processo 4741084 Exec -> Pronto por tempo
+1204 : Processo 4740877 swap in
+1204 : Processo 4740877 HwPF - Pagefile0
+1204 : Processo 4740877 HwPF - Pagefile1
+1204 : Lista de pags livres menor que80%
+1204 : Iniciando Swap
+1204 : Processo 4741084 pronto outswapped
+1205 : Processo 4740877 HwPF - Pagefile2
+1205 : Processo 4740877 HwPF - Pagefile3
+1205 : Processo 4740877 HwPF - Pagefile4
+1205 : Processo 4740877 liberando pagefile alocado
+1205 : Processo 4740877 Pronto -> Exec
+1205 : Processo 4740877 Exec -> Pronto por tempo
+1206 : Processo 4741189 swap in
+1206 : Processo 4741189 HwPF - Pagefile0
+1206 : Processo 4741189 HwPF - Pagefile1
+1206 : Lista de pags livres menor que80%
+1206 : Iniciando Swap
+1206 : Processo 4740877 pronto outswapped
+1206 : Processo 4741189 HwPF - Pagefile2
+1207 : Processo 4741189 HwPF - Pagefile3
+1207 : Processo 4741189 HwPF - Pagefile4
+1207 : Processo 4741189 liberando pagefile alocado
+1207 : Processo 4741189 Pronto -> Exec
+1207 : Processo 4741189 Exec -> Pronto por tempo
+1208 : Processo 4741295 swap in
+1208 : Processo 4741295 HwPF - Pagefile0
+1208 : Processo 4741295 HwPF - Pagefile1
+1208 : Lista de pags livres menor que80%
+1208 : Iniciando Swap
+1208 : Processo 4741189 pronto outswapped
+1209 : Processo 4741295 HwPF - Pagefile2
+1209 : Processo 4741295 HwPF - Pagefile3
+1209 : Processo 4741295 HwPF - Pagefile4
+1209 : Processo 4741295 liberando pagefile alocado
+1209 : Processo 4741295 Pronto -> Exec
+1209 : Processo 4741295 Exec -> Pronto por tempo
+1210 : Processo 4741402 Pronto -> Exec
+1211 : Processo 4741402 Exec -> Pronto por tempo
+1212 : Processo 5431903 swap in
+1212 : Processo 5431903 HwPF - Pagefile0
+1212 : Processo 5431903 liberando pagefile alocado
+1212 : Processo 5431903 Pronto -> Exec
+1213 : Processo 5431903 Exec -> Page Fault1
+1214 : Processo 4741506 Pronto -> Exec
+1215 : Processo 4741506 Exec -> Pronto por tempo
+1216 : Processo 4741612 Pronto -> Exec
+1217 : Processo 4741612 Exec -> Pronto por tempo
+1218 : Processo 4741718 swap in
+1218 : Processo 4741718 HwPF - Pagefile0
+1218 : Lista de pags livres menor que80%
+1218 : Iniciando Swap
+1218 : Processo 5431903 page fault outswapped
+1218 : Processo 4741718 HwPF - Pagefile1
+1218 : Lista de pags livres menor que80%
+1218 : Iniciando Swap
+1218 : Processo 4741612 pronto outswapped
+1219 : Processo 4741718 HwPF - Pagefile2
+1219 : Processo 4741718 HwPF - Pagefile3
+1219 : Processo 4741718 HwPF - Pagefile4
+1220 : Processo 4741718 liberando pagefile alocado
+1220 : Processo 4741718 Pronto -> Exec
+1220 : Processo 4741718 Exec -> Pronto por tempo
+1221 : Processo 4740980 swap in
+1221 : Processo 4740980 HwPF - Pagefile0
+1221 : Processo 4740980 HwPF - Pagefile1
+1221 : Lista de pags livres menor que80%
+1221 : Iniciando Swap
+1221 : Processo 4741718 pronto outswapped
+1222 : Processo 4740980 HwPF - Pagefile2
+1222 : Processo 4740980 HwPF - Pagefile3
+1222 : Processo 4740980 HwPF - Pagefile4
+1222 : Processo 4740980 liberando pagefile alocado
+1222 : Processo 4740980 Pronto -> Exec
+1222 : Processo 4740980 Exec -> Pronto por tempo
+1223 : Processo 5431903 swap in
+1223 : Processo 5431903 HwPF - Pagefile0
+1223 : Processo 5431903 liberando pagefile alocado
+1223 : Processo 5431903 Pronto -> Exec
+1224 : Processo 5431903 Exec -> Page Fault1
+1225 : Processo 4741084 swap in
+1225 : Processo 4741084 HwPF - Pagefile0
+1225 : Lista de pags livres menor que80%
+1225 : Iniciando Swap
+1225 : Processo 5431903 page fault outswapped
+1225 : Processo 4741084 HwPF - Pagefile1
+1225 : Lista de pags livres menor que80%
+1225 : Iniciando Swap
+1226 : Processo 4740980 pronto outswapped
+1226 : Processo 4741084 HwPF - Pagefile2
+1226 : Processo 4741084 HwPF - Pagefile3
+1227 : Processo 4741084 HwPF - Pagefile4
+1227 : Processo 4741084 liberando pagefile alocado
+1227 : Processo 4741084 Pronto -> Exec
+1228 : Processo 4741084 Exec -> Pronto por tempo
+1229 : Processo 4740877 swap in
+1229 : Processo 4740877 HwPF - Pagefile0
+1229 : Processo 4740877 HwPF - Pagefile1
+1229 : Lista de pags livres menor que80%
+1229 : Iniciando Swap
+1229 : Processo 4741084 pronto outswapped
+1230 : Processo 4740877 HwPF - Pagefile2
+1230 : Processo 4740877 HwPF - Pagefile3
+1230 : Processo 4740877 HwPF - Pagefile4
+1230 : Processo 4740877 liberando pagefile alocado
+1230 : Processo 4740877 Pronto -> Exec
+1230 : Processo 4740877 Exec -> Pronto por tempo
+1231 : Processo 4741189 swap in
+1231 : Processo 4741189 HwPF - Pagefile0
+1231 : Processo 4741189 HwPF - Pagefile1
+1231 : Lista de pags livres menor que80%
+1231 : Iniciando Swap
+1231 : Processo 4740877 pronto outswapped
+1232 : Processo 4741189 HwPF - Pagefile2
+1232 : Processo 4741189 HwPF - Pagefile3
+1232 : Processo 4741189 HwPF - Pagefile4
+1232 : Processo 4741189 liberando pagefile alocado
+1232 : Processo 4741189 Pronto -> Exec
+1232 : Processo 4741189 Exec -> Pronto por tempo
+1233 : Processo 4741295 Pronto -> Exec
+1234 : Processo 4741295 Exec -> Pronto por tempo
+1235 : Processo 4741402 Pronto -> Exec
+1236 : Processo 4741402 Exec -> Pronto por tempo
+1237 : Processo 5431903 swap in
+1237 : Processo 5431903 HwPF - Pagefile0
+1237 : Processo 5431903 liberando pagefile alocado
+1237 : Processo 5431903 Pronto -> Exec
+1238 : Processo 5431903 Exec -> Page Fault1
+1239 : Processo 4741506 Pronto -> Exec
+1240 : Processo 4741506 Exec -> Pronto por tempo
+1241 : Processo 4741612 swap in
+1241 : Processo 4741612 HwPF - Pagefile0
+1241 : Lista de pags livres menor que80%
+1241 : Iniciando Swap
+1241 : Processo 5431903 page fault outswapped
+1241 : Processo 4741612 HwPF - Pagefile1
+1241 : Lista de pags livres menor que80%
+1241 : Iniciando Swap
+1241 : Processo 4741506 pronto outswapped
+1242 : Processo 4741612 HwPF - Pagefile2
+1242 : Processo 4741612 HwPF - Pagefile3
+1242 : Processo 4741612 HwPF - Pagefile4
+1242 : Processo 4741612 liberando pagefile alocado
+1242 : Processo 4741612 Pronto -> Exec
+1242 : Processo 4741612 Exec -> Pronto por tempo
+1243 : Processo 4741718 swap in
+1243 : Processo 4741718 HwPF - Pagefile0
+1243 : Processo 4741718 HwPF - Pagefile1
+1243 : Lista de pags livres menor que80%
+1243 : Iniciando Swap
+1243 : Processo 4741612 pronto outswapped
+1243 : Processo 4741718 HwPF - Pagefile2
+1243 : Processo 4741718 HwPF - Pagefile3
+1244 : Processo 4741718 HwPF - Pagefile4
+1244 : Processo 4741718 liberando pagefile alocado
+1244 : Processo 4741718 Pronto -> Exec
+1244 : Processo 4741718 Exec -> Pronto por tempo
+1245 : Processo 4740980 swap in
+1245 : Processo 4740980 HwPF - Pagefile0
+1245 : Processo 4740980 HwPF - Pagefile1
+1245 : Lista de pags livres menor que80%
+1245 : Iniciando Swap
+1245 : Processo 4741718 pronto outswapped
+1246 : Processo 4740980 HwPF - Pagefile2
+1246 : Processo 4740980 HwPF - Pagefile3
+1246 : Processo 4740980 HwPF - Pagefile4
+1246 : Processo 4740980 liberando pagefile alocado
+1246 : Processo 4740980 Pronto -> Exec
+1246 : Processo 4740980 Exec -> Pronto por tempo
+1247 : Processo 4741084 swap in
+1247 : Processo 4741084 HwPF - Pagefile0
+1247 : Processo 4741084 HwPF - Pagefile1
+1247 : Lista de pags livres menor que80%
+1247 : Iniciando Swap
+1247 : Processo 4740980 pronto outswapped
+1248 : Processo 4741084 HwPF - Pagefile2
+1248 : Processo 4741084 HwPF - Pagefile3
+1248 : Processo 4741084 HwPF - Pagefile4
+1248 : Processo 4741084 liberando pagefile alocado
+1248 : Processo 4741084 Pronto -> Exec
+1248 : Processo 4741084 Exec -> Pronto por tempo
+1249 : Processo 5431903 swap in
+1249 : Processo 5431903 HwPF - Pagefile0
+1249 : Processo 5431903 liberando pagefile alocado
+1249 : Processo 5431903 Pronto -> Exec
+1250 : Processo 5431903 Exec -> Page Fault1
+1251 : Processo 4740877 swap in
+1251 : Processo 4740877 HwPF - Pagefile0
+1251 : Lista de pags livres menor que80%
+1251 : Iniciando Swap
+1251 : Processo 5431903 page fault outswapped
+1251 : Processo 4740877 HwPF - Pagefile1
+1251 : Lista de pags livres menor que80%
+1251 : Iniciando Swap
+1251 : Processo 4741084 pronto outswapped
+1252 : Processo 4740877 HwPF - Pagefile2
+1252 : Processo 4740877 HwPF - Pagefile3
+1252 : Processo 4740877 HwPF - Pagefile4
+1252 : Processo 4740877 liberando pagefile alocado
+1252 : Processo 4740877 Pronto -> Exec
+1252 : Processo 4740877 Exec -> Pronto por tempo
+1253 : Processo 4741189 Pronto -> Exec
+1254 : Processo 4741189 Exec -> Pronto por tempo
+1255 : Processo 4741295 Pronto -> Exec
+1256 : Processo 4741295 Exec -> Pronto por tempo
+1257 : Processo 4741402 Pronto -> Exec
+1258 : Processo 4741402 Exec -> Pronto por tempo
+1259 : Processo 4741506 swap in
+1259 : Processo 4741506 HwPF - Pagefile0
+1259 : Processo 4741506 HwPF - Pagefile1
+1259 : Lista de pags livres menor que80%
+1259 : Iniciando Swap
+1259 : Processo 4741402 pronto outswapped
+1259 : Processo 4741506 HwPF - Pagefile2
+1259 : Processo 4741506 HwPF - Pagefile3
+1259 : Processo 4741506 HwPF - Pagefile4
+1259 : Processo 4741506 liberando pagefile alocado
+1259 : Processo 4741506 Pronto -> Exec
+1260 : Processo 4741506 Exec -> Pronto por tempo
+1261 : Processo 5431903 swap in
+1261 : Processo 5431903 HwPF - Pagefile0
+1261 : Processo 5431903 liberando pagefile alocado
+1261 : Processo 5431903 Pronto -> Exec
+1262 : Processo 5431903 Exec -> Page Fault1
+1263 : Processo 4741612 swap in
+1263 : Processo 4741612 HwPF - Pagefile0
+1263 : Lista de pags livres menor que80%
+1263 : Iniciando Swap
+1263 : Processo 5431903 page fault outswapped
+1263 : Processo 4741612 HwPF - Pagefile1
+1263 : Lista de pags livres menor que80%
+1263 : Iniciando Swap
+1263 : Processo 4741506 pronto outswapped
+1264 : Processo 4741612 HwPF - Pagefile2
+1264 : Processo 4741612 HwPF - Pagefile3
+1264 : Processo 4741612 HwPF - Pagefile4
+1264 : Processo 4741612 liberando pagefile alocado
+1264 : Processo 4741612 Pronto -> Exec
+1264 : Processo 4741612 Exec -> Pronto por tempo
+1265 : Processo 4741718 swap in
+1265 : Processo 4741718 HwPF - Pagefile0
+1265 : Processo 4741718 HwPF - Pagefile1
+1265 : Lista de pags livres menor que80%
+1265 : Iniciando Swap
+1265 : Processo 4741612 pronto outswapped
+1265 : Processo 4741718 HwPF - Pagefile2
+1265 : Processo 4741718 HwPF - Pagefile3
+1266 : Processo 4741718 HwPF - Pagefile4
+1266 : Processo 4741718 liberando pagefile alocado
+1266 : Processo 4741718 Pronto -> Exec
+1266 : Processo 4741718 Exec -> Pronto por tempo
+1267 : Processo 4740980 swap in
+1267 : Processo 4740980 HwPF - Pagefile0
+1267 : Processo 4740980 HwPF - Pagefile1
+1267 : Lista de pags livres menor que80%
+1267 : Iniciando Swap
+1267 : Processo 4741718 pronto outswapped
+1267 : Processo 4740980 HwPF - Pagefile2
+1268 : Processo 4740980 HwPF - Pagefile3
+1268 : Processo 4740980 HwPF - Pagefile4
+1268 : Processo 4740980 liberando pagefile alocado
+1268 : Processo 4740980 Pronto -> Exec
+1268 : Processo 4740980 Exec -> Pronto por tempo
+1269 : Processo 4741084 swap in
+1269 : Processo 4741084 HwPF - Pagefile0
+1269 : Processo 4741084 HwPF - Pagefile1
+1269 : Lista de pags livres menor que80%
+1269 : Iniciando Swap
+1269 : Processo 4740980 pronto outswapped
+1270 : Processo 4741084 HwPF - Pagefile2
+1270 : Processo 4741084 HwPF - Pagefile3
+1270 : Processo 4741084 HwPF - Pagefile4
+1270 : Processo 4741084 liberando pagefile alocado
+1270 : Processo 4741084 Pronto -> Exec
+1270 : Processo 4741084 Exec -> Pronto por tempo
+1271 : Processo 4740877 Pronto -> Exec
+1272 : Processo 4740877 Exec -> Pronto por tempo
+1273 : Processo 5431903 swap in
+1273 : Processo 5431903 HwPF - Pagefile0
+1273 : Processo 5431903 liberando pagefile alocado
+1273 : Processo 5431903 Pronto -> Exec
+1274 : Processo 5431903 Exec -> Page Fault1
+1275 : Processo 4741189 Pronto -> Exec
+1276 : Processo 4741189 Exec -> Pronto por tempo
+1277 : Processo 4741295 Pronto -> Exec
+1278 : Processo 4741295 Exec -> Pronto por tempo
+1279 : Processo 4741402 swap in
+1279 : Processo 4741402 HwPF - Pagefile0
+1279 : Lista de pags livres menor que80%
+1279 : Iniciando Swap
+1279 : Processo 5431903 page fault outswapped
+1279 : Processo 4741402 HwPF - Pagefile1
+1279 : Lista de pags livres menor que80%
+1279 : Iniciando Swap
+1279 : Processo 4741295 pronto outswapped
+1280 : Processo 4741402 HwPF - Pagefile2
+1280 : Processo 4741402 HwPF - Pagefile3
+1280 : Processo 4741402 HwPF - Pagefile4
+1281 : Processo 4741402 liberando pagefile alocado
+1281 : Processo 4741402 Pronto -> Exec
+1281 : Processo 4741402 Exec -> Pronto por tempo
+1282 : Processo 4741506 swap in
+1282 : Processo 4741506 HwPF - Pagefile0
+1282 : Processo 4741506 HwPF - Pagefile1
+1282 : Lista de pags livres menor que80%
+1282 : Iniciando Swap
+1282 : Processo 4741402 pronto outswapped
+1283 : Processo 4741506 HwPF - Pagefile2
+1283 : Processo 4741506 HwPF - Pagefile3
+1283 : Processo 4741506 HwPF - Pagefile4
+1283 : Processo 4741506 liberando pagefile alocado
+1283 : Processo 4741506 Pronto -> Exec
+1283 : Processo 4741506 Exec -> Pronto por tempo
+1284 : Processo 4741612 swap in
+1284 : Processo 4741612 HwPF - Pagefile0
+1284 : Processo 4741612 HwPF - Pagefile1
+1284 : Lista de pags livres menor que80%
+1284 : Iniciando Swap
+1284 : Processo 4741506 pronto outswapped
+1285 : Processo 4741612 HwPF - Pagefile2
+1285 : Processo 4741612 HwPF - Pagefile3
+1285 : Processo 4741612 HwPF - Pagefile4
+1286 : Processo 4741612 liberando pagefile alocado
+1286 : Processo 4741612 Pronto -> Exec
+1286 : Processo 4741612 Exec -> Pronto por tempo
+1287 : Processo 5431903 swap in
+1287 : Processo 5431903 HwPF - Pagefile0
+1287 : Processo 5431903 liberando pagefile alocado
+1287 : Processo 5431903 Pronto -> Exec
+1288 : Processo 5431903 Exec -> Page Fault1
+1289 : Processo 4741718 swap in
+1289 : Processo 4741718 HwPF - Pagefile0
+1289 : Lista de pags livres menor que80%
+1289 : Iniciando Swap
+1289 : Processo 5431903 page fault outswapped
+1289 : Processo 4741718 HwPF - Pagefile1
+1289 : Lista de pags livres menor que80%
+1289 : Iniciando Swap
+1289 : Processo 4741612 pronto outswapped
+1290 : Processo 4741718 HwPF - Pagefile2
+1290 : Processo 4741718 HwPF - Pagefile3
+1290 : Processo 4741718 HwPF - Pagefile4
+1290 : Processo 4741718 liberando pagefile alocado
+1290 : Processo 4741718 Pronto -> Exec
+1290 : Processo 4741718 Exec -> Pronto por tempo
+1291 : Processo 4740980 swap in
+1291 : Processo 4740980 HwPF - Pagefile0
+1291 : Processo 4740980 HwPF - Pagefile1
+1291 : Lista de pags livres menor que80%
+1291 : Iniciando Swap
+1291 : Processo 4741718 pronto outswapped
+1292 : Processo 4740980 HwPF - Pagefile2
+1292 : Processo 4740980 HwPF - Pagefile3
+1292 : Processo 4740980 HwPF - Pagefile4
+1292 : Processo 4740980 liberando pagefile alocado
+1293 : Processo 4740980 Pronto -> Exec
+1293 : Processo 4740980 Exec -> Pronto por tempo
+1294 : Processo 4741084 Pronto -> Exec
+1295 : Processo 4741084 Exec -> Pronto por tempo
+1296 : Processo 4740877 Pronto -> Exec
+1297 : Processo 4740877 Exec -> Pronto por tempo
+1298 : Processo 4741189 Pronto -> Exec
+1299 : Processo 4741189 Exec -> Pronto por tempo
+1300 : Processo 5431903 swap in
+1300 : Processo 5431903 HwPF - Pagefile0
+1300 : Processo 5431903 liberando pagefile alocado
+1300 : Processo 5431903 Pronto -> Exec
+1301 : Processo 5431903 Exec -> Page Fault1
+1302 : Processo 4741295 swap in
+1302 : Processo 4741295 HwPF - Pagefile0
+1302 : Lista de pags livres menor que80%
+1302 : Iniciando Swap
+1302 : Processo 5431903 page fault outswapped
+1302 : Processo 4741295 HwPF - Pagefile1
+1302 : Lista de pags livres menor que80%
+1302 : Iniciando Swap
+1302 : Processo 4741189 pronto outswapped
+1303 : Processo 4741295 HwPF - Pagefile2
+1303 : Processo 4741295 HwPF - Pagefile3
+1303 : Processo 4741295 HwPF - Pagefile4
+1303 : Processo 4741295 liberando pagefile alocado
+1303 : Processo 4741295 Pronto -> Exec
+1303 : Processo 4741295 Exec -> Pronto por tempo
+1304 : Processo 4741402 swap in
+1304 : Processo 4741402 HwPF - Pagefile0
+1304 : Processo 4741402 HwPF - Pagefile1
+1304 : Lista de pags livres menor que80%
+1304 : Iniciando Swap
+1304 : Processo 4741295 pronto outswapped
+1305 : Processo 4741402 HwPF - Pagefile2
+1305 : Processo 4741402 HwPF - Pagefile3
+1305 : Processo 4741402 HwPF - Pagefile4
+1306 : Processo 4741402 liberando pagefile alocado
+1306 : Processo 4741402 Pronto -> Exec
+1306 : Processo 4741402 Exec -> Pronto por tempo
+1307 : Processo 4741506 swap in
+1307 : Processo 4741506 HwPF - Pagefile0
+1307 : Processo 4741506 HwPF - Pagefile1
+1307 : Lista de pags livres menor que80%
+1307 : Iniciando Swap
+1307 : Processo 4741402 pronto outswapped
+1307 : Processo 4741506 HwPF - Pagefile2
+1308 : Processo 4741506 HwPF - Pagefile3
+1308 : Processo 4741506 HwPF - Pagefile4
+1308 : Processo 4741506 liberando pagefile alocado
+1308 : Processo 4741506 Pronto -> Exec
+1308 : Processo 4741506 Exec -> Pronto por tempo
+1309 : Processo 4741612 swap in
+1309 : Processo 4741612 HwPF - Pagefile0
+1309 : Processo 4741612 HwPF - Pagefile1
+1309 : Lista de pags livres menor que80%
+1309 : Iniciando Swap
+1309 : Processo 4741506 pronto outswapped
+1309 : Processo 4741612 HwPF - Pagefile2
+1309 : Processo 4741612 HwPF - Pagefile3
+1309 : Processo 4741612 HwPF - Pagefile4
+1309 : Processo 4741612 liberando pagefile alocado
+1309 : Processo 4741612 Pronto -> Exec
+1310 : Processo 4741612 Exec -> Pronto por tempo
+1311 : Processo 4741718 swap in
+1311 : Processo 4741718 HwPF - Pagefile0
+1311 : Processo 4741718 HwPF - Pagefile1
+1311 : Lista de pags livres menor que80%
+1311 : Iniciando Swap
+1311 : Processo 4741612 pronto outswapped
+1311 : Processo 4741718 HwPF - Pagefile2
+1311 : Processo 4741718 HwPF - Pagefile3
+1312 : Processo 4741718 HwPF - Pagefile4
+1312 : Processo 4741718 liberando pagefile alocado
+1312 : Processo 4741718 Pronto -> Exec
+1312 : Processo 4741718 Exec -> Pronto por tempo
+1313 : Processo 5431903 swap in
+1313 : Processo 5431903 HwPF - Pagefile0
+1313 : Processo 5431903 liberando pagefile alocado
+1313 : Processo 5431903 Pronto -> Exec
+1314 : Processo 5431903 Exec -> Page Fault1
+1315 : Processo 4740980 Pronto -> Exec
+1316 : Processo 4740980 Exec -> Pronto por tempo
+1317 : Processo 4741084 Pronto -> Exec
+1318 : Processo 4741084 Exec -> Pronto por tempo
+1319 : Processo 4740877 Pronto -> Exec
+1320 : Processo 4740877 Exec -> Pronto por tempo
+1321 : Processo 4741189 swap in
+1321 : Processo 4741189 HwPF - Pagefile0
+1321 : Lista de pags livres menor que80%
+1321 : Iniciando Swap
+1321 : Processo 5431903 page fault outswapped
+1321 : Processo 4741189 HwPF - Pagefile1
+1321 : Lista de pags livres menor que80%
+1321 : Iniciando Swap
+1321 : Processo 4740877 pronto outswapped
+1321 : Processo 4741189 HwPF - Pagefile2
+1321 : Processo 4741189 HwPF - Pagefile3
+1321 : Processo 4741189 HwPF - Pagefile4
+1321 : Processo 4741189 liberando pagefile alocado
+1321 : Processo 4741189 Pronto -> Exec
+1322 : Processo 4741189 Exec -> Pronto por tempo
+1323 : Processo 4741295 swap in
+1323 : Processo 4741295 HwPF - Pagefile0
+1323 : Processo 4741295 HwPF - Pagefile1
+1323 : Lista de pags livres menor que80%
+1323 : Iniciando Swap
+1323 : Processo 4741189 pronto outswapped
+1323 : Processo 4741295 HwPF - Pagefile2
+1323 : Processo 4741295 HwPF - Pagefile3
+1323 : Processo 4741295 HwPF - Pagefile4
+1323 : Processo 4741295 liberando pagefile alocado
+1323 : Processo 4741295 Pronto -> Exec
+1324 : Processo 4741295 Exec -> Pronto por tempo
+1325 : Processo 5431903 swap in
+1325 : Processo 5431903 HwPF - Pagefile0
+1325 : Processo 5431903 liberando pagefile alocado
+1325 : Processo 5431903 Pronto -> Exec
+1326 : Processo 5431903 Exec -> Page Fault1
+1327 : Processo 4741402 swap in
+1327 : Processo 4741402 HwPF - Pagefile0
+1327 : Lista de pags livres menor que80%
+1327 : Iniciando Swap
+1327 : Processo 5431903 page fault outswapped
+1327 : Processo 4741402 HwPF - Pagefile1
+1327 : Lista de pags livres menor que80%
+1327 : Iniciando Swap
+1327 : Processo 4741295 pronto outswapped
+1327 : Processo 4741402 HwPF - Pagefile2
+1327 : Processo 4741402 HwPF - Pagefile3
+1327 : Processo 4741402 HwPF - Pagefile4
+1327 : Processo 4741402 liberando pagefile alocado
+1327 : Processo 4741402 Pronto -> Exec
+1328 : Processo 4741402 Exec -> Pronto por tempo
+1329 : Processo 4741506 swap in
+1329 : Processo 4741506 HwPF - Pagefile0
+1329 : Processo 4741506 HwPF - Pagefile1
+1329 : Lista de pags livres menor que80%
+1329 : Iniciando Swap
+1329 : Processo 4741402 pronto outswapped
+1329 : Processo 4741506 HwPF - Pagefile2
+1329 : Processo 4741506 HwPF - Pagefile3
+1329 : Processo 4741506 HwPF - Pagefile4
+1329 : Processo 4741506 liberando pagefile alocado
+1329 : Processo 4741506 Pronto -> Exec
+1330 : Processo 4741506 Exec -> Pronto por tempo
+1331 : Processo 4741612 swap in
+1331 : Processo 4741612 HwPF - Pagefile0
+1331 : Processo 4741612 HwPF - Pagefile1
+1331 : Lista de pags livres menor que80%
+1331 : Iniciando Swap
+1331 : Processo 4741506 pronto outswapped
+1331 : Processo 4741612 HwPF - Pagefile2
+1331 : Processo 4741612 HwPF - Pagefile3
+1331 : Processo 4741612 HwPF - Pagefile4
+1331 : Processo 4741612 liberando pagefile alocado
+1331 : Processo 4741612 Pronto -> Exec
+1332 : Processo 4741612 Exec -> Pronto por tempo
+1333 : Processo 4741718 Pronto -> Exec
+1334 : Processo 4741718 Exec -> Pronto por tempo
+1335 : Processo 4740980 Pronto -> Exec
+1336 : Processo 4740980 Exec -> Pronto por tempo
+1337 : Processo 5431903 swap in
+1337 : Processo 5431903 HwPF - Pagefile0
+1337 : Processo 5431903 liberando pagefile alocado
+1337 : Processo 5431903 Pronto -> Exec
+1338 : Processo 5431903 Exec -> Page Fault1
+1339 : Processo 4741084 Pronto -> Exec
+1340 : Processo 4741084 Exec -> Pronto por tempo
+1341 : Processo 4740877 swap in
+1341 : Processo 4740877 HwPF - Pagefile0
+1341 : Lista de pags livres menor que80%
+1341 : Iniciando Swap
+1341 : Processo 5431903 page fault outswapped
+1341 : Processo 4740877 HwPF - Pagefile1
+1341 : Lista de pags livres menor que80%
+1341 : Iniciando Swap
+1341 : Processo 4741084 pronto outswapped
+1341 : Processo 4740877 HwPF - Pagefile2
+1341 : Processo 4740877 HwPF - Pagefile3
+1341 : Processo 4740877 HwPF - Pagefile4
+1341 : Processo 4740877 liberando pagefile alocado
+1341 : Processo 4740877 Pronto -> Exec
+1342 : Processo 4740877 Exec -> Pronto por tempo
+1343 : Processo 4741189 swap in
+1343 : Processo 4741189 HwPF - Pagefile0
+1343 : Processo 4741189 HwPF - Pagefile1
+1343 : Lista de pags livres menor que80%
+1343 : Iniciando Swap
+1343 : Processo 4740877 pronto outswapped
+1343 : Processo 4741189 HwPF - Pagefile2
+1343 : Processo 4741189 HwPF - Pagefile3
+1343 : Processo 4741189 HwPF - Pagefile4
+1343 : Processo 4741189 liberando pagefile alocado
+1343 : Processo 4741189 Pronto -> Exec
+1344 : Processo 4741189 Exec -> Pronto por tempo
+1345 : Processo 4741295 swap in
+1345 : Processo 4741295 HwPF - Pagefile0
+1345 : Processo 4741295 HwPF - Pagefile1
+1345 : Lista de pags livres menor que80%
+1345 : Iniciando Swap
+1345 : Processo 4741189 pronto outswapped
+1345 : Processo 4741295 HwPF - Pagefile2
+1345 : Processo 4741295 HwPF - Pagefile3
+1345 : Processo 4741295 HwPF - Pagefile4
+1345 : Processo 4741295 liberando pagefile alocado
+1345 : Processo 4741295 Pronto -> Exec
+1346 : Processo 4741295 Exec -> Pronto por tempo
+1347 : Processo 4741402 swap in
+1347 : Processo 4741402 HwPF - Pagefile0
+1347 : Processo 4741402 HwPF - Pagefile1
+1347 : Lista de pags livres menor que80%
+1347 : Iniciando Swap
+1347 : Processo 4741295 pronto outswapped
+1347 : Processo 4741402 HwPF - Pagefile2
+1347 : Processo 4741402 HwPF - Pagefile3
+1347 : Processo 4741402 HwPF - Pagefile4
+1347 : Processo 4741402 liberando pagefile alocado
+1347 : Processo 4741402 Pronto -> Exec

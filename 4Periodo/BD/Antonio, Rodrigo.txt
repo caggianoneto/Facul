@@ -1,0 +1,13 @@
+1)	SELECT * FROM TBFornecedor;
+2)	SELECT Nome FROM TBProduto;
+3)	SELECT *, round(valor * 0,90, 2) as Vlr_com_Desconto FROM tbProduto;
+4)	SELECT Count(Codigo) FROM TBPedido;
+5)	SELECT Avg(Valor) FROM TBProduto;
+6)	SELECT Nome, Max(Valor) FROM TBProduto;
+7)	SELECT Nome, Min(Valor) FROM TBProduto;
+8)	SELECT Nome, (Valor > 1) FROM TBProduto;
+9)	SELECT Nome, (Valor Between 1,50 AND 3,00) FROM TBProduto;
+10)	SELECT Nome FROM TBProduto WHERE LIKE "C%";
+11)	SELECT Nome FROM TBProduto WHERE Valor is null; 
+12)	SELECT TBPedido.Codigo, TBPedido.Data, TBFornecedor.Nome FROM TBPedido, TBForneedor WHERE ORDER BY TBFornecedor.nome;
+13)	

@@ -1,0 +1,641 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+207 : Processo 730368 alocacao de blocos no pagefile
+207 : Processo 730368 HwPF - Executável0
+207 : Processo 730368 criado
+208 : Processo 730368 Pronto -> Exec
+209 : Processo 730368 Exec -> Pronto por tempo
+210 : Processo 730368 Pronto -> Exec
+211 : Processo 730368 Exec -> Pronto por tempo
+212 : Processo 730368 Pronto -> Exec
+213 : Processo 730368 Exec -> Pronto por tempo
+214 : Processo 730368 Pronto -> Exec
+215 : Processo 730368 Exec -> Pronto por tempo
+216 : Processo 730368 Pronto -> Exec
+217 : Processo 730368 Exec -> Pronto por tempo
+218 : Processo 730368 Pronto -> Exec
+219 : Processo 730368 Exec -> Pronto por tempo
+220 : Processo 730368 Pronto -> Exec
+221 : Processo 730368 Exec -> Pronto por tempo
+222 : Processo 730368 Pronto -> Exec
+223 : Processo 730368 Exec -> Pronto por tempo
+224 : Processo 730368 Pronto -> Exec
+225 : Processo 730368 Exec -> Page Fault1
+235 : Processo 730368 Aumento de prioridade +2
+235 : Processo 730368 HwPF - Executável1
+236 : Processo 730368 Pronto -> Exec
+237 : Processo 730368 Exec -> Pronto por tempo
+238 : Processo 730368 Pronto -> Exec
+239 : Processo 730368 Exec -> Pronto por tempo
+240 : Processo 730368 Pronto -> Exec
+241 : Processo 730368 Exec -> Pronto por tempo
+242 : Processo 730368 Pronto -> Exec
+243 : Processo 730368 Exec -> Pronto por tempo
+244 : Processo 730368 Pronto -> Exec
+245 : Processo 730368 Exec -> Pronto por tempo
+246 : Processo 730368 Pronto -> Exec
+247 : Processo 730368 Exec -> Pronto por tempo
+248 : Processo 730368 Pronto -> Exec
+249 : Processo 730368 Exec -> Pronto por tempo
+250 : Processo 730368 Pronto -> Exec
+251 : Processo 730368 Exec -> Pronto por tempo
+252 : Processo 730368 Pronto -> Exec
+253 : Processo 730368 Exec -> Page Fault2
+315 : Processo 730368 Aumento de prioridade +2
+315 : Processo 730368 HwPF - Executável2
+316 : Processo 730368 Pronto -> Exec
+317 : Processo 730368 Exec -> Pronto por tempo
+318 : Processo 730368 Pronto -> Exec
+319 : Processo 730368 Exec -> Pronto por tempo
+320 : Processo 730368 Pronto -> Exec
+321 : Processo 730368 Exec -> Pronto por tempo
+322 : Processo 730368 Pronto -> Exec
+323 : Processo 730368 Exec -> Pronto por tempo
+324 : Processo 730368 Pronto -> Exec
+325 : Processo 730368 Exec -> Pronto por tempo
+326 : Processo 730368 Pronto -> Exec
+327 : Processo 730368 Exec -> Pronto por tempo
+328 : Processo 730368 Pronto -> Exec
+329 : Processo 730368 Exec -> Pronto por tempo
+330 : Processo 730368 Pronto -> Exec
+331 : Processo 730368 Exec -> Pronto por tempo
+332 : Processo 730368 Pronto -> Exec
+333 : Processo 730368 Exec -> Page Fault3
+432 : Processo 730368 Aumento de prioridade +2
+432 : Processo 730368 HwPF - Executável3
+433 : Processo 730368 Pronto -> Exec
+434 : Processo 730368 Exec -> Pronto por tempo
+435 : Processo 730368 Pronto -> Exec
+436 : Processo 730368 Exec -> Pronto por tempo
+437 : Processo 730368 Pronto -> Exec
+438 : Processo 730368 Exec -> Pronto por tempo
+439 : Processo 730368 Pronto -> Exec
+440 : Processo 730368 Exec -> Pronto por tempo
+441 : Processo 730368 Pronto -> Exec
+442 : Processo 730368 Exec -> Pronto por tempo
+443 : Processo 730368 Pronto -> Exec
+444 : Processo 730368 Exec -> Pronto por tempo
+445 : Processo 730368 Pronto -> Exec
+446 : Processo 730368 Exec -> Pronto por tempo
+447 : Processo 730368 Pronto -> Exec
+448 : Processo 730368 Exec -> Pronto por tempo
+449 : Processo 730368 Pronto -> Exec
+450 : Processo 730368 Exec -> Page Fault4
+461 : Processo 730368 Aumento de prioridade +2
+461 : Processo 730368 HwPF - Executável4
+462 : Processo 730368 Pronto -> Exec
+463 : Processo 730368 Exec -> Pronto por tempo
+464 : Processo 730368 Pronto -> Exec
+465 : Processo 730368 Exec -> Pronto por tempo
+466 : Processo 730368 Pronto -> Exec
+467 : Processo 730368 Exec -> Pronto por tempo
+468 : Processo 730368 Pronto -> Exec
+469 : Processo 730368 Exec -> Pronto por tempo
+470 : Processo 730368 Pronto -> Exec
+471 : Processo 730368 Exec -> Pronto por tempo
+472 : Processo 730368 Pronto -> Exec
+473 : Processo 730368 Exec -> Pronto por tempo
+474 : Processo 730368 Pronto -> Exec
+475 : Processo 730368 Exec -> Pronto por tempo
+476 : Processo 730368 Pronto -> Exec
+477 : Processo 730368 Exec -> Pronto por tempo
+478 : Processo 730368 Pronto -> Exec
+479 : Processo 730368 Exec -> Page Fault0
+490 : Processo 730368 Aumento de prioridade +2
+490 : Processo 730368 SwPF - LPM0
+491 : Processo 730368 Pronto -> Exec
+492 : Processo 730368 Exec -> Pronto por tempo
+493 : Processo 730368 Pronto -> Exec
+494 : Processo 730368 Exec -> Pronto por tempo
+495 : Processo 730368 Pronto -> Exec
+496 : Processo 730368 Exec -> Pronto por tempo
+497 : Processo 730368 Pronto -> Exec
+498 : Processo 730368 Exec -> Pronto por tempo
+499 : Processo 730368 Pronto -> Exec
+500 : Processo 730368 Exec -> Pronto por tempo
+501 : Processo 730368 Pronto -> Exec
+502 : Processo 730368 Exec -> Pronto por tempo
+503 : Processo 730368 Pronto -> Exec
+504 : Processo 730368 Exec -> Pronto por tempo
+505 : Processo 730368 Pronto -> Exec
+506 : Processo 730368 Exec -> Pronto por tempo
+507 : Processo 730368 Pronto -> Exec
+507 : Processo 940765 alocacao de blocos no pagefile
+507 : Processo 940765 HwPF - Executável0
+507 : Processo 940765 criado
+508 : Processo 730368 Exec -> Page Fault1
+509 : Processo 940765 Pronto -> Exec
+510 : Processo 940765 Exec -> Pronto por tempo
+511 : Processo 940765 Pronto -> Exec
+512 : Processo 940765 Exec -> Pronto por tempo
+513 : Processo 940765 Pronto -> Exec
+514 : Processo 940765 Exec -> Pronto por tempo
+515 : Processo 940765 Pronto -> Exec
+516 : Processo 940765 Exec -> Pronto por tempo
+517 : Processo 940765 Pronto -> Exec
+518 : Processo 940765 Exec -> Pronto por tempo
+519 : Processo 940765 Pronto -> Exec
+519 : Processo 730368 Aumento de prioridade +2
+519 : Processo 730368 SwPF - LPL1
+520 : Processo 940765 Exec -> Pronto por tempo
+521 : Processo 730368 Pronto -> Exec
+522 : Processo 730368 Exec -> Pronto por tempo
+523 : Processo 940765 Pronto -> Exec
+524 : Processo 940765 Exec -> Pronto por tempo
+525 : Processo 730368 Pronto -> Exec
+526 : Processo 730368 Exec -> Pronto por tempo
+527 : Processo 940765 Pronto -> Exec
+528 : Processo 940765 Exec -> Pronto por tempo
+529 : Processo 730368 Pronto -> Exec
+530 : Processo 730368 Exec -> Pronto por tempo
+531 : Processo 940765 Pronto -> Exec
+532 : Processo 940765 Exec -> Page Fault1
+533 : Processo 730368 Pronto -> Exec
+534 : Processo 730368 Exec -> Pronto por tempo
+535 : Processo 730368 Pronto -> Exec
+536 : Processo 730368 Exec -> Pronto por tempo
+537 : Processo 730368 Pronto -> Exec
+538 : Processo 730368 Exec -> Pronto por tempo
+539 : Processo 730368 Pronto -> Exec
+540 : Processo 730368 Exec -> Pronto por tempo
+541 : Processo 730368 Pronto -> Exec
+542 : Processo 730368 Exec -> Pronto por tempo
+543 : Processo 730368 Pronto -> Exec
+543 : Processo 940765 Aumento de prioridade +2
+543 : Processo 940765 HwPF - Executável1
+544 : Processo 730368 Exec -> Page Fault2
+545 : Processo 940765 Pronto -> Exec
+546 : Processo 940765 Exec -> Pronto por tempo
+547 : Processo 940765 Pronto -> Exec
+548 : Processo 940765 Exec -> Pronto por tempo
+549 : Processo 940765 Pronto -> Exec
+550 : Processo 940765 Exec -> Pronto por tempo
+551 : Processo 940765 Pronto -> Exec
+552 : Processo 940765 Exec -> Pronto por tempo
+553 : Processo 940765 Pronto -> Exec
+554 : Processo 940765 Exec -> Pronto por tempo
+555 : Processo 940765 Pronto -> Exec
+555 : Processo 730368 Aumento de prioridade +2
+555 : Processo 730368 SwPF - LPL2
+556 : Processo 940765 Exec -> Pronto por tempo
+557 : Processo 730368 Pronto -> Exec
+558 : Processo 730368 Exec -> Pronto por tempo
+559 : Processo 940765 Pronto -> Exec
+560 : Processo 940765 Exec -> Pronto por tempo
+561 : Processo 730368 Pronto -> Exec
+562 : Processo 730368 Exec -> Pronto por tempo
+563 : Processo 940765 Pronto -> Exec
+564 : Processo 940765 Exec -> Pronto por tempo
+565 : Processo 730368 Pronto -> Exec
+566 : Processo 730368 Exec -> Pronto por tempo
+567 : Processo 940765 Pronto -> Exec
+568 : Processo 940765 Exec -> Page Fault2
+569 : Processo 730368 Pronto -> Exec
+570 : Processo 730368 Exec -> Pronto por tempo
+571 : Processo 730368 Pronto -> Exec
+572 : Processo 730368 Exec -> Pronto por tempo
+573 : Processo 730368 Pronto -> Exec
+574 : Processo 730368 Exec -> Pronto por tempo
+575 : Processo 730368 Pronto -> Exec
+576 : Processo 730368 Exec -> Pronto por tempo
+577 : Processo 730368 Pronto -> Exec
+578 : Processo 730368 Exec -> Pronto por tempo
+579 : Processo 730368 Pronto -> Exec
+579 : Processo 940765 Aumento de prioridade +2
+579 : Processo 940765 HwPF - Executável2
+580 : Processo 730368 Exec -> Page Fault3
+581 : Processo 940765 Pronto -> Exec
+582 : Processo 940765 Exec -> Pronto por tempo
+583 : Processo 940765 Pronto -> Exec
+584 : Processo 940765 Exec -> Pronto por tempo
+585 : Processo 940765 Pronto -> Exec
+586 : Processo 940765 Exec -> Pronto por tempo
+587 : Processo 940765 Pronto -> Exec
+588 : Processo 940765 Exec -> Pronto por tempo
+589 : Processo 940765 Pronto -> Exec
+590 : Processo 940765 Exec -> Pronto por tempo
+591 : Processo 940765 Pronto -> Exec
+591 : Processo 730368 Aumento de prioridade +2
+591 : Processo 730368 SwPF - LPL3
+592 : Processo 940765 Exec -> Pronto por tempo
+593 : Processo 730368 Pronto -> Exec
+594 : Processo 730368 Exec -> Pronto por tempo
+595 : Processo 940765 Pronto -> Exec
+596 : Processo 940765 Exec -> Pronto por tempo
+597 : Processo 730368 Pronto -> Exec
+598 : Processo 730368 Exec -> Pronto por tempo
+599 : Processo 940765 Pronto -> Exec
+600 : Processo 940765 Exec -> Pronto por tempo
+601 : Processo 730368 Pronto -> Exec
+602 : Processo 730368 Exec -> Pronto por tempo
+603 : Processo 940765 Pronto -> Exec
+604 : Processo 940765 Exec -> Page Fault3
+605 : Processo 730368 Pronto -> Exec
+606 : Processo 730368 Exec -> Pronto por tempo
+607 : Processo 730368 Pronto -> Exec
+608 : Processo 730368 Exec -> Pronto por tempo
+609 : Processo 730368 Pronto -> Exec
+610 : Processo 730368 Exec -> Pronto por tempo
+611 : Processo 730368 Pronto -> Exec
+612 : Processo 730368 Exec -> Pronto por tempo
+613 : Processo 730368 Pronto -> Exec
+614 : Processo 730368 Exec -> Pronto por tempo
+615 : Processo 730368 Pronto -> Exec
+615 : Processo 940765 Aumento de prioridade +2
+615 : Processo 940765 HwPF - Executável3
+616 : Processo 730368 Exec -> Page Fault4
+617 : Processo 940765 Pronto -> Exec
+618 : Processo 940765 Exec -> Pronto por tempo
+619 : Processo 940765 Pronto -> Exec
+620 : Processo 940765 Exec -> Pronto por tempo
+621 : Processo 940765 Pronto -> Exec
+622 : Processo 940765 Exec -> Pronto por tempo
+623 : Processo 940765 Pronto -> Exec
+624 : Processo 940765 Exec -> Pronto por tempo
+625 : Processo 940765 Pronto -> Exec
+626 : Processo 940765 Exec -> Pronto por tempo
+627 : Processo 940765 Pronto -> Exec
+627 : Processo 730368 Aumento de prioridade +2
+627 : Processo 730368 SwPF - LPL4
+628 : Processo 940765 Exec -> Pronto por tempo
+629 : Processo 730368 Pronto -> Exec
+630 : Processo 730368 Exec -> Pronto por tempo
+631 : Processo 940765 Pronto -> Exec
+632 : Processo 940765 Exec -> Pronto por tempo
+633 : Processo 730368 Pronto -> Exec
+633 : Processo 1133987 alocacao de blocos no pagefile
+633 : Processo 1133987 HwPF - Executável0
+633 : Processo 1133987 criado
+634 : Processo 730368 Exec -> Pronto por tempo
+635 : Processo 940765 Pronto -> Exec
+636 : Processo 940765 Exec -> Pronto por tempo
+637 : Processo 1133987 Pronto -> Exec
+638 : Processo 1133987 Exec -> Pronto por tempo
+639 : Processo 730368 Pronto -> Exec
+640 : Processo 730368 Exec -> Pronto por tempo
+641 : Processo 940765 Pronto -> Exec
+642 : Processo 940765 Exec -> Page Fault4
+643 : Processo 1133987 Pronto -> Exec
+644 : Processo 1133987 Exec -> Pronto por tempo
+645 : Processo 730368 Pronto -> Exec
+646 : Processo 730368 Exec -> Pronto por tempo
+647 : Processo 1133987 Pronto -> Exec
+648 : Processo 1133987 Exec -> Pronto por tempo
+649 : Processo 730368 Pronto -> Exec
+650 : Processo 730368 Exec -> Pronto por tempo
+651 : Processo 1133987 Pronto -> Exec
+652 : Processo 1133987 Exec -> Pronto por tempo
+653 : Processo 730368 Pronto -> Exec
+653 : Processo 940765 Aumento de prioridade +2
+653 : Processo 940765 HwPF - Executável4
+654 : Processo 730368 Exec -> Pronto por tempo
+655 : Processo 940765 Pronto -> Exec
+656 : Processo 940765 Exec -> Pronto por tempo
+657 : Processo 1133987 Pronto -> Exec
+658 : Processo 1133987 Exec -> Pronto por tempo
+659 : Processo 730368 Pronto -> Exec
+660 : Processo 730368 Exec -> Pronto por tempo
+661 : Processo 940765 Pronto -> Exec
+662 : Processo 940765 Exec -> Pronto por tempo
+663 : Processo 1133987 Pronto -> Exec
+664 : Processo 1133987 Exec -> Pronto por tempo
+665 : Processo 730368 Pronto -> Exec
+666 : Processo 730368 Exec -> Pronto por tempo
+667 : Processo 940765 Pronto -> Exec
+668 : Processo 940765 Exec -> Pronto por tempo
+669 : Processo 1133987 Pronto -> Exec
+670 : Processo 1133987 Exec -> Pronto por tempo
+671 : Processo 730368 Pronto -> Exec
+672 : Processo 730368 Exec -> Page Fault0
+673 : Processo 940765 Pronto -> Exec
+674 : Processo 940765 Exec -> Pronto por tempo
+675 : Processo 1133987 Pronto -> Exec
+676 : Processo 1133987 Exec -> Pronto por tempo
+677 : Processo 940765 Pronto -> Exec
+678 : Processo 940765 Exec -> Pronto por tempo
+679 : Processo 1133987 Pronto -> Exec
+680 : Processo 1133987 Exec -> Page Fault1
+681 : Processo 940765 Pronto -> Exec
+682 : Processo 940765 Exec -> Pronto por tempo
+683 : Processo 940765 Pronto -> Exec
+683 : Processo 730368 Aumento de prioridade +2
+683 : Processo 730368 SwPF - LPM0
+684 : Processo 940765 Exec -> Pronto por tempo
+685 : Processo 730368 Pronto -> Exec
+686 : Processo 730368 Exec -> Pronto por tempo
+687 : Processo 940765 Pronto -> Exec
+688 : Processo 940765 Exec -> Pronto por tempo
+689 : Processo 730368 Pronto -> Exec
+690 : Processo 730368 Exec -> Pronto por tempo
+691 : Processo 940765 Pronto -> Exec
+692 : Processo 940765 Exec -> Page Fault0
+693 : Processo 730368 Pronto -> Exec
+694 : Processo 730368 Exec -> Pronto por tempo
+694 : Processo 1133987 Aumento de prioridade +2
+694 : Processo 1133987 HwPF - Executável1
+695 : Processo 1133987 Pronto -> Exec
+696 : Processo 1133987 Exec -> Pronto por tempo
+697 : Processo 730368 Pronto -> Exec
+698 : Processo 730368 Exec -> Pronto por tempo
+699 : Processo 1133987 Pronto -> Exec
+700 : Processo 1133987 Exec -> Pronto por tempo
+701 : Processo 730368 Pronto -> Exec
+702 : Processo 730368 Exec -> Pronto por tempo
+703 : Processo 1133987 Pronto -> Exec
+704 : Processo 1133987 Exec -> Pronto por tempo
+705 : Processo 730368 Pronto -> Exec
+705 : Processo 940765 Aumento de prioridade +2
+705 : Processo 940765 SwPF - LPM0
+706 : Processo 730368 Exec -> Pronto por tempo
+707 : Processo 940765 Pronto -> Exec
+708 : Processo 940765 Exec -> Pronto por tempo
+709 : Processo 1133987 Pronto -> Exec
+710 : Processo 1133987 Exec -> Pronto por tempo
+711 : Processo 730368 Pronto -> Exec
+712 : Processo 730368 Exec -> Pronto por tempo
+713 : Processo 940765 Pronto -> Exec
+714 : Processo 940765 Exec -> Pronto por tempo
+715 : Processo 1133987 Pronto -> Exec
+716 : Processo 1133987 Exec -> Pronto por tempo
+717 : Processo 730368 Pronto -> Exec
+718 : Processo 730368 Exec -> Pronto por tempo
+719 : Processo 940765 Pronto -> Exec
+720 : Processo 940765 Exec -> Pronto por tempo
+721 : Processo 1133987 Pronto -> Exec
+722 : Processo 1133987 Exec -> Pronto por tempo
+723 : Processo 730368 Pronto -> Exec
+724 : Processo 730368 Exec -> Page Fault1
+725 : Processo 940765 Pronto -> Exec
+726 : Processo 940765 Exec -> Pronto por tempo
+727 : Processo 1133987 Pronto -> Exec
+728 : Processo 1133987 Exec -> Pronto por tempo
+729 : Processo 940765 Pronto -> Exec
+730 : Processo 940765 Exec -> Pronto por tempo
+731 : Processo 1133987 Pronto -> Exec
+732 : Processo 1133987 Exec -> Pronto por tempo
+733 : Processo 940765 Pronto -> Exec
+734 : Processo 940765 Exec -> Pronto por tempo
+735 : Processo 1133987 Pronto -> Exec
+735 : Processo 730368 Aumento de prioridade +2
+735 : Processo 730368 SwPF - LPL1
+736 : Processo 1133987 Exec -> Page Fault2
+737 : Processo 730368 Pronto -> Exec
+738 : Processo 730368 Exec -> Pronto por tempo
+739 : Processo 940765 Pronto -> Exec
+740 : Processo 940765 Exec -> Pronto por tempo
+741 : Processo 730368 Pronto -> Exec
+742 : Processo 730368 Exec -> Pronto por tempo
+743 : Processo 940765 Pronto -> Exec
+744 : Processo 940765 Exec -> Pronto por tempo
+745 : Processo 730368 Pronto -> Exec
+746 : Processo 730368 Exec -> Pronto por tempo
+747 : Processo 940765 Pronto -> Exec
+747 : Processo 1133987 Aumento de prioridade +2
+747 : Processo 1133987 HwPF - Executável2
+748 : Processo 940765 Exec -> Page Fault1
+749 : Processo 1133987 Pronto -> Exec
+750 : Processo 1133987 Exec -> Pronto por tempo
+751 : Processo 730368 Pronto -> Exec
+752 : Processo 730368 Exec -> Pronto por tempo
+753 : Processo 1133987 Pronto -> Exec
+754 : Processo 1133987 Exec -> Pronto por tempo
+755 : Processo 730368 Pronto -> Exec
+756 : Processo 730368 Exec -> Pronto por tempo
+757 : Processo 1133987 Pronto -> Exec
+758 : Processo 1133987 Exec -> Pronto por tempo
+759 : Processo 730368 Pronto -> Exec
+759 : Processo 940765 Aumento de prioridade +2
+759 : Processo 940765 SwPF - LPL1
+760 : Processo 730368 Exec -> Pronto por tempo
+761 : Processo 940765 Pronto -> Exec
+762 : Processo 940765 Exec -> Pronto por tempo
+763 : Processo 1133987 Pronto -> Exec
+763 : Processo 1330563 alocacao de blocos no pagefile
+763 : Processo 1330563 HwPF - Executável0
+763 : Processo 1330563 criado
+764 : Processo 1133987 Exec -> Pronto por tempo
+765 : Processo 730368 Pronto -> Exec
+766 : Processo 730368 Exec -> Pronto por tempo
+767 : Processo 940765 Pronto -> Exec
+768 : Processo 940765 Exec -> Pronto por tempo
+769 : Processo 1330563 Pronto -> Exec
+769 : Processo 1330563 Exec -> I/O
+770 : Processo 1133987 Pronto -> Exec
+771 : Processo 1133987 Exec -> Pronto por tempo
+772 : Processo 730368 Pronto -> Exec
+773 : Processo 730368 Exec -> Pronto por tempo
+774 : Processo 940765 Pronto -> Exec
+775 : Processo 940765 Exec -> Pronto por tempo
+776 : Processo 1133987 Pronto -> Exec
+777 : Processo 1133987 Exec -> Pronto por tempo
+778 : Processo 730368 Pronto -> Exec
+779 : Processo 730368 Exec -> Page Fault2
+780 : Processo 940765 Pronto -> Exec
+780 : Processo 1330563 Aumento de prioridade +1
+781 : Processo 940765 Exec -> Pronto por tempo
+782 : Processo 1330563 Pronto -> Exec
+783 : Processo 1330563 Exec -> Pronto por tempo
+784 : Processo 1133987 Pronto -> Exec
+785 : Processo 1133987 Exec -> Pronto por tempo
+786 : Processo 940765 Pronto -> Exec
+787 : Processo 940765 Exec -> Pronto por tempo
+788 : Processo 1330563 Pronto -> Exec
+788 : Processo 1330563 Exec -> I/O
+789 : Processo 1133987 Pronto -> Exec
+790 : Processo 1133987 Exec -> Pronto por tempo
+791 : Processo 940765 Pronto -> Exec
+791 : Processo 730368 Aumento de prioridade +2
+791 : Processo 730368 SwPF - LPL2
+792 : Processo 940765 Exec -> Pronto por tempo
+793 : Processo 730368 Pronto -> Exec
+794 : Processo 730368 Exec -> Pronto por tempo
+795 : Processo 1133987 Pronto -> Exec
+796 : Processo 1133987 Exec -> Page Fault3
+797 : Processo 940765 Pronto -> Exec
+798 : Processo 940765 Exec -> Pronto por tempo
+799 : Processo 730368 Pronto -> Exec
+800 : Processo 730368 Exec -> Pronto por tempo
+801 : Processo 940765 Pronto -> Exec
+802 : Processo 940765 Exec -> Pronto por tempo
+802 : Processo 1330563 Aumento de prioridade +1
+803 : Processo 1330563 Pronto -> Exec
+803 : Processo 1330563 Exec -> I/O
+804 : Processo 730368 Pronto -> Exec
+805 : Processo 730368 Exec -> Pronto por tempo
+806 : Processo 940765 Pronto -> Exec
+807 : Processo 940765 Exec -> Page Fault2
+808 : Processo 730368 Pronto -> Exec
+809 : Processo 730368 Exec -> Pronto por tempo
+810 : Processo 730368 Pronto -> Exec
+811 : Processo 730368 Exec -> Pronto por tempo
+812 : Processo 730368 Pronto -> Exec
+813 : Processo 730368 Exec -> Pronto por tempo
+813 : Processo 1133987 Aumento de prioridade +2
+813 : Processo 1133987 HwPF - Executável3
+814 : Processo 1133987 Pronto -> Exec
+815 : Processo 1133987 Exec -> Pronto por tempo
+816 : Processo 730368 Pronto -> Exec
+817 : Processo 730368 Exec -> Pronto por tempo
+818 : Processo 1133987 Pronto -> Exec
+819 : Processo 1133987 Exec -> Pronto por tempo
+820 : Processo 730368 Pronto -> Exec
+821 : Processo 730368 Exec -> Pronto por tempo
+822 : Processo 1133987 Pronto -> Exec
+823 : Processo 1133987 Exec -> Pronto por tempo
+824 : Processo 730368 Pronto -> Exec
+825 : Processo 730368 Exec -> Page Fault3
+825 : Processo 1330563 Aumento de prioridade +1
+826 : Processo 1330563 Pronto -> Exec
+826 : Processo 1330563 Exec -> I/O
+827 : Processo 1133987 Pronto -> Exec
+828 : Processo 1133987 Exec -> Pronto por tempo
+829 : Processo 1133987 Pronto -> Exec
+830 : Processo 1133987 Exec -> Pronto por tempo
+831 : Processo 1133987 Pronto -> Exec
+832 : Processo 1133987 Exec -> Pronto por tempo
+833 : Processo 1133987 Pronto -> Exec
+834 : Processo 1133987 Exec -> Pronto por tempo
+835 : Processo 1133987 Pronto -> Exec
+836 : Processo 1133987 Exec -> Pronto por tempo
+836 : Processo 940765 Aumento de prioridade +2
+836 : Processo 940765 SwPF - LPL2
+837 : Processo 940765 Pronto -> Exec
+838 : Processo 940765 Exec -> Pronto por tempo
+839 : Processo 1133987 Pronto -> Exec
+840 : Processo 1133987 Exec -> Page Fault4
+841 : Processo 940765 Pronto -> Exec
+842 : Processo 940765 Exec -> Pronto por tempo
+843 : Processo 940765 Pronto -> Exec
+844 : Processo 940765 Exec -> Pronto por tempo
+845 : Processo 940765 Pronto -> Exec
+846 : Processo 940765 Exec -> Pronto por tempo
+847 : Processo 940765 Pronto -> Exec
+847 : Processo 730368 Aumento de prioridade +2
+847 : Processo 730368 SwPF - LPL3
+848 : Processo 940765 Exec -> Pronto por tempo
+849 : Processo 730368 Pronto -> Exec
+850 : Processo 730368 Exec -> Pronto por tempo
+851 : Processo 940765 Pronto -> Exec
+852 : Processo 940765 Exec -> Pronto por tempo
+853 : Processo 730368 Pronto -> Exec
+854 : Processo 730368 Exec -> Pronto por tempo
+855 : Processo 940765 Pronto -> Exec
+856 : Processo 940765 Exec -> Pronto por tempo
+857 : Processo 730368 Pronto -> Exec
+858 : Processo 730368 Exec -> Pronto por tempo
+859 : Processo 940765 Pronto -> Exec
+859 : Processo 1330563 Aumento de prioridade +1
+860 : Processo 940765 Exec -> Pronto por tempo
+861 : Processo 1330563 Pronto -> Exec
+861 : Processo 1330563 Exec -> I/O
+862 : Processo 730368 Pronto -> Exec
+863 : Processo 730368 Exec -> Pronto por tempo
+864 : Processo 940765 Pronto -> Exec
+865 : Processo 940765 Exec -> Page Fault3
+866 : Processo 730368 Pronto -> Exec
+867 : Processo 730368 Exec -> Pronto por tempo
+868 : Processo 730368 Pronto -> Exec
+869 : Processo 730368 Exec -> Pronto por tempo
+870 : Processo 730368 Pronto -> Exec
+870 : Processo 1133987 Aumento de prioridade +2
+870 : Processo 1133987 HwPF - Executável4
+871 : Processo 730368 Exec -> Pronto por tempo
+872 : Processo 1133987 Pronto -> Exec
+873 : Processo 1133987 Exec -> Pronto por tempo
+874 : Processo 730368 Pronto -> Exec
+875 : Processo 730368 Exec -> Pronto por tempo
+876 : Processo 1133987 Pronto -> Exec
+877 : Processo 1133987 Exec -> Pronto por tempo
+878 : Processo 730368 Pronto -> Exec
+879 : Processo 730368 Exec -> Page Fault4
+880 : Processo 1133987 Pronto -> Exec
+881 : Processo 1133987 Exec -> Pronto por tempo
+881 : Processo 1330563 Aumento de prioridade +1
+882 : Processo 1330563 Pronto -> Exec
+882 : Processo 1330563 Exec -> I/O
+883 : Processo 1133987 Pronto -> Exec
+884 : Processo 1133987 Exec -> Pronto por tempo
+885 : Processo 1133987 Pronto -> Exec
+886 : Processo 1133987 Exec -> Pronto por tempo
+887 : Processo 1133987 Pronto -> Exec
+888 : Processo 1133987 Exec -> Pronto por tempo
+889 : Processo 1133987 Pronto -> Exec
+890 : Processo 1133987 Exec -> Pronto por tempo
+891 : Processo 1133987 Pronto -> Exec
+892 : Processo 1133987 Exec -> Pronto por tempo
+892 : Processo 940765 Aumento de prioridade +2
+892 : Processo 940765 SwPF - LPL3
+893 : Processo 940765 Pronto -> Exec
+894 : Processo 940765 Exec -> Pronto por tempo
+895 : Processo 1133987 Pronto -> Exec
+896 : Processo 1133987 Exec -> Page Fault0
+897 : Processo 940765 Pronto -> Exec
+898 : Processo 940765 Exec -> Pronto por tempo
+899 : Processo 940765 Pronto -> Exec
+900 : Processo 940765 Exec -> Pronto por tempo
+901 : Processo 940765 Pronto -> Exec
+902 : Processo 940765 Exec -> Pronto por tempo
+903 : Processo 940765 Pronto -> Exec
+904 : Processo 940765 Exec -> Pronto por tempo
+904 : Processo 730368 Aumento de prioridade +2
+904 : Processo 730368 SwPF - LPL4
+905 : Processo 730368 Pronto -> Exec
+906 : Processo 730368 Exec -> Pronto por tempo
+907 : Processo 940765 Pronto -> Exec
+908 : Processo 940765 Exec -> Pronto por tempo
+909 : Processo 730368 Pronto -> Exec
+910 : Processo 730368 Exec -> Pronto por tempo
+911 : Processo 940765 Pronto -> Exec
+912 : Processo 940765 Exec -> Pronto por tempo
+913 : Processo 730368 Pronto -> Exec
+914 : Processo 730368 Exec -> Pronto por tempo
+915 : Processo 940765 Pronto -> Exec
+915 : Processo 1330563 Aumento de prioridade +1
+916 : Processo 940765 Exec -> Pronto por tempo
+917 : Processo 1330563 Pronto -> Exec
+917 : Processo 1330563 Exec -> I/O
+918 : Processo 730368 Pronto -> Exec
+919 : Processo 730368 Exec -> Pronto por tempo
+920 : Processo 940765 Pronto -> Exec
+921 : Processo 940765 Exec -> Page Fault4
+922 : Processo 730368 Pronto -> Exec
+923 : Processo 730368 Exec -> Pronto por tempo
+924 : Processo 730368 Pronto -> Exec
+925 : Processo 730368 Exec -> Pronto por tempo
+926 : Processo 730368 Pronto -> Exec
+926 : Processo 1133987 Aumento de prioridade +2
+926 : Processo 1133987 SwPF - LPM0
+927 : Processo 730368 Exec -> Pronto por tempo
+928 : Processo 1133987 Pronto -> Exec
+929 : Processo 1133987 Exec -> Pronto por tempo
+930 : Processo 730368 Pronto -> Exec
+931 : Processo 730368 Exec -> Pronto por tempo
+932 : Processo 1133987 Pronto -> Exec
+933 : Processo 1133987 Exec -> Pronto por tempo
+934 : Processo 730368 Pronto -> Exec
+935 : Processo 730368 Exec -> Page Fault0
+936 : Processo 1133987 Pronto -> Exec
+937 : Processo 1133987 Exec -> Pronto por tempo
+937 : Processo 1330563 Aumento de prioridade +1
+938 : Processo 1330563 Pronto -> Exec
+939 : Processo 1330563 Exec -> Page Fault1
+940 : Processo 1133987 Pronto -> Exec
+941 : Processo 1133987 Exec -> Pronto por tempo
+942 : Processo 1133987 Pronto -> Exec
+943 : Processo 1133987 Exec -> Pronto por tempo
+944 : Processo 1133987 Pronto -> Exec
+945 : Processo 1133987 Exec -> Pronto por tempo
+946 : Processo 1133987 Pronto -> Exec
+947 : Processo 1133987 Exec -> Pronto por tempo
+948 : Processo 1133987 Pronto -> Exec
+949 : Processo 1133987 Exec -> Pronto por tempo
+949 : Processo 940765 Aumento de prioridade +2
+949 : Processo 940765 SwPF - LPL4
+950 : Processo 940765 Pronto -> Exec
+951 : Processo 940765 Exec -> Pronto por tempo
+952 : Processo 1133987 Pronto -> Exec
+953 : Processo 1133987 Exec -> Page Fault1
+954 : Processo 940765 Pronto -> Exec
+955 : Processo 940765 Exec -> Pronto por tempo
+956 : Processo 940765 Pronto -> Exec
+956 : SOsim desativado

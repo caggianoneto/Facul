@@ -1,0 +1,214 @@
+package dao;
+
+import java.sql.CallableStatement;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import model.Frota;
+
+public class FrotaDAO{
+	
+	public ArrayList<String> estados;
+	public ArrayList<String> cidades;
+	
+	public int inclusaoFrota(Object t, int idFrota) {
+		
+		Connection conn;
+		PreparedStatement pstm;
+		
+		t = Integer.parseInt(t.toString());
+		int linhasAlteradas;
+		
+		String query = "UPDATE VEICULO SET VINCULO_FROTA = ? WHERE IDVEICULO = ?";
+							
+		conn = Conexao.getConexao();
+		
+		try {
+			pstm = conn.prepareStatement(query);
+				
+			pstm.setInt(1, idFrota);	
+			pstm.setInt(2, Integer.parseInt(t.toString()));
+			
+			linhasAlteradas = pstm.executeUpdate();
+			
+			if(linhasAlteradas > 0){
+                pstm.close();
+                return linhasAlteradas;
+			}else{
+				return 0;
+			}
+			
+		}catch(Exception f){
+			System.err.println("Erro ao tentar vincular o veiculo na frota "+ f);
+			return 0;
+		}
+
+	}
+
+	public int incluiRegiao(int regiao){
+		
+		Connection conn;
+		CallableStatement ps;
+		int resultado = -1;
+		
+		String query = "{CALL INSERE_REGIAO_FROTA(?,?)}";
+		
+		conn = Conexao.getConexao();
+		
+		try {
+			ps = conn.prepareCall(query);
+			
+			ps.setInt(1, regiao);
+			ps.registerOutParameter(2, java.sql.Types.INTEGER);
+			
+			
+			ps.execute();
+			resultado = ps.getInt("IDREGIAO");
+			
+			return resultado;
+		}catch(Exception f){
+			System.err.println("Erro ao tentar incluir regiao no banco "+ f);
+		}
+		
+		return -1;
+		
+	}
+	
+	public boolean iniciaFrota(int veiculosVinculados, int rowid){
+		
+		Connection conn;
+		PreparedStatement pstm;
+		
+		String query =  "UPDATE FROTAS SET QTD_VEICULOS = ?, QTD_VEICULOS_DISPONIVEIS = ?, ENTREGAS_REALIZADAS = ?, ENTREGAS_EM_PROGRESSO = ?, ENTREGAS_NAO_FINALIZADAS = ? WHERE ID_FROTA = ?";
+							
+		conn = Conexao.getConexao();
+		
+		try {
+			pstm = conn.prepareStatement(query);
+			int valorInicial = 0;
+				
+			pstm.setInt(1, veiculosVinculados);	
+			pstm.setInt(2, veiculosVinculados);
+			pstm.setInt(3, valorInicial);
+			pstm.setInt(4, valorInicial);
+			pstm.setInt(5, valorInicial);
+			pstm.setInt(6, rowid);	
+			
+			if(pstm.executeUpdate() > 0){
+				
+                pstm.close();
+                return true;
+			}else{
+				return false;
+			}
+			
+		}catch(Exception f){
+			System.err.println("Erro ao tentar atualizar valores na frota inicial "+ f);
+			return false;
+		}
+		
+	}
+	
+	public boolean atualizaEstatisticas(int idFrota) {
+		
+		Connection conn = null;
+		PreparedStatement pstm;
+		
+		String query = "UPDATE FROTAS SET QTD_VEICULOS_DISPONIVEIS = QTD_VEICULOS_DISPONIVEIS-1, ENTREGAS_EM_PROGRESSO = ENTREGAS_EM_PROGRESSO+1  WHERE ID_FROTA = ? ";
+		
+		try {
+			conn = Conexao.getConexao();
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1,  idFrota);
+			
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                return true;
+            }else{
+                pstm.close();
+                System.err.println("Erro ao atualizar as estatisticas da frota ");
+                return false;
+            }
+			
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		return false;
+	}
+	
+	public boolean exclusao() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	
+	public void preencheCombobox(){
+		
+		Connection conn;
+		PreparedStatement pstm;
+		ResultSet rs;
+		
+		conn = Conexao.getConexao();
+		
+		String query = "SELECT ESTADO , CIDADE FROM REGIOES";	
+		
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			rs = pstm.executeQuery();
+			
+			estados = new ArrayList<String>();
+			cidades = new ArrayList<String>();
+			
+			while(rs.next()){
+				
+				estados.add(rs.getString("ESTADO"));
+				cidades.add(rs.getString("CIDADE"));					
+			}
+		
+		}catch(Exception e){
+			System.err.println(e);
+			
+		}
+	
+	}
+	
+	public ArrayList<Frota> buscaFrotasPorRegiao(int regiaoRem){
+		
+		Connection conn;
+		PreparedStatement pstm;
+		ResultSet rs;
+		conn = Conexao.getConexao();
+		
+		String query = "SELECT ID_FROTA FROM FROTAS WHERE REGIAO = ? ";	
+		
+		ArrayList<Frota> listaFrotas = new ArrayList<Frota>();
+	
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1, regiaoRem);
+			
+			rs = pstm.executeQuery();
+			
+			while(rs.next()){
+				 Frota frota = new Frota();
+				 frota.setIdFrota(rs.getInt("ID_FROTA")); 
+				 listaFrotas.add(frota);
+			}
+		
+		}catch(Exception e){
+			System.err.println(e);
+			
+		}	
+		
+		return listaFrotas;	
+		
+	}
+
+}

@@ -1,0 +1,77 @@
+import java.util.*;
+
+public class Colecoes {
+ 
+    public static void main(String[] args) {
+        System.out.println("-------------------Pilhas-------------------");
+        //criando a pilha
+        Stack pilha = new Stack();
+        //inserindo valores na pilha
+        pilha.push("A");
+        pilha.push("B");
+        pilha.push("C");
+        pilha.push(12.6);
+        //pegando o topo da pilha
+        System.out.println("Topo: " + pilha.peek());
+        //percorrendo a pilha
+        for (int i = 0; i < pilha.size(); i++){
+            System.out.println(pilha.get(i));
+        }
+        //removendo um elemento, e por ser uma pilha
+        //ele removerá o elemento que foi inserido por ultimo
+        pilha.pop();
+        System.out.println("Depois de remover um elemento:");
+        //percorrendo a pilha novamente
+        for (int i = 0; i < pilha.size(); i++){
+            System.out.println(pilha.get(i));
+        }
+
+
+
+System.out.println("-------------------Filas-------------------");
+        //criando a fila, Queue é apenas uma interface,
+        //então utilizaremos a implentação LinkedList
+        Queue fila = new LinkedList();
+        //inserindo elementos na fila
+        fila.add("A");
+        fila.add("B");
+        fila.add("C");
+        fila.add(12.6);
+        //pegando o topo da fila
+        System.out.println("Topo: " + fila.peek());
+        //percorrendo a fila, este é outra forma de percorrer uma lista
+        //o Object é o tipo do elemento, o obj é o elemento e a fila é nossa lista
+        // o obj corresponderia ao get(i) da pilha
+        for (Object obj : fila){
+            System.out.println(obj);
+        }
+        //removendo um elemento, e por ser uma fila
+        //ele removerá o elemento que foi inserido por primeiro
+        fila.remove();
+        System.out.println("Depois de remover um elemento:");
+        //percorrendo a fila novamente
+        for (Object obj : fila) {
+            System.out.println(obj);
+        }
+
+
+
+System.out.println("-------------------SortedSet-------------------");
+       //criando um set ordenado, como SortedSet é interface, vamos utilizar a implementação TreeSet
+       SortedSet< String > setOrdenado = new TreeSet< String >();
+       //inserindo elementos
+       setOrdenado.add("B");
+       setOrdenado.add("A");
+       setOrdenado.add("C");
+       setOrdenado.add("A");
+       //percorrendo o conjunto
+       for (String obj : setOrdenado){
+           System.out.println(obj);
+       }
+
+
+
+
+
+    }
+}

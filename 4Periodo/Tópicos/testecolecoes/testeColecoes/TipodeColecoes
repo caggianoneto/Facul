@@ -1,0 +1,47 @@
+FIFO 
+Queue fila = new PriorityQueue();  
+fila.offer("elemento1");  
+fila.offer("elemento2");  
+fila.offer("elemento3");  
+  
+String ele = fila.poll();
+
+
+
+
+LIFO
+Stack pilha = new Stack();  
+pilha.push("elemento1");  
+pilha.push("elemento2");  
+pilha.puch("elemento3");  
+  
+String ele = pilha.pop();
+
+
+Set: Não aceita itens duplicados, aceita nulos, não possui índice, rápido para inserir e pesquisar elementos;
+
+HashSet: esta é uma implementação concreta de Set não organizada, ou seja, os elementos são percorridos aleatoriamente, e também não é ordenada, não há regras de ordenação. Além disso, assim como Set, não aceita itens duplicados.
+
+TreeSet: implementação concreta de Set organizada, mas também não aceita itens duplicados, mas é ordenada.
+
+List: Aceita itens duplicados, organizada e todas as implementações seguem este padrão, elementos percorridos por ordem ser inserção, não ordenada, aceita nulo, trabalha com índices da mesma forma que os arrays, é rápido para inserir elementos, mas um pouco mais lento que o Set, já as pesquisas são mais lentas que o Set.
+
+ArrayList: implementação concreta de List, aceita itens duplicados e seu funcionamento é semelhante a um array convencional, com a principal diferença de ser dinamica, ou seja, pode crescer conforme a necessidade.
+
+Vector: Outra implementação de List, pode ser visto como uma ArrayList, mas os métodos são sincronizados, ou seja, o acesso simultâneo por diversos processos será coordenado, é também mais lento que o ArrayList quando não há acesso simultâneo.
+
+LinkedList: outra implementação de List, mas também implementa Queue, aceitando itens duplicado e sendo organizada. É similar ao ArrayList e ao Vector, mas fornece alguns métodos adicionais para a inserção, remoção e acesso aos elementos no inicio e no final da lista. Possui melhor performance do que o ArrayList e o Vector quando se trata de inserir, remover e acessar elementos no inicio ou no final da lista, mas se for precisar acessar algum elemento pelo índice, a performance é muito inferior, sendo lento para pesquisas.
+
+Queue: é a fila, semelhante à lista, tendo como padrão o aceite duplicado de elementos, normalmente organizado, normalmente utilizado em itens que a ordem é importante, como uma fila de banco.
+
+PriorityQueue: implementação concreta de Queue e não aceita nulos
+
+Map: Um Map é um tipo de coleção que identifica os elementos por chaves, desta forma aceita itens duplicados com chaves diferentes.
+
+HashMap: implementação concreta de Map, aceita itens duplicados com chaves diferentes, não organizado, ou seja, os elementos são percorridos aleatoriamente, não ordenada e aceita nulos.
+
+HashTables: outra implementação de Map, aceita itens duplicados com chaves diferentes, semelhante ao HashMap mas os métodos são sincronizados.
+
+TreeMap é uma outra implementação concreta de Map, também suporta itens duplicados com indices diferentes, é ordenado.
+
+

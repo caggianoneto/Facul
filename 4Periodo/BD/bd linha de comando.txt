@@ -1,0 +1,16 @@
+CREATE DATABASE 
+Consultorio;
+
+USE Consultorio;
+
+
+CREATE TABLE Paciente(
+ID Paciente INTEGER unique not null,
+Dt_Nascimento DATE,
+Nome VARCHAR(50),
+DIversos VARCHAR(50),
+idConvenio INTEGER NOT NULL
+PRIMARY KEY(ID Paciente),
+FOREIGN KEY(ID Convenio) REFERENCES Convenio(ID Convenio));
+
+

@@ -1,0 +1,350 @@
+package model;
+
+import java.sql.Date;
+
+import javax.xml.crypto.Data;
+
+public class Relatorio {
+
+	// Atributos veiculo relatorio
+	private int idVeiculo;
+	private String valor;
+	private String placa;
+	private String renavam;
+	private String comboTipoVeiculo;
+	private float tara; 
+	private float compCapacidadeCarga; 
+	private float larguraCapacidadeCarga; 
+	private float alturaCapacidadeCarga; 
+	private String marcaModelo;
+	private String combustivel;
+	private float pesoMaxCarga; 
+	private int numeroEixos; 
+	private int capacidadeTanqueComb;
+	private int statusVeiculo;
+	private int anoFabricacao;
+	private int vinculoFrota;
+	
+	private int statusRelatorio;
+	
+	// Atributos frotas relatorio
+	
+	private int idFrota;
+	private int qtd_veiculos;
+	private int qtd_veiculos_disponivel;
+	private int entregas_realizadas;
+	private int entrega_em_progresso;
+	private int entrega_nao_finalizada;
+	private int regiao;
+	
+	// Atributos Pedidos
+	
+	private int idPedido;
+	private Date dta_cadastro;
+	private Date dta_entrega;
+	private String statusPedido;
+	private String justificativaPedido;
+	private Float compPedido;
+	private Float altPedido;
+	private Float largPedido;
+	private Float pesoPedido;
+	private int prazoEntregaPedido;
+	
+	// Atributos cliente
+	
+	private String nome_dest;
+	
+	
+	public int getIdVeiculo() {
+		return idVeiculo;
+	}
+
+	public void setIdVeiculo(int idVeiculo) {
+		this.idVeiculo = idVeiculo;
+	}
+
+	
+	public String getValor() {
+		return valor;
+	}
+
+	public void setValor(String valor) {
+		this.valor = valor;
+	}
+
+	public String getPlaca() {
+		return placa;
+	}
+
+	public void setPlaca(String placa) {
+		this.placa = placa;
+	}
+
+	public String getRenavam() {
+		return renavam;
+	}
+
+	public void setRenavam(String renavam) {
+		this.renavam = renavam;
+	}
+
+	public String getComboTipoVeiculo() {
+		return comboTipoVeiculo;
+	}
+
+	public void setComboTipoVeiculo(String comboTipoVeiculo) {
+		this.comboTipoVeiculo = comboTipoVeiculo;
+	}
+
+	public float getTara() {
+		return tara;
+	}
+
+	public void setTara(float tara) {
+		this.tara = tara;
+	}
+
+	public float getCompCapacidadeCarga() {
+		return compCapacidadeCarga;
+	}
+
+	public void setCompCapacidadeCarga(float compCapacidadeCarga) {
+		this.compCapacidadeCarga = compCapacidadeCarga;
+	}
+
+	public float getLarguraCapacidadeCarga() {
+		return larguraCapacidadeCarga;
+	}
+
+	public void setLarguraCapacidadeCarga(float larguraCapacidadeCarga) {
+		this.larguraCapacidadeCarga = larguraCapacidadeCarga;
+	}
+
+	public float getAlturaCapacidadeCarga() {
+		return alturaCapacidadeCarga;
+	}
+
+	public void setAlturaCapacidadeCarga(float alturaCapacidadeCarga) {
+		this.alturaCapacidadeCarga = alturaCapacidadeCarga;
+	}
+
+	public String getMarcaModelo() {
+		return marcaModelo;
+	}
+
+	public void setMarcaModelo(String marcaModelo) {
+		this.marcaModelo = marcaModelo;
+	}
+
+	public String getCombustivel() {
+		return combustivel;
+	}
+
+	public void setCombustivel(String combustivel) {
+		this.combustivel = combustivel;
+	}
+
+	public float getPesoMaxCarga() {
+		return pesoMaxCarga;
+	}
+
+	public void setPesoMaxCarga(float pesoMaxCarga) {
+		this.pesoMaxCarga = pesoMaxCarga;
+	}
+
+	public int getNumeroEixos() {
+		return numeroEixos;
+	}
+
+	public void setNumeroEixos(int numeroEixos) {
+		this.numeroEixos = numeroEixos;
+	}
+
+	public int getCapacidadeTanqueComb() {
+		return capacidadeTanqueComb;
+	}
+
+	public void setCapacidadeTanqueComb(int capacidadeTanqueComb) {
+		this.capacidadeTanqueComb = capacidadeTanqueComb;
+	}
+
+	public int getStatusVeiculo() {
+		return statusVeiculo;
+	}
+
+	public void setStatusVeiculo(int statusVeiculo) {
+		this.statusVeiculo = statusVeiculo;
+	}
+
+	public int getAnoFabricacao() {
+		return anoFabricacao;
+	}
+
+	public void setAnoFabricacao(int anoFabricacao) {
+		this.anoFabricacao = anoFabricacao;
+	}
+
+	public int getVinculoFrota() {
+		return vinculoFrota;
+	}
+
+	public void setVinculoFrota(int vinculoFrota) {
+		this.vinculoFrota = vinculoFrota;
+	}
+
+	public int getIdFrota() {
+		return idFrota;
+	}
+
+	public void setIdFrota(int idFrota) {
+		this.idFrota = idFrota;
+	}
+
+	public int getQtd_veiculos() {
+		return qtd_veiculos;
+	}
+
+	public void setQtd_veiculos(int qtd_veiculos) {
+		this.qtd_veiculos = qtd_veiculos;
+	}
+
+	public int getQtd_veiculos_disponivel() {
+		return qtd_veiculos_disponivel;
+	}
+
+	public void setQtd_veiculos_disponivel(int qtd_veiculos_disponivel) {
+		this.qtd_veiculos_disponivel = qtd_veiculos_disponivel;
+	}
+
+	public int getEntregas_realizadas() {
+		return entregas_realizadas;
+	}
+
+	public void setEntregas_realizadas(int entregas_realizadas) {
+		this.entregas_realizadas = entregas_realizadas;
+	}
+
+	public int getEntrega_em_progresso() {
+		return entrega_em_progresso;
+	}
+
+	public void setEntrega_em_progresso(int entrega_em_progresso) {
+		this.entrega_em_progresso = entrega_em_progresso;
+	}
+
+	public int getEntrega_nao_finalizada() {
+		return entrega_nao_finalizada;
+	}
+
+	public void setEntrega_nao_finalizada(int entrega_nao_finalizada) {
+		this.entrega_nao_finalizada = entrega_nao_finalizada;
+	}
+
+	public int getRegiao() {
+		return regiao;
+	}
+
+	public void setRegiao(int regiao) {
+		this.regiao = regiao;
+	}
+
+	public int getStatusRelatorio() {
+		return statusRelatorio;
+	}
+
+	public void setStatusRelatorio(int statusRelatorio) {
+		this.statusRelatorio = statusRelatorio;
+	}
+
+	public int getIdPedido() {
+		return idPedido;
+	}
+
+	public void setIdPedido(int idPedido) {
+		this.idPedido = idPedido;
+	}
+
+	public Date getDta_cadastro() {
+		return dta_cadastro;
+	}
+
+	public void setDta_cadastro(Date dta_cadastro) {
+		this.dta_cadastro = dta_cadastro;
+	}
+
+	public Date getDta_entrega() {
+		return dta_entrega;
+	}
+
+	public void setDta_entrega(Date dta_entrega) {
+		this.dta_entrega = dta_entrega;
+	}
+
+	public String getStatusPedido() {
+		return statusPedido;
+	}
+
+	public void setStatusPedido(String statusPedido) {
+		this.statusPedido = statusPedido;
+	}
+
+	public String getJustificativaPedido() {
+		return justificativaPedido;
+	}
+
+	public void setJustificativaPedido(String justificativaPedido) {
+		this.justificativaPedido = justificativaPedido;
+	}
+
+	public Float getCompPedido() {
+		return compPedido;
+	}
+
+	public void setCompPedido(Float compPedido) {
+		this.compPedido = compPedido;
+	}
+
+	public Float getAltPedido() {
+		return altPedido;
+	}
+
+	public void setAltPedido(Float altPedido) {
+		this.altPedido = altPedido;
+	}
+
+	public Float getLargPedido() {
+		return largPedido;
+	}
+
+	public void setLargPedido(Float largPedido) {
+		this.largPedido = largPedido;
+	}
+
+	public Float getPesoPedido() {
+		return pesoPedido;
+	}
+
+	public void setPesoPedido(Float pesoPedido) {
+		this.pesoPedido = pesoPedido;
+	}
+
+	public int getPrazoEntregaPedido() {
+		return prazoEntregaPedido;
+	}
+
+	public void setPrazoEntregaPedido(int prazoEntregaPedido) {
+		this.prazoEntregaPedido = prazoEntregaPedido;
+	}
+
+	public String getNome_dest() {
+		return nome_dest;
+	}
+
+	public void setNome_dest(String nome_dest) {
+		this.nome_dest = nome_dest;
+	}
+	
+	
+	
+	
+}

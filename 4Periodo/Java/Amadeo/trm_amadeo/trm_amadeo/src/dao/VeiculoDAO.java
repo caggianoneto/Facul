@@ -1,0 +1,430 @@
+package dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+
+import model.Endereco;
+import model.Frota;
+import model.Veiculo;
+
+public class VeiculoDAO {
+
+	
+	public boolean inclusao(Veiculo t) {
+		
+		Connection conn;
+		
+		PreparedStatement pstm;
+		
+		String query = "INSERT INTO dbo.VEICULO (PLACA, RENAVAM, TIPO, STATUS_VEICULO, TARA, COMP_CAP_CARGA, LARG_CAP_CARGA, ALT_CAP_CARGA, PESO_MAX_CARGA, NUMERO_EIXOS, CAP_TANQUE_COMB, MARCA_MODELO, COMBUSTIVEL, ANO_FAB , VINCULO_FROTA )"+ 
+				        "VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? , ? )";
+		
+		conn = Conexao.getConexao();
+		
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setString(1,  t.getPlaca());
+			pstm.setString(2,  t.getRenavan());
+			pstm.setString(3,  t.getTipo());
+			pstm.setInt   (4,  t.getStatusVeiculo());	
+			pstm.setFloat (5,  t.getTara());
+			pstm.setFloat (6,  t.getCompCapacidadeCarga());
+			pstm.setFloat (7,  t.getLarguraCapacidadeCarga());
+			pstm.setFloat (8,  t.getAlturaCapacidadeCarga());
+			pstm.setFloat (9,  t.getPesoMaxCarga());
+			pstm.setInt   (10,  t.getNumeroEixos());
+			pstm.setInt   (11,  t.getCapacidadeTanqueComb());
+			pstm.setString(12,  t.getMarcaModelo());
+			pstm.setString(13,  t.getCombustivel());
+			pstm.setInt   (14,  t.getAnoFabricacao());
+			pstm.setInt   (15,  0);
+				
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                return true;
+            }else{
+                pstm.close();
+                System.err.println("Erro ao tentar incluir veiculo no banco ");
+                return false;
+            }
+			
+	}catch(Exception f){
+		System.err.println("Erro ao tentar incluir veiculo no banco "+ f);
+		return false;
+	}
+		
+ }
+	
+	public boolean cadastraAsair(Veiculo v){
+		
+		Connection conn;
+		
+		PreparedStatement pstm;
+		
+		String query = "INSERT INTO VEICULOS_A_SAIR (ID_VEICULO, PLACA, MARCA_MODELO, COMP_CAP_CARGA, LARG_CAP_CARGA, ALT_CAP_CARGA, PESO, STATUS_VEICULO ,TIPO )"+ 
+				        "VALUES ( ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+		
+		conn = Conexao.getConexao();
+		
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1,  v.getIdVeiculo());
+			pstm.setString(2,  v.getPlaca());
+			pstm.setString(3,  v.getMarcaModelo());
+			pstm.setFloat(4,  v.getCompCapacidadeCarga());
+			pstm.setFloat(5,  v.getLarguraCapacidadeCarga());
+			pstm.setFloat(6,  v.getAlturaCapacidadeCarga());
+			pstm.setFloat(7,  v.getPesoMaxCarga());
+			pstm.setInt(8,  v.getStatusVeiculo());
+			pstm.setString(9,  v.getTipo());
+			
+				
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                return true;
+            }else{
+                pstm.close();
+                System.err.println("Erro ao tentar incluir veiculo no banco ");
+                return false;
+            }
+			
+	}catch(Exception f){
+		System.err.println("Erro ao tentar incluir veiculo no banco "+ f);
+		return false;
+	}
+		
+		
+  }
+	
+	public Veiculo checaVeiculo(int idVeiculo){
+		
+		Connection conn;
+		PreparedStatement pstm;
+		ResultSet rs;
+		conn = Conexao.getConexao();
+		
+		String query = "SELECT PLACA, MARCA_MODELO, COMP_CAP_CARGA, LARG_CAP_CARGA, ALT_CAP_CARGA, PESO, TIPO FROM VEICULOS_A_SAIR WHERE ID_VEICULO = ? ";	
+		
+		Veiculo veiculo = new Veiculo();
+		veiculo = null;
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1, idVeiculo);
+			
+			rs = pstm.executeQuery();
+			
+			while(rs.next()){
+				veiculo.setPlaca(rs.getString("PLACA"));
+				veiculo.setMarcaModelo(rs.getString("MARCA_MODELO"));
+				veiculo.setCompCapacidadeCarga(rs.getFloat("COMP_CAP_CARGA"));
+				veiculo.setLarguraCapacidadeCarga(rs.getFloat("LARG_CAP_CARGA"));
+				veiculo.setAlturaCapacidadeCarga(rs.getFloat("ALT_CAP_CARGA"));
+				veiculo.setPesoMaxCarga(rs.getFloat("PESO"));
+				veiculo.setTipo(rs.getString("TIPO"));
+				
+			}
+		
+		}catch(Exception e){
+			System.err.println(e);
+			
+		}	
+		
+		return veiculo;	
+		
+	}
+	
+	public boolean atualizaEspacoInternoRestante(Veiculo v){
+		
+		Connection conn;
+		
+		PreparedStatement pstm;
+		
+		String query = "UPDATE VEICULOS_A_SAIR SET COMP_CAP_CARGA = ?, LARG_CAP_CARGA = ?, ALT_CAP_CARGA = ?, PESO = ? WHERE ID_VEICULO = ?";
+		
+		conn = Conexao.getConexao();
+		
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setFloat(1, v.getCompCapacidadeCarga());
+			pstm.setFloat(2,  v.getLarguraCapacidadeCarga());
+			pstm.setFloat(3,  v.getAlturaCapacidadeCarga());
+			pstm.setFloat(4,  v.getPesoMaxCarga());
+			pstm.setInt(5,  v.getIdVeiculo());
+			
+				
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                System.out.println("Update do veiculo placa"+v.getPlaca());
+                return true;
+            }else{
+                pstm.close();
+                return false;
+            }
+			
+	}catch(Exception f){
+		System.err.println("Erro ao dar update em espaço interno do veiculo "+f);
+		return false;
+	}
+		
+	}
+	
+	public boolean iniciaEspacoInternoRestante(Veiculo v){
+		
+		Connection conn;
+		
+		PreparedStatement pstm;
+		
+		String query = "INSERT INTO VEICULOS_A_SAIR (ID_VEICULO, PLACA, MARCA_MODELO, COMP_CAP_CARGA , LARG_CAP_CARGA , ALT_CAP_CARGA , PESO, TIPO)"+
+					   "VALUES (? ,? ,? ,? ,? ,? ,? ,? )";
+		
+		conn = Conexao.getConexao();
+		
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1, v.getIdVeiculo());
+			pstm.setString(2, v.getPlaca());
+			pstm.setString(3, v.getMarcaModelo());
+			pstm.setFloat(4,  v.getCompCapacidadeCarga());
+			pstm.setFloat(5,  v.getLarguraCapacidadeCarga());
+			pstm.setFloat(6,  v.getAlturaCapacidadeCarga());
+			pstm.setFloat(7,  v.getPesoMaxCarga());
+			pstm.setString(8,  v.getTipo());
+		
+				
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                System.out.println("Insert do veiculo placa"+v.getPlaca());
+                return true;
+            }else{
+                pstm.close();
+                return false;
+            }
+			
+	}catch(Exception f){
+		System.err.println("Erro ao tentar incluir veiculo na tabela temporaria (iniciaEspacoInternoRestante) "+f);
+		return false;
+	}
+ }
+
+	public boolean atualizaVeiculosAsair(int idVeiculo){
+		
+		Connection conn;
+		
+		PreparedStatement pstm;
+		
+		String query = "UPDATE VEICULOS_A_SAIR SET DATA_PARTIDA = ? WHERE ID_VEICULO = ?";
+		
+		conn = Conexao.getConexao();
+		
+		try {
+			
+			pstm = conn.prepareStatement(query);
+			
+			 pstm.setDate(1, new java.sql.Date(new java.util.Date().getTime()));
+			 pstm.setInt(2, idVeiculo);
+			
+				
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                return true;
+            }else{
+                pstm.close();
+                return false;
+            }
+			
+	}catch(Exception f){
+		System.err.println("Erro ao dar update data na tabela temporaria "+f);
+		return false;
+	}
+		
+	}
+	
+	public ArrayList<Veiculo> buscaVeiculos(){
+		
+		Connection conn = null;
+		ResultSet rs;
+		Statement stmt;
+		ArrayList<Veiculo> veiculos = null; 
+		
+		try {
+			conn = Conexao.getConexao();
+			stmt = conn.createStatement();
+			
+			rs = stmt.executeQuery("SELECT IDVEICULO, TIPO, PLACA, MARCA_MODELO FROM VEICULO WHERE STATUS_VEICULO = '1' AND VINCULO_FROTA = '0'");
+			
+			veiculos = new ArrayList<Veiculo>();
+			Veiculo veiculo;
+			
+			while ( rs.next() ) {
+				 int idVeiculo      = rs.getInt("IDVEICULO");
+	             String placa       = rs.getString("PLACA");
+	             String tipoVeiculo = rs.getString("TIPO");
+	             String marcaModelo = rs.getString("MARCA_MODELO");
+				 veiculo = new Veiculo(placa, "", tipoVeiculo, marcaModelo, "", 1);
+				 veiculo.setIdVeiculo(idVeiculo);
+				 veiculos.add(veiculo);
+	        }
+			
+	        conn.close();
+		   
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		 return veiculos; 
+		
+	}
+	
+	public ArrayList<Veiculo> buscaVeiculosPelaFrota(int idFrota){
+		
+		Connection conn = null;
+		ResultSet rs;
+		PreparedStatement pstm;
+		ArrayList<Veiculo> veiculos = null;
+		int statusVeiculo = 1;
+		
+		// SELECIONA OS VEICULOS DISPONIVEIS E DA REGIAO INFORMADA
+		String query = "SELECT IDVEICULO, TIPO, PLACA, MARCA_MODELO, COMP_CAP_CARGA, LARG_CAP_CARGA, ALT_CAP_CARGA, PESO_MAX_CARGA FROM VEICULO WHERE STATUS_VEICULO = ? AND VINCULO_FROTA = ? ";
+		
+		try {
+			conn = Conexao.getConexao();
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1, statusVeiculo);
+			pstm.setInt(2, idFrota);
+			
+			rs = pstm.executeQuery();
+			
+			veiculos = new ArrayList<Veiculo>();
+			
+			while ( rs.next() ) {
+				Veiculo veiculo = new Veiculo();
+				veiculo.setIdVeiculo(rs.getInt("IDVEICULO"));
+				veiculo.setPlaca(rs.getString("PLACA"));
+				veiculo.setMarcaModelo(rs.getString("MARCA_MODELO"));
+				veiculo.setCompCapacidadeCarga(rs.getFloat("COMP_CAP_CARGA"));
+				veiculo.setLarguraCapacidadeCarga(rs.getFloat("LARG_CAP_CARGA"));
+				veiculo.setAlturaCapacidadeCarga(rs.getFloat("ALT_CAP_CARGA"));
+				veiculo.setPesoMaxCarga(rs.getFloat("PESO_MAX_CARGA"));
+				veiculo.setVinculoFrota(idFrota);
+				veiculos.add(veiculo);
+	        }
+			
+	        conn.close();
+		   
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		 return veiculos; 
+		
+	}
+	
+	public Veiculo buscaVeiculosPorId(int id){
+		
+		Connection conn = null;
+		ResultSet rs;
+		PreparedStatement pstm;
+		Veiculo veiculo = new Veiculo();
+		
+		// SELECIONA OS VEICULOS DISPONIVEIS E DA REGIAO INFORMADA
+		String query = "SELECT TIPO, PLACA, MARCA_MODELO FROM VEICULO WHERE IDVEICULO = ? ";
+		
+		try {
+			conn = Conexao.getConexao();
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1, id);
+			
+			rs = pstm.executeQuery();
+			
+			while ( rs.next() ) {
+			
+				veiculo.setIdVeiculo(id);
+				veiculo.setTipo(rs.getString("TIPO"));
+				veiculo.setPlaca(rs.getString("PLACA"));
+				veiculo.setMarcaModelo(rs.getString("MARCA_MODELO"));	
+	        }
+			
+	        conn.close();
+		   
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		 return veiculo; 
+		
+	}
+	
+	public int recuperaId(String veiculo){
+		
+		Connection conn = null;
+		ResultSet rs;
+		Statement stmt;
+		int idVeiculo = -1;
+		
+		try {
+			conn = Conexao.getConexao();
+			stmt = conn.createStatement();
+			
+			rs = stmt.executeQuery("SELECT IDVEICULO FROM VEICULO WHERE PLACA LIKE '%" + veiculo + "%' AND VINCULO_FROTA = '0'");
+			
+			while ( rs.next() ) {
+				  idVeiculo      = rs.getInt("IDVEICULO");      
+	        }
+			
+	        conn.close();
+		   
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		return idVeiculo;
+		
+	}
+
+	public boolean alteraStatus(int idVeiculo , int status){
+		
+		Connection conn = null;
+		PreparedStatement pstm;
+		
+		String query = "UPDATE VEICULO SET STATUS_VEICULO = ? WHERE IDVEICULO = ? ";
+		
+		try {
+			conn = Conexao.getConexao();
+			pstm = conn.prepareStatement(query);
+			
+			pstm.setInt(1,  status);
+			pstm.setInt(2,  idVeiculo);
+			
+			if(pstm.executeUpdate() > 0){
+                pstm.close();
+                return true;
+            }else{
+                pstm.close();
+                System.err.println("Erro ao mudar status do veiculo ");
+                return false;
+            }
+			
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+		return false;
+		
+	}
+}
