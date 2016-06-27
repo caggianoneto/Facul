@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html">
+
+<ui:composition template="/template.xhtml">
+	<ui:define name="content">
+		<h:form>
+			<div class="container">
+				<div class="jumbotron">
+
+					<!-- Marketing Icons Section -->
+					<div class="row">
+						<div class="col-lg-12">
+							<h1 class="page-header">Bem vindo(a) a este fantastico teste
+								de Bootstrap e JSF.</h1>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4>
+										<i class="fa fa-fw fa-check"></i> Quadrado 1
+									</h4>
+								</div>
+								<div class="panel-body">
+									<p>Este e o primeiro quadrado.</p>
+									<h:commandLink action="primeira" value="Veja Mais"
+										styleClass="btn btn-error" />
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4>
+										<i class="fa fa-fw fa-gift"></i> Quadrado 2
+									</h4>
+								</div>
+								<div class="panel-body">
+									<p>Este e o segundo quadrado.</p>
+									<h:commandLink value="Veja Mais"
+										styleClass="btn btn-success" />
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h4>
+										<i class="fa fa-fw fa-compass"></i> Quadrado 3
+									</h4>
+								</div>
+								<div class="panel-body">
+									<p>Terceiro e ultimo quadrado.</p>
+									<h:commandLink value="Veja Mais"
+										styleClass="btn btn-default" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /.row -->
+		</h:form>
+	</ui:define>
+</ui:composition>
+</html>

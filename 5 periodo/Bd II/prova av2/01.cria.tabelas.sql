@@ -3,8 +3,9 @@
 /*
 	COMENTÁRIO DE MAIS DE UMA LINHA
 */
+CREATE DATABASE SISTEMACOMERCIAL
 
-USE SISTEMACOMERCIAL
+USE SISTEMACOMERCIA
 
 --===========================================================
 -- TABELA CATEGORIA
