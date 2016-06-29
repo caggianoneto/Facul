@@ -4,20 +4,31 @@
 ALTER TABLE EXEMPLAR ADD CONSTRAINT CHK_T01
  CHECK (SITUACAO = 'L' OR SITUACAO = 'E' OR SITUACAO = 'R' OR SITUACAO = 'M')
  
+ --======================================================================================================
+ --Criar uma trigger para verificar se um exemplar pode ser emprestado, 
+ --se não puder então deve emitir uma mensagem de erro, se puder, então pode deixar emprestá-lo. 
+ --Obs: um exemplar só pode ser emprestado se estiver marcado como situação ‘L’.
  --EXERCICIO 02--
-CREATE TRIGGER TRG_EMPRESTAR
+ALTER TRIGGER TRG_EMPRESTAR
 	ON EXEMPLAR AFTER INSERT, UPDATE
 AS
+--VARIÁVEIS LOCAIS--
+	DECLARE	@SITUACAO CHAR
+	DECLARE @NOVASITU CHAR
+	DECLARE @ID INT
 BEGIN
-	DECLARE
-	@SITUACAO CHAR
-	SELECT @SITUACAO = SITUACAO FROM inserted
+	SELECT @SITUACAO = SITUACAO FROM deleted
+	SELECT @NOVASITU = SITUACAO,
+		   @ID = ID_EXEMPLAR FROM inserted
 	IF (@SITUACAO = 'L')
-	UPDATE EXEMPLAR SET SITUACAO = @SITUACAO
+	UPDATE EXEMPLAR SET SITUACAO = @NOVASITU
 	ELSE
 	ROLLBACK
 END
 GO
+SELECT * FROM EXEMPLAR
+
+UPDATE EXEMPLAR SET SITUACAO = 'L' WHERE ID_EXEMPLAR = 1
 
 --EXERCICIO 03--
 CREATE TRIGGER TRG_DATA_DEV
